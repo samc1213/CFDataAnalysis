@@ -1,577 +1,1 @@
-game,network,time,mediaindicator,
-Boston College at Central Michigan,ESPN2 HD,08/31/2006 18:00,T,
-FAU at Middle Tennessee,ESPN Plus,08/31/2006 19:00,T,
-Northwestern at Miami (OH),ESPNU,08/31/2006 19:30,T,
-Eastern Michigan at Ball St.,Comcast Local,08/31/2006 19:30,T,
-Minnesota at Kent St.,ESPN360,08/31/2006 19:30,W,
-Rhode Island at Connecticut,ESPN Plus,08/31/2006 19:30,T,
-Toledo at Iowa St.,Mediacom-Iowa,08/31/2006 20:00,T,
-South Carolina at Mississippi St.,ESPN HD,08/31/2006 20:00,T,
-SE Louisiana at New Mexico St.,,08/31/2006 21:00,W,
-Sacramento St. at Boise St.,KTVB,08/31/2006 21:00,T,
-UTEP at San Diego St.,CSTV,08/31/2006 22:30,T,
-Nevada at Fresno St.,ESPN HD,09/01/2006 20:00,T,
-North Texas at Texas,FSN,09/02/2006 12:00,T,
-Vanderbilt at Michigan,ESPN HD,09/02/2006 12:00,T,
-Montana at Iowa,ESPNU,09/02/2006 12:00,T,
-Idaho at Michigan St.,ESPN Plus,09/02/2006 12:00,T,
-Western Kentucky at Georgia,Lincoln Financial Sports,09/02/2006 12:30,T,
-Northeastern at Virginia Tech,ESPN360,09/02/2006 13:30,W,
-Rutgers at North Carolina,ABC,09/02/2006 15:30,T,
-FAU at Clemson,ESPNU,09/02/2006 15:30,T,
-Louisiana Tech at Nebraska,FSN,09/02/2006 15:30,T,
-Marshall at West Virginia,ESPN Plus,09/02/2006 15:30,T,
-Northern Illinois at Ohio St.,ABC,09/02/2006 15:30,T,
-Akron at Penn St.,ESPN2 HD,09/02/2006 15:30,T,
-Montana St. at Colorado,,09/02/2006 15:30,W,
-Weber St. at Colorado St.,The mtn.,09/02/2006 17:00,T,
-California at Tennessee,ESPN HD,09/02/2006 17:30,T,
-East Carolina at Navy,CSTV,09/02/2006 17:30,T,
-Richmond at Duke,,09/02/2006 18:00,W,
-Appalachian St. at NC State,,09/02/2006 18:00,W,
-William & Mary at Maryland,ESPN360,09/02/2006 18:00,W,
-Southern Miss at Florida,Sun Sports PPV,09/02/2006 18:00,T,
-Syracuse at Wake Forest,ESPN360,09/02/2006 18:30,W,
-Virginia at Pittsburgh,ESPNU,09/02/2006 19:00,T,
-McNeese St. at USF,ESPN Plus,09/02/2006 19:00,T,
-UAB at Oklahoma,TBS,09/02/2006 19:00,T,
-UT-Martin at Ohio,,09/02/2006 19:00,W,
-Wisconsin vs. Bowling Green<br>(at Cleveland, OH),ESPN Plus,09/02/2006 19:00,T
-Hawai'i at Alabama,Crimson Tide PPV,09/02/2006 19:00,T,
-Washington St. at Auburn,ESPN2 HD,09/02/2006 19:45,T,
-UL-Lafayette at LSU,TigerVision PPV,09/02/2006 20:00,T,
-Notre Dame at Georgia Tech,ABC HD,09/02/2006 20:00,T,
-Portland St. at New Mexico,The mtn.,09/02/2006 20:30,T,
-USC at Arkansas,ESPN HD,09/02/2006 20:45,T,
-Houston at Rice,CSTV,09/02/2006 21:00,T,
-Memphis at Ole Miss,ESPN HD,09/03/2006 16:30,T,
-TCU at Baylor,FSN,09/03/2006 17:30,T,
-Kentucky at Louisville,ESPN HD,09/03/2006 20:00,T,
-Florida St. at Miami (FL),ESPN HD,09/04/2006 20:00,T,
-Oregon St. at Boise St.,ESPN HD,09/07/2006 19:30,T,
-Cincinnati at Pittsburgh,ESPN2 HD,09/08/2006 20:00,T,
-Illinois at Rutgers,ESPN2 HD,09/09/2006 12:00,T,
-Virginia Tech at North Carolina,ESPN HD,09/09/2006 12:00,T,
-Akron at NC State,ESPNU,09/09/2006 12:00,T,
-Duke at Wake Forest,Raycom/LF Sports,09/09/2006 12:00,T,
-Central Michigan at Michigan,ESPN Plus,09/09/2006 12:00,T,
-Ole Miss at Missouri,FSN HD,09/09/2006 12:30,T,
-Auburn at Mississippi St.,Lincoln Financial Sports,09/09/2006 12:30,T,
-Miami (OH) at Purdue,ESPN360,09/09/2006 13:00,W,
-Kent St. at Army,ESPN Classic,09/09/2006 13:00,T,
-Massachusetts at Navy,CSTV,09/09/2006 13:30,T,
-Ohio at Northern Illinois,CSN Chicago,09/09/2006 15:00,T,
-Buffalo at Bowling Green,,09/09/2006 15:00,W,
-Vanderbilt at Arkansas,FSN/SEC TV,09/09/2006 15:30,T,
-Penn St. at Notre Dame,NBC HD,09/09/2006 15:30,T,
-Western Illinois at Wisconsin,ESPNU,09/09/2006 15:30,T,
-Eastern Michigan at Michigan St.,ESPN Plus,09/09/2006 15:30,T,
-Washington at Oklahoma,ABC HD,09/09/2006 15:30,T,
-Iowa at Syracuse,ABC,09/09/2006 15:30,T,
-Clemson at Boston College,ABC,09/09/2006 15:30,T,
-Tulsa at BYU,The mtn.,09/09/2006 16:00,T,
-Hofstra at Marshall,,09/09/2006 16:30,W,
-Colorado vs. Colorado St.<br>(at Denver, CO),CSTV,09/09/2006 17:00,T
-UCF at Florida,Sun Sports PPV,09/09/2006 18:00,T,
-Stanford at San Jose St.,CSN West,09/09/2006 18:00,T,
-Troy at Florida St.,Sun Sports PPV,09/09/2006 18:00,T,
-Indiana at Ball St.,Comcast Local,09/09/2006 18:30,T,
-Arizona at LSU,ESPN2 HD,09/09/2006 18:30,T,
-Air Force at LSU,CSS PPV,09/09/2006 19:00,T,
-Toledo at Western Michigan,,09/09/2006 19:00,W,
-UC-Davis at TCU,,09/09/2006 19:00,W,
-Oklahoma St. vs. Arkansas St.<br>(at Little Rock, AR),ESPNU,09/09/2006 19:00,T
-East Carolina at UAB,,09/09/2006 19:00,W,
-Tulane at Houston,,09/09/2006 19:00,W,
-Florida A&M at Miami (FL),ESPN360,09/09/2006 19:00,W,
-FIU at USF,ESPN360,09/09/2006 19:00,W,
-Georgia at South Carolina,ESPN HD,09/09/2006 19:45,T,
-Northern Arizona at Utah,The mtn.,09/09/2006 20:00,T,
-Ohio St. at Texas,ABC HD,09/09/2006 20:00,T,
-Texas Tech at UTEP,CSTV,09/09/2006 21:00,T,
-Oregon at Fresno St.,ESPN2 HD,09/09/2006 22:00,T,
-Tennessee Tech at Middle Tennessee,ESPNU,09/14/2006 19:00,T,
-Maryland at West Virginia,ESPN HD,09/14/2006 19:30,T,
-Kansas at Toledo,ESPN2 HD,09/15/2006 20:00,T,
-Michigan St. at Pittsburgh,ABC,09/16/2006 12:00,T,
-Wake Forest at Connecticut,ESPN360,09/16/2006 12:00,W,
-BYU at Boston College,ESPN2 HD,09/16/2006 12:00,T,
-Duke at Virginia Tech,Raycom/LF Sports,09/16/2006 12:00,T,
-Iowa St. at Iowa,ESPN HD,09/16/2006 12:00,T,
-Syracuse at Illinois,ESPNU,09/16/2006 12:00,T,
-Cincinnati at Ohio St.,ESPN Plus,09/16/2006 12:00,T,
-Marshall at Kansas St.,FSN,09/16/2006 12:30,T,
-Arkansas at Vanderbilt,Lincoln Financial Sports,09/16/2006 12:30,T,
-UAB at Georgia,CSS PPV,09/16/2006 13:00,T,
-Akron at Central Michigan,Comcast Local,09/16/2006 13:00,T,
-Ball St. at Purdue,ESPN360,09/16/2006 13:00,W,
-Kent St. at Miami (OH),FSN Ohio,09/16/2006 14:00,T,
-USF at UCF,CSTV,09/16/2006 14:30,T,
-Youngstown St. at Penn St.,ESPNU,09/16/2006 15:30,T,
-San Diego St. at Wisconsin,ESPN Plus,09/16/2006 15:30,T,
-Michigan at Notre Dame,NBC HD,09/16/2006 15:30,T,
-Western Michigan at Virginia,ESPN360,09/16/2006 15:30,W,
-Miami (FL) at Louisville,ABC HD,09/16/2006 15:30,T,
-Ohio at Rutgers,ESPN Plus,09/16/2006 15:30,T,
-Boise St. at Wyoming,The mtn.,09/16/2006 15:30,T,
-LSU at Auburn,CBS HD,09/16/2006 15:30,T,
-Idaho St. at Idaho,Vandal Sports,09/16/2006 17:00,T,
-Texas Tech at TCU,OLN,09/16/2006 17:30,T,
-Ole Miss at Kentucky,ESPN Plus PPV,09/16/2006 18:00,T,
-Texas vs. Rice<br>(at Reliant Stadium),ESPN2 HD,09/16/2006 18:00,T,
-NC State at Southern Miss,,09/16/2006 19:00,W,
-North Texas at Tulsa,,09/16/2006 19:00,W,
-Memphis at East Carolina,,09/16/2006 19:00,W,
-Grambling at Houston,,09/16/2006 19:00,W,
-Arizona St. at Colorado,TBS,09/16/2006 19:00,T,
-Furman at North Carolina,ESPNU,09/16/2006 19:00,T,
-UL-Monroe at Alabama,Crimson Tide PPV,09/16/2006 19:00,T,
-Wofford at South Carolina,ESPN Plus PPV,09/16/2006 19:00,T,
-Nicholls St. at Louisiana Tech,ESPN Plus,09/16/2006 19:00,T,
-Buffalo at Northern Illinois,CSN Chicago,09/16/2006 19:30,T,
-Clemson at Florida St.,ESPN HD,09/16/2006 19:45,T,
-Sam Houston St. at SMU,,09/16/2006 20:00,W,
-Missouri at New Mexico,The mtn.,09/16/2006 20:00,T,
-Florida at Tennessee,CBS HD,09/16/2006 20:00,T,
-Utah at Utah St.,KJZZ,09/16/2006 20:00,T,
-Texas Southern at New Mexico St.,,09/16/2006 20:00,W,
-Colorado St. at Nevada,,09/16/2006 21:00,W,
-Texas A&M vs. Army<br>(at San Antonio, TX),ESPN2 HD,09/16/2006 21:15,T
-UNLV at Hawai'i,Oceanic PPV,09/16/2006 23:59,T,
-Virginia at Georgia Tech,ESPN HD,09/21/2006 19:30,T,
-Northwestern at Nevada,ESPN2 HD,09/22/2006 20:00,T,
-Cincinnati at Virginia Tech,ESPNU,09/23/2006 12:00,T,
-North Carolina at Clemson,Raycom/LF Sports,09/23/2006 12:00,T,
-Louisville at Kansas St.,FSN HD,09/23/2006 12:00,T,
-Wisconsin at Michigan,ESPN HD,09/23/2006 12:00,T,
-Minnesota at Purdue,ESPN2 HD,09/23/2006 12:00,T,
-Iowa at Illinois,ESPN Plus,09/23/2006 12:00,T,
-Colorado at Georgia,Lincoln Financial Sports,09/23/2006 12:30,T,
-Kent St. at Bowling Green,,09/23/2006 13:00,W,
-Tulsa at Navy,CSTV,09/23/2006 13:30,T,
-The Citadel at Pittsburgh,ESPN360,09/23/2006 13:30,W,
-Howard at Rutgers,ESPN Plus,09/23/2006 14:00,T,
-Indiana St. at Northern Illinois,CSN Chicago,09/23/2006 15:00,T,
-Utah St. at BYU,The mtn.,09/23/2006 15:00,T,
-Central Michigan at Eastern Michigan,Comcast Local,09/23/2006 15:30,T,
-Alabama at Arkansas,CBS HD,09/23/2006 15:30,T,
-Iowa St. at Texas,ABC,09/23/2006 15:30,T,
-Rice at Florida St.,ESPNU,09/23/2006 15:30,T,
-Penn St. at Ohio St.,ABC HD,09/23/2006 15:30,T,
-Connecticut at Indiana,ESPN Plus,09/23/2006 15:30,T,
-Marshall at Tennessee,CSS PPV<br>WOWK,09/23/2006 16:00,T,
-West Virginia at East Carolina,ESPN2 HD,09/23/2006 16:30,T,
-UTEP at New Mexico,CSTV,09/23/2006 17:00,T,
-North Texas at Akron,,09/23/2006 18:00,W,
-Cal-Poly at San Jose St.,,09/23/2006 18:00,W,
-FIU at Maryland,ESPN360,09/23/2006 18:00,W,
-North Dakota St. at Ball St.,,09/23/2006 18:30,W,
-Temple at Western Michigan,,09/23/2006 19:00,W,
-McNeese St. at Toledo,,09/23/2006 19:00,W,
-FAU at South Carolina,ESPN Plus PPV,09/23/2006 19:00,T,
-USF at Kansas,FSN,09/23/2006 19:00,T,
-Troy at Nebraska,FSN PPV,09/23/2006 19:00,T,
-Middle Tennessee at Oklahoma,FSN PPV,09/23/2006 19:00,T,
-Miami (OH) at Syracuse,ESPNU,09/23/2006 19:00,T,
-Kentucky at Florida,ESPN HD,09/23/2006 19:45,T,
-Tulane at LSU,TigerVision PPV,09/23/2006 20:00,T,
-Utah at San Diego St.,The mtn.,09/23/2006 20:00,T,
-Hawai'i at Boise St.,KTVB,09/23/2006 20:00,T,
-Boston College at NC State,ESPN2 HD,09/23/2006 20:00,T,
-Notre Dame at Michigan St.,ABC HD,09/23/2006 20:00,T,
-Arkansas St. at SMU,,09/23/2006 20:00,W,
-Oklahoma St. at Houston,CSTV,09/23/2006 21:00,T,
-Southern Miss at UCF,ESPN2 HD,09/26/2006 19:30,T,
-BYU at TCU,Versus,09/28/2006 18:00,T,
-Auburn at South Carolina,ESPN HD,09/28/2006 19:30,T,
-Rutgers at USF,ESPN2 HD,09/29/2006 20:00,T,
-Toledo at Pittsburgh,ESPNU,09/30/2006 12:00,T,
-Navy at Connecticut,ESPN Plus,09/30/2006 12:00,T,
-Virginia at Duke,Raycom/LF Sports,09/30/2006 12:00,T,
-Tennessee at Memphis,ESPN HD,09/30/2006 12:00,T,
-Wisconsin at Indiana,ESPN2 HD,09/30/2006 12:00,T,
-Illinois at Michigan St.,ESPN Plus,09/30/2006 12:00,T,
-Colorado at Missouri,FSN,09/30/2006 12:30,T,
-Mississippi St. at LSU,Lincoln Financial Sports,09/30/2006 12:30,T,
-Maine at Boston College,ESPN360,09/30/2006 13:00,W,
-Wyoming at Syracuse,ESPN360,09/30/2006 13:30,W,
-New Mexico at Air Force,The mtn.,09/30/2006 14:00,T,
-Akron at Kent St.,MAC TV,09/30/2006 14:00,T,
-Bowling Green at Ohio,,09/30/2006 14:00,W,
-Purdue at Notre Dame,NBC HD,09/30/2006 14:30,T,
-Boise St. at Utah,Versus,09/30/2006 15:00,T,
-Idaho at Utah St.,Vandals Sports,09/30/2006 15:00,T,
-Alabama at Florida,CBS HD,09/30/2006 15:30,T,
-Rice at Army,ESPNU,09/30/2006 15:30,T,
-Northwestern at Penn St.,ABC,09/30/2006 15:30,T,
-Texas Tech at Texas A&M,ABC,09/30/2006 15:30,T,
-Liberty at Wake Forest,ESPN360,09/30/2006 15:30,W,
-Georgia Tech at Virginia Tech,ABC HD,09/30/2006 15:30,T,
-Houston at Miami (FL),ESPN2 HD,09/30/2006 18:00,T,
-Northern Illinois at Ball St.,Comcast Local,09/30/2006 18:30,T,
-Middle Tennessee at North Texas,ESPN Plus,09/30/2006 19:00,T,
-FAU at UL-Monroe,CSS,09/30/2006 19:00,T,
-Louisiana Tech at Clemson,ESPNU,09/30/2006 19:00,T,
-Kansas at Nebraska,FSN,09/30/2006 19:00,T,
-Sam Houston St. at Texas,FSN PPV,09/30/2006 19:00,T,
-SMU at Tulane,CSTV,09/30/2006 19:30,T,
-Ohio St. at Iowa,ABC HD,09/30/2006 20:00,T,
-Michigan at Minnesota,ESPN HD,09/30/2006 20:00,T,
-New Mexico St. at UTEP,,09/30/2006 21:00,W,
-Georgia at Ole Miss,ESPN2 HD,09/30/2006 21:00,T,
-Nevada at UNLV,The mtn.,09/30/2006 22:00,T,
-Colorado St. at Fresno St.,KFRE,09/30/2006 22:00,T,
-Eastern Illinois at Hawai'i,Oceanic PPV,09/30/2006 23:59,T,
-Southern Miss at Tulsa,ESPN2 HD,10/03/2006 19:30,T,
-UCF at Marshall,ESPN2 HD,10/04/2006 19:30,T,
-Florida St. at NC State,ESPN HD,10/05/2006 19:30,T,
-TCU at Utah,Versus,10/05/2006 21:00,T,
-Louisville vs. Middle Tennessee<br>(at Nashville, TN),ESPN2 HD,10/06/2006 20:00,T
-Western Michigan at Ohio,MAC TV,10/07/2006 12:00,T,
-Arkansas at Auburn,CBS,10/07/2006 12:00,T,
-Clemson at Wake Forest,ESPN HD,10/07/2006 12:00,T,
-North Carolina at Miami (FL),Raycom/LF Sports,10/07/2006 12:00,T,
-Texas A&M at Kansas,FSN,10/07/2006 12:00,T,
-Pittsburgh at Syracuse,ESPN Plus,10/07/2006 12:00,T,
-Purdue at Iowa,ESPNU,10/07/2006 12:00,T,
-Penn St. at Minnesota,ESPN Plus,10/07/2006 12:00,T,
-Indiana at Illinois,ESPN Plus,10/07/2006 12:00,T,
-Northwestern at Wisconsin,ESPN360,10/07/2006 12:00,W,
-VMI at Army,ESPN Classic,10/07/2006 13:00,T,
-Rice at Tulane,,10/07/2006 14:00,W,
-Buffalo at Ohio,,10/07/2006 14:00,W,
-Western Michigan at Ball St.,,10/07/2006 14:00,W,
-Navy at Air Force,CSTV,10/07/2006 14:00,T,
-San Diego St. at BYU,The mtn.,10/07/2006 14:00,T,
-West Virginia at Mississippi St.,CSS PPV,10/07/2006 14:30,T,
-Stanford at Notre Dame,NBC HD,10/07/2006 14:30,T,
-Bowling Green at Ohio St.,ESPN Plus,10/07/2006 15:30,T,
-Akron at Cincinnati,ESPN360,10/07/2006 15:30,W,
-Oklahoma vs. Texas<br>(at Dallas, TX),ABC HD,10/07/2006 15:30,T
-Maryland at Georgia Tech,ESPNU,10/07/2006 15:30,T,
-LSU at Florida,CBS HD,10/07/2006 15:30,T,
-Michigan St. at Michigan,ESPN HD,10/07/2006 16:30,T,
-New Mexico St. at Idaho,AggieVision,10/07/2006 17:00,T,
-UNLV at Colorado St.,The mtn.,10/07/2006 17:30,T,
-Virginia at East Carolina,CSTV,10/07/2006 18:00,T,
-UL-Lafayette at Houston,,10/07/2006 19:00,W,
-Connecticut at USF,ESPN Plus,10/07/2006 19:00,T,
-Central Michigan at Toledo,ESPNU,10/07/2006 19:00,T,
-South Carolina at Kentucky,ESPN2 HD,10/07/2006 19:00,T,
-Duke at Alabama,Crimson Tide PPV,10/07/2006 19:00,T,
-FIU at North Texas,CSS,10/07/2006 19:00,T,
-UL-Monroe at Arkansas St.,ESPN Plus,10/07/2006 19:00,T,
-Tennessee at Georgia,ESPN HD,10/07/2006 19:45,T,
-Wyoming at New Mexico,,10/07/2006 20:00,W,
-Louisiana Tech at Boise St.,KTVB,10/07/2006 20:00,T,
-Fresno St. at Utah St.,KFRE<br>KJZZ,10/07/2006 20:00,T,
-Nebraska at Iowa St.,ABC HD,10/07/2006 20:00,T,
-SMU at UTEP,,10/07/2006 21:00,W,
-Nevada at Hawai'i,Oceanic PPV<br>KREN,10/07/2006 23:59,T,
-Northern Illinois at Miami (OH),ESPN HD,10/08/2006 20:00,T,
-Clemson vs. Temple<br>(at Charlotte, NC),ESPNU,10/12/2006 19:30,T
-Virginia Tech at Boston College,ESPN HD,10/12/2006 19:30,T,
-Colorado St. at Air Force,The mtn.,10/12/2006 20:00,T,
-Pittsburgh at UCF,ESPN HD,10/13/2006 20:00,T,
-Minnesota at Wisconsin,ESPN HD,10/14/2006 12:00,T,
-Iowa at Indiana,ESPN2 HD,10/14/2006 12:00,T,
-Purdue at Northwestern,ESPN Plus,10/14/2006 12:00,T,
-USF at North Carolina,ESPNU,10/14/2006 12:00,T,
-Wake Forest at NC State,Raycom/LF Sports,10/14/2006 12:00,T,
-Syracuse at West Virginia,ESPN Plus,10/14/2006 12:00,T,
-Iowa St. at Oklahoma,FSN HD,10/14/2006 12:30,T,
-Vanderbilt at Georgia,Lincoln Financial Sports,10/14/2006 12:30,T,
-Rutgers at Navy,CSTV,10/14/2006 13:30,T,
-Northern Illinois at Western Michigan,MAC TV,10/14/2006 14:00,T,
-Utah at Wyoming,The mtn.,10/14/2006 15:00,T,
-Tulsa at East Carolina,,10/14/2006 15:00,W,
-Ohio St. at Michigan St.,ABC HD,10/14/2006 15:30,T,
-Missouri at Texas A&M,ABC,10/14/2006 15:30,T,
-Cincinnati at Louisville,ESPNU,10/14/2006 15:30,T,
-Maryland at Virginia,ESPN360,10/14/2006 15:30,W,
-Ole Miss at Alabama,CBS HD,10/14/2006 15:30,T,
-Eastern Michigan,BCSN,10/14/2006 16:00,T,
-Toledo at Kent St.,,10/14/2006 16:00,W,
-UL-Monroe at Troy,ESPN Plus,10/14/2006 16:00,T,
-Hawai'i at Fresno St.,KFRE<br>KFVE,10/14/2006 17:00,T,
-Utah St. at San Jose St.,,10/14/2006 18:00,W,
-Idaho at Louisiana Tech,,10/14/2006 19:00,W,
-FIU at Miami (FL),CSS Replay Feed,10/14/2006 19:00,T,
-Baylor at Texas,TBS,10/14/2006 19:00,T,
-Nebraska at Kansas St.,FSN PPV,10/14/2006 19:00,T,
-Ohio at Illinois,ESPN360,10/14/2006 19:00,W,
-Houston at Southern Miss,,10/14/2006 19:00,W,
-UAB at Rice,CSTV,10/14/2006 19:30,T,
-Florida at Auburn,ESPN HD,10/14/2006 19:45,T,
-Kentucky at LSU,,10/14/2006 20:00,W,
-New Mexico at UNLV,The mtn.,10/14/2006 20:00,T,
-Michigan at Penn St.,ABC HD,10/14/2006 20:00,T,
-Tulane at UTEP,,10/14/2006 21:00,W,
-Boise St. at New Mexico St.,ESPN HD,10/15/2006 20:00,T,
-UL-Lafayette at FAU,ESPN2 HD,10/18/2006 19:30,T,
-Bowling Green at Central Michigan,ESPNU,10/19/2006 19:30,T,
-North Carolina at Virginia,ESPN HD,10/19/2006 19:30,T,
-Utah at New Mexico,The mtn.,10/19/2006 21:00,T,
-West Virginia at Connecticut,ESPN HD,10/20/2006 20:00,T,
-Louisville at Syracuse,ESPN Plus,10/21/2006 12:00,T,
-Texas at Nebraska,ABC HD,10/21/2006 12:00,T,
-NC State at Maryland,Raycom/LF Sports,10/21/2006 12:00,T,
-Wisconsin at Purdue,ESPN HD,10/21/2006 12:00,T,
-Illinois at Penn St.,ESPN2 HD,10/21/2006 12:00,T,
-Indiana at Ohio St.,ESPNU,10/21/2006 12:00,T,
-Michigan St. at Northwestern,ESPN Plus,10/21/2006 12:00,T,
-Ole Miss at Arkansas,Lincoln Financial Sports,10/21/2006 12:30,T,
-Miami (FL) at Duke,ESPN360,10/21/2006 13:00,W,
-Western Michigan at Ball St.,Comcast Local,10/21/2006 14:00,T,
-Buffalo at Ohio,,10/21/2006 14:00,W,
-Western Michigan at Ball St.,,10/21/2006 14:00,W,
-UCLA at Notre Dame,NBC HD,10/21/2006 14:30,T,
-SMU at East Carolina,,10/21/2006 15:00,W,
-Toledo at Eastern Michigan,MAC TV,10/21/2006 15:00,T,
-Temple at Northern Illinois,CSN Chicago,10/21/2006 15:00,T,
-UNLV at BYU,The mtn.,10/21/2006 15:00,T,
-South Carolina at Vanderbilt,ESPN Plus PPV,10/21/2006 15:00,T,
-Alabama at Tennessee,CBS HD,10/21/2006 15:30,T,
-TCU at Army,ESPNU,10/21/2006 15:30,T,
-Iowa at Michigan,ABC HD,10/21/2006 15:30,T,
-North Dakota St. at Minnesota,ESPN Plus,10/21/2006 15:30,T,
-Boston College at Florida St.,ABC,10/21/2006 15:30,T,
-Colorado St. at Wyoming,CSTV,10/21/2006 16:00,T,
-Boise St. at Idaho,KTVB,10/21/2006 17:00,T,
-Rutgers at Pittsburgh,ESPN2 HD,10/21/2006 17:45,T,
-Miami (OH) at Akron,ESPN360,10/21/2006 18:00,W,
-San Jose St. at Nevada,ABC,10/21/2006 19:00,T,
-Utah St. at Louisiana Tech,ESPN Plus,10/21/2006 19:00,T,
-North Texas at Arkansas St.,ESPN Plus,10/21/2006 19:00,T,
-Colorado at Oklahoma,FSN,10/21/2006 19:00,T,
-Southern Miss at Virginia Tech,ESPNU,10/21/2006 19:00,T,
-Marshall at UAB,WOWK,10/21/2006 19:00,T,
-Georgia Tech at Clemson,ESPN HD,10/21/2006 19:45,T,
-Tulsa at Memphis,CSTV,10/21/2006 20:00,T,
-Houston at UTEP,Time Warner-El Paso,10/21/2006 20:00,T,
-Hawai'i at New Mexico St.,Oceanic PPV,10/21/2006 20:00,T,
-Air Force at San Diego St.,The mtn.,10/21/2006 20:00,T,
-Fresno St. at LSU,ESPN2 HD,10/21/2006 21:00,T,
-USF at Cincinnati,ESPN HD,10/22/2006 20:00,T,
-Clemson at Virginia Tech,ESPN HD,10/26/2006 19:30,T,
-UTEP at Tulsa,ESPN2 HD,10/27/2006 20:00,T,
-Notre Dame vs. Navy<br>(at Baltimore, MD),CBS,10/28/2006 12:00,T
-Penn St. at Purdue,ABC,10/28/2006 12:00,T,
-Northwestern at Michigan,ESPN HD,10/28/2006 12:00,T,
-Illinois at Wisconsin,ESPN2 HD,10/28/2006 12:00,T,
-Northern Illinois at Iowa,ESPNU,10/28/2006 12:00,T,
-Michigan St. at Iowa,ESPN Plus,10/28/2006 12:00,T,
-NC State at Virginia,Raycom/LF Sports,10/28/2006 12:00,T,
-Syracuse at Cincinnati,ESPN Plus,10/28/2006 12:00,T,
-Oklahoma at Missouri,ABC HD,10/28/2006 12:00,T,
-Auburn at Ole Miss,Lincoln Financial Sports,10/28/2006 12:30,T,
-Buffalo at Boston College,ESPN360,10/28/2006 13:00,W,
-Navy at Tulane,,10/28/2006 14:00,W,
-BYU at Air Force,Versus,10/28/2006 14:00,T,
-Ohio at Kent St.,MAC TV,10/28/2006 14:00,T,
-Ball St. at Miami (OH),ONN,10/28/2006 14:00,T,
-FIU at Alabama,Crimson Tide PPV,10/28/2006 15:00,T,
-Florida vs. Georgia<br>(at Jacksonville, FL),CBS HD,10/28/2006 15:30,T
-Eastern Michigan at Western Michigan,Comcast Local,10/28/2006 15:30,T,
-North Texas at Troy,ESPN Plus,10/28/2006 15:30,T,
-UCF at Houston,CSTV,10/28/2006 15:30,T,
-Minnesota at Ohio St.,ABC,10/28/2006 15:30,T,
-Miami (FL) at Georgia Tech,ABC HD,10/28/2006 15:30,T,
-Wake Forest at North Carolina,ESPNU,10/28/2006 15:30,T,
-Nebraska at Oklahoma St.,ABC,10/28/2006 15:30,T,
-New Mexico St. at Nevada,AggieVision,10/28/2006 16:00,T,
-Louisiana Tech at San Jose St.,,10/28/2006 16:00,W,
-UNLV at Utah,The mtn.,10/28/2006 16:00,T,
-Memphis at Marshall,WOWK,10/28/2006 16:30,T,
-New Mexico at Colorado St.,,10/28/2006 17:30,W,
-Akron at Toledo,ESPN360,10/28/2006 19:00,W,
-Arkansas vs. UL-Monroe<br>(at Little Rock, AR),ESPNU,10/28/2006 19:00,T
-Texas at Texas Tech,TBS,10/28/2006 19:00,T,
-Florida St. at Maryland,ESPN2 HD,10/28/2006 19:00,T,
-East Carolina at Southern Miss,CSTV,10/28/2006 19:30,T,
-Wyoming at TCU,The mtn.,10/28/2006 19:30,T,
-Tennessee at South Carolina,ESPN HD,10/28/2006 19:45,T,
-Idaho at Hawai'i,Oceanic PPV<br>Vandal Sports,10/28/2006 23:59,T,
-Connecticut at Rutgers,ESPN HD,10/29/2006 20:00,T,
-UAB at SMU,ESPN2 HD,10/31/2006 19:30,T,
-Fresno St. at Boise St.,ESPN2 HD,11/01/2006 20:00,T,
-West Virginia at Louisville,ESPN HD,11/02/2006 19:30,T,
-Air Force at Army,ESPN2 HD,11/03/2006 20:00,T,
-Penn St. at Wisconsin,ABC HD,11/04/2006 12:00,T,
-Ball St. at Michigan,ESPNU,11/04/2006 12:00,T,
-Northwestern at Iowa,ESPN Plus,11/04/2006 12:00,T,
-Indiana at Wisconsin,ESPN360,11/04/2006 12:00,W,
-Pittsburgh at USF,ESPN Plus,11/04/2006 12:00,T,
-Missouri at Nebraska,ABC,11/04/2006 12:00,T,
-Baylor at Texas Tech,FSN,11/04/2006 12:00,T,
-Maryland at Clemson,ESPN2 HD,11/04/2006 12:00,T,
-Virginia at Florida St.,Raycom/LF Sports,11/04/2006 12:00,T,
-Florida at Vanderbilt,Lincoln Financial Sports,11/04/2006 12:30,T,
-Mississippi St. at Alabama,Lincoln Financial Sports,11/04/2006 12:30,T,
-Bowling Green at Akron,,11/04/2006 13:00,W,
-Ohio at Eastern Michigan,,11/04/2006 13:00,W,
-Kent St. at Buffalo,,11/04/2006 13:00,W,
-Arkansas St. at Auburn,CSS PPV,11/04/2006 14:30,T,
-North Carolina at Notre Dame,NBC HD,11/04/2006 14:30,T,
-TCU at UNLV,Versus,11/04/2006 15:00,T,
-San Diego St. at Wyoming,The mtn.,11/04/2006 15:00,T,
-Hawai'i at Utah St.,ESPN Plus,11/04/2006 15:00,T,
-San Jose St. at New Mexico St.,,11/04/2006 15:30,W,
-FAU at Middle Tennessee,CSS,11/04/2006 15:30,T,
-LSU at Tennessee,CBS HD,11/04/2006 15:30,T,
-Miami (OH) at Western Michigan,Comcast Local,11/04/2006 15:30,T,
-Tulsa at Houston,CSTV,11/04/2006 15:30,T,
-Ohio St. at Illinois,ESPN2 HD,11/04/2006 15:30,T,
-Purdue at Michigan St.,ESPNU,11/04/2006 15:30,T,
-Kansas St. at Colorado,FSN,11/04/2006 15:30,T,
-East Carolina at UCF,WITN,11/04/2006 16:00,T,
-UL-Lafayette at Troy,ESPN Plus,11/04/2006 16:00,T,
-Nevada at Idaho,KREN,11/04/2006 17:00,T,
-BYU at Colorado St.,The mtn.,11/04/2006 18:30,T,
-Oklahoma St. at Texas,TBS,11/04/2006 19:00,T,
-Boston College at Wake Forest,ESPN2 HD,11/04/2006 19:00,T,
-Georgia Tech at NC State,ESPNU,11/04/2006 19:00,T,
-Tulane at Marshall,CSTV,11/04/2006 19:30,T,
-Arkansas at South Carolina,ESPN HD,11/04/2006 19:45,T,
-Rice at UTEP,Time Warner-El Paso,11/04/2006 20:00,T,
-Virginia Tech at Miami (FL),ABC,11/04/2006 20:00,T,
-Oklahoma at Texas A&M,ABC HD,11/04/2006 20:00,T,
-Southern Miss at Memphis,ESPN HD,11/05/2006 20:00,T,
-Toledo at Northern Illinois,ESPN2 HD,11/07/2006 19:30,T,
-Buffalo at Akron,ESPNU,11/09/2006 18:00,T,
-Louisville at Rutgers,ESPN HD,11/09/2006 19:30,T,
-Wyoming at BYU,CSTV,11/09/2006 20:00,T,
-Western Michigan at Central Michigan,Comcast Local,11/10/2006 19:00,T,
-UTEP at UAB,ESPN2 HD,11/10/2006 20:00,T,
-Wisconsin at Iowa,ESPN HD,11/11/2006 12:00,T,
-Minnesota at Michigan St.,ESPNU,11/11/2006 12:00,T,
-Purdue at Illinois,ESPN Plus,11/11/2006 12:00,T,
-Cincinnati at West Virginia,ESPN2 HD,11/11/2006 12:00,T,
-Syracuse at USF,ESPN Plus,11/11/2006 12:00,T,
-Georgia Tech at North Carolina,Raycom/LF Sports,11/11/2006 12:00,T,
-NC State at Clemson,Raycom/LF Sports,11/11/2006 12:00,T,
-Baylor at Oklahoma St.,FSN,11/11/2006 12:30,T,
-Georgia at Auburn,Lincoln Financial Sports,11/11/2006 12:30,T,
-Navy vs. Eastern Michigan<br>(at Detroit, MI),Comcast Local,11/11/2006 13:00,T
-Marshall at East Carolina,WOWK<br>WITN,11/11/2006 13:00,T,
-Southern Miss at Tulane,,11/11/2006 14:00,W,
-Colorado St. at Utah,Versus,11/11/2006 14:00,T,
-Houston at SMU,,11/11/2006 15:00,W,
-Rice at Tulsa,,11/11/2006 15:00,W,
-Ohio St. at Northwestern,ABC HD,11/11/2006 15:30,T,
-Michigan at Indiana,ESPN HD,11/11/2006 15:30,T,
-Temple at Penn St.,ESPN Plus,11/11/2006 15:30,T,
-Nebraska at Texas A&M,ABC,11/11/2006 15:30,T,
-Pittsburgh at Connecticut,ESPN Plus,11/11/2006 15:30,T,
-Miami (FL) at Maryland,ABC,11/11/2006 15:30,T,
-Kent St. at Virginia Tech,ESPNU,11/11/2006 15:30,T,
-South Carolina at Florida,CBS HD,11/11/2006 15:30,T,
-Notre Dame at Air Force,CSTV,11/11/2006 16:00,T,
-Utah St. at Nevada,,11/11/2006 16:00,W,
-New Mexico St. at Fresno St.,,11/11/2006 17:00,W,
-TCU at New Mexico,The mtn.,11/11/2006 17:30,T,
-Boise St. at San Jose St.,KTVB,11/11/2006 18:00,T,
-UL-Monroe at FIU,ESPN Plus,11/11/2006 19:00,T,
-Tennessee at Arkansas,ESPN2 HD,11/11/2006 19:00,T,
-Duke at Boston College,ESPNU,11/11/2006 19:00,T,
-Texas Tech at Oklahoma,FSN,11/11/2006 19:00,T,
-Alabama at LSU,ESPN HD,11/11/2006 19:45,T,
-Texas at Kansas St.,ABC HD,11/11/2006 20:00,T,
-Wake Forest at Florida St.,ABC HD,11/11/2006 20:00,T,
-UCF at Memphis,CSTV,11/11/2006 20:00,T,
-UNLV at San Diego St.,The mtn.,11/11/2006 21:00,T,
-Louisiana Tech at Hawai'i,Oceanic PPV,11/11/2006 23:00,T,
-Ball St. at Toledo,ESPN2 HD,11/14/2006 19:30,T,
-Miami (OH) at Bowling Green,ESPN2 HD,11/15/2006 19:30,T,
-Akron at Ohio,ESPNU,11/16/2006 19:30,T,
-West Virginia at Pittsburgh,ESPN HD,11/16/2006 19:30,T,
-Eastern Michigan at Kent St.,,11/17/2006 18:00,W,
-Central Michigan at Northern Illinois,ESPNU,11/17/2006 20:00,T,
-Western Carolina at Florida,Sun Sports PPV,11/18/2006 12:00,T,
-Connecticut at Syracuse,ESPN Plus,11/18/2006 12:00,T,
-Oklahoma at Baylor,FSN HD,11/18/2006 12:00,T,
-Maryland at Boston College,ESPN HD,11/18/2006 12:00,T,
-Miami (FL) at Virginia,Raycom/LF Sports,11/18/2006 12:00,T,
-NC State at North Carolina,Raycom/LF Sports,11/18/2006 12:00,T,
-Illinois at Northwestern,ESPN360,11/18/2006 12:00,W,
-Michigan St. at Penn St.,ESPN2 HD,11/18/2006 12:00,T,
-Indiana at Purdue,ESPN Classic,11/18/2006 12:00,T,
-Buffalo at Wisconsin,ESPNU,11/18/2006 12:00,T,
-Iowa at Minnesota,ESPN Plus,11/18/2006 12:00,T,
-Temple at Navy,CSTV,11/18/2006 12:30,T,
-Tennessee at Vanderbilt,Lincoln Financial Sports,11/18/2006 12:30,T,
-Middle Tennessee at South Carolina,CSS PPV,11/18/2006 12:30,T,
-UCF at Tulane,,11/18/2006 14:00,W,
-Western Michigan at Florida St.,ESPN360,11/18/2006 14:00,W,
-Army at Notre Dame,NBC HD,11/18/2006 14:30,T,
-Tulsa at SMU,,11/18/2006 15:00,W,
-East Carolina at Rice,WITN,11/18/2006 15:00,T,
-Utah St. at Boise St.,KTVB,11/18/2006 15:00,T,
-Auburn at Alabama,CBS HD,11/18/2006 15:30,T,
-Michigan at Ohio St.,ABC HD,11/18/2006 15:30,T,
-Kansas St. at Kansas,FSN,11/18/2006 15:30,T,
-San Diego St. at TCU,Versus,11/18/2006 16:00,T,
-New Mexico at BYU,The mtn.,11/18/2006 16:00,T,
-UTEP at Marshall,Time Warner-El Paso,11/18/2006 16:30,T,
-Idaho at Fresno St.,,11/18/2006 17:00,W,
-Arkansas St. at Troy,ESPN Plus,11/18/2006 19:00,T,
-Virginia Tech at Wake Forest,ESPN2 HD,11/18/2006 19:00,T,
-USF at Louisville,ESPNU,11/18/2006 19:30,T,
-Utah at Air Force,The mtn.,11/18/2006 19:30,T,
-Rutgers at Cincinnati,ESPN HD,11/18/2006 19:45,T,
-UAB at Southern Miss,CSTV,11/18/2006 20:00,T,
-Ole Miss at LSU,TigerVision PPV,11/18/2006 20:00,T,
-Nevada at Louisiana Tech,KREN,11/18/2006 20:00,T,
-San Jose St. at Hawai'i,Oceanic PPV,11/18/2006 23:00,T,
-Bowling Green at Toledo,ESPN2 HD,11/21/2006 19:00,T,
-Boston College at Miami (FL),ESPN HD,11/23/2006 20:00,T,
-Northern Illinois at Eastern Michigan,Comcast Local,11/24/2006 11:00,T,
-Ohio at Miami (OH),ESPNU,11/24/2006 12:00,T,
-Kent St. at Central Michigan,,11/24/2006 12:00,W,
-Texas A&M at Texas,ABC HD,11/24/2006 12:00,T,
-Central Michigan at Buffalo,,11/24/2006 13:00,W,
-LSU at Arkansas,CBS HD,11/24/2006 14:30,T,
-Tulane at Tulsa,,11/24/2006 15:00,W,
-Colorado at Nebraska,ABC HD,11/24/2006 15:30,T,
-Western Michigan at Akron,ESPNU,11/24/2006 15:30,T,
-Air Force at UNLV,The mtn.,11/24/2006 19:00,T,
-Fresno St. at Louisiana Tech,ESPN2 HD,11/24/2006 21:00,T,
-Kansas at Missouri,ABC,11/25/2006 12:00,T,
-USF at West Virginia,ESPN2 HD,11/25/2006 12:00,T,
-Cincinnati at Connecticut,ESPN Plus,11/25/2006 12:00,T,
-Syracuse at Rutgers,ESPNU,11/25/2006 12:00,T,
-Florida at Florida St.,ABC,11/25/2006 12:00,T,
-South Carolina at Clemson,ESPN HD,11/25/2006 12:00,T,
-Virginia at Virginia Tech,Raycom/LF Sports,11/25/2006 12:00,T,
-Duke at N. Carolina,ESPN360,11/25/2006 12:00,W,
-UAB at UCF,CSS,11/25/2006 12:00,T,
-Kentucky at Tennessee,Lincoln Financial Sports,11/25/2006 12:30,T,
-Oklahoma at Oklahoma St.,FSN HD,11/25/2006 14:30,T,
-SMU at Rice,,11/25/2006 15:00,W,
-New Mexico St. at Utah St.,AggieVision,11/25/2006 15:00,T,
-Troy at Middle Tennessee,ESPN Plus,11/25/2006 15:30,T,
-Georgia Tech at Georgia,CBS HD,11/25/2006 15:30,T,
-BYU at Utah,The mtn.,11/25/2006 15:30,T,
-Louisville at Pittsburgh,ESPN HD,11/25/2006 15:30,T,
-Boise St. at Nevada,ESPN2 HD,11/25/2006 16:15,T,
-San Jose St. at Idaho,,11/25/2006 17:00,W,
-FIU vs. FAU<br>(at Miami, FL),ESPN Plus,11/25/2006 19:00,T
-TCU at Colorado St.,The mtn.,11/25/2006 19:00,T,
-East Carolina at NC State,ESPNU,11/25/2006 19:00,T,
-Marshall at Southern Miss,CSTV,11/25/2006 19:30,T,
-Wake Forest at Maryland,ESPN HD,11/25/2006 19:45,T,
-Memphis at UTEP,Time Warner-El Paso,11/25/2006 21:00,T,
-Purdue at Hawai'i,Oceanic PPV,11/25/2006 23:00,T,
-MAC Championship<br>Central Michigan at Ohio<br>(at Detroit, MI),ESPN HD,11/30/2006 19:30,T
-Conference USA Championship<br>Southern Miss at Houston,ESPN2 HD,12/01/2006 20:00,T,
-Connecticut at Louisville,ESPN HD,12/02/2006 12:00,T,
-ACC Championship<br>Georgia Tech vs. Wake Forest<br>(at Jacksonville, FL),ABC HD,12/02/2006 13:00,T
-Louisiana Tech at New Mexico St.,,12/02/2006 15:00,W,
-Air Force at TCU,CSTV,12/02/2006 15:30,T,
-Fresno St. at San Jose St.,KFRE<br>CSN West,12/02/2006 16:00,T,
-SEC Championship<br>Florida vs. Arkansas<br>(at Atlanta, GA),CBS HD,12/02/2006 18:00,T
-Troy at FIU,CSS,12/02/2006 19:00,T,
-Rutgers at West Virginia,ESPN HD,12/02/2006 19:45,T,
-Big 12 Championship<br>Nebraska vs. Oklahoma<br>(at Kansas City, MO),ABC HD,12/02/2006 20:00,T
-Colorado St. at San Diego St.,The mtn.,12/02/2006 20:00,T,
-Oregon St. at Hawai'i,ESPN,12/02/2006 23:59,T,
+game,network,time,mediaindicatorBoston College at Central Michigan,ESPN2 HD,8/31/06 18:00,TFAU at Middle Tennessee,ESPN Plus,8/31/06 19:00,TNorthwestern at Miami (OH),ESPNU,8/31/06 19:30,TEastern Michigan at Ball St.,Comcast Local,8/31/06 19:30,TMinnesota at Kent St.,ESPN360,8/31/06 19:30,WRhode Island at Connecticut,ESPN Plus,8/31/06 19:30,TToledo at Iowa St.,Mediacom-Iowa,8/31/06 20:00,TSouth Carolina at Mississippi St.,ESPN HD,8/31/06 20:00,TSE Louisiana at New Mexico St.,,8/31/06 21:00,WSacramento St. at Boise St.,KTVB,8/31/06 21:00,TUTEP at San Diego St.,CSTV,8/31/06 22:30,TNevada at Fresno St.,ESPN HD,9/1/06 20:00,TNorth Texas at Texas,FSN,9/2/06 12:00,TVanderbilt at Michigan,ESPN HD,9/2/06 12:00,TMontana at Iowa,ESPNU,9/2/06 12:00,TIdaho at Michigan St.,ESPN Plus,9/2/06 12:00,TWestern Kentucky at Georgia,Lincoln Financial Sports,9/2/06 12:30,TNortheastern at Virginia Tech,ESPN360,9/2/06 13:30,WRutgers at North Carolina,ABC,9/2/06 15:30,TFAU at Clemson,ESPNU,9/2/06 15:30,TLouisiana Tech at Nebraska,FSN,9/2/06 15:30,TMarshall at West Virginia,ESPN Plus,9/2/06 15:30,TNorthern Illinois at Ohio St.,ABC,9/2/06 15:30,TAkron at Penn St.,ESPN2 HD,9/2/06 15:30,TMontana St. at Colorado,,9/2/06 15:30,WWeber St. at Colorado St.,The mtn.,9/2/06 17:00,TCalifornia at Tennessee,ESPN HD,9/2/06 17:30,TEast Carolina at Navy,CSTV,9/2/06 17:30,TRichmond at Duke,,9/2/06 18:00,WAppalachian St. at NC State,,9/2/06 18:00,WWilliam & Mary at Maryland,ESPN360,9/2/06 18:00,WSouthern Miss at Florida,Sun Sports PPV,9/2/06 18:00,TSyracuse at Wake Forest,ESPN360,9/2/06 18:30,WVirginia at Pittsburgh,ESPNU,9/2/06 19:00,TMcNeese St. at USF,ESPN Plus,9/2/06 19:00,TUAB at Oklahoma,TBS,9/2/06 19:00,TUT-Martin at Ohio,,9/2/06 19:00,WWisconsin vs. Bowling Green<br>(at Cleveland OH),ESPN Plus,9/2/06 19:00,THawai'i at Alabama,Crimson Tide PPV,9/2/06 19:00,TWashington St. at Auburn,ESPN2 HD,9/2/06 19:45,TUL-Lafayette at LSU,TigerVision PPV,9/2/06 20:00,TNotre Dame at Georgia Tech,ABC HD,9/2/06 20:00,TPortland St. at New Mexico,The mtn.,9/2/06 20:30,TUSC at Arkansas,ESPN HD,9/2/06 20:45,THouston at Rice,CSTV,9/2/06 21:00,TMemphis at Ole Miss,ESPN HD,9/3/06 16:30,TTCU at Baylor,FSN,9/3/06 17:30,TKentucky at Louisville,ESPN HD,9/3/06 20:00,TFlorida St. at Miami (FL),ESPN HD,9/4/06 20:00,TOregon St. at Boise St.,ESPN HD,9/7/06 19:30,TCincinnati at Pittsburgh,ESPN2 HD,9/8/06 20:00,TIllinois at Rutgers,ESPN2 HD,9/9/06 12:00,TVirginia Tech at North Carolina,ESPN HD,9/9/06 12:00,TAkron at NC State,ESPNU,9/9/06 12:00,TDuke at Wake Forest,Raycom/LF Sports,9/9/06 12:00,TCentral Michigan at Michigan,ESPN Plus,9/9/06 12:00,TOle Miss at Missouri,FSN HD,9/9/06 12:30,TAuburn at Mississippi St.,Lincoln Financial Sports,9/9/06 12:30,TMiami (OH) at Purdue,ESPN360,9/9/06 13:00,WKent St. at Army,ESPN Classic,9/9/06 13:00,TMassachusetts at Navy,CSTV,9/9/06 13:30,TOhio at Northern Illinois,CSN Chicago,9/9/06 15:00,TBuffalo at Bowling Green,,9/9/06 15:00,WVanderbilt at Arkansas,FSN/SEC TV,9/9/06 15:30,TPenn St. at Notre Dame,NBC HD,9/9/06 15:30,TWestern Illinois at Wisconsin,ESPNU,9/9/06 15:30,TEastern Michigan at Michigan St.,ESPN Plus,9/9/06 15:30,TWashington at Oklahoma,ABC HD,9/9/06 15:30,TIowa at Syracuse,ABC,9/9/06 15:30,TClemson at Boston College,ABC,9/9/06 15:30,TTulsa at BYU,The mtn.,9/9/06 16:00,THofstra at Marshall,,9/9/06 16:30,WColorado vs. Colorado St.<br>(at Denver CO),CSTV,9/9/06 17:00,TUCF at Florida,Sun Sports PPV,9/9/06 18:00,TStanford at San Jose St.,CSN West,9/9/06 18:00,TTroy at Florida St.,Sun Sports PPV,9/9/06 18:00,TIndiana at Ball St.,Comcast Local,9/9/06 18:30,TArizona at LSU,ESPN2 HD,9/9/06 18:30,TAir Force at LSU,CSS PPV,9/9/06 19:00,TToledo at Western Michigan,,9/9/06 19:00,WUC-Davis at TCU,,9/9/06 19:00,WOklahoma St. vs. Arkansas St. (at Little Rock AR),ESPNU,9/9/06 19:00,TEast Carolina at UAB,,9/9/06 19:00,WTulane at Houston,,9/9/06 19:00,WFlorida A&M at Miami (FL),ESPN360,9/9/06 19:00,WFIU at USF,ESPN360,9/9/06 19:00,WGeorgia at South Carolina,ESPN HD,9/9/06 19:45,TNorthern Arizona at Utah,The mtn.,9/9/06 20:00,TOhio St. at Texas,ABC HD,9/9/06 20:00,TTexas Tech at UTEP,CSTV,9/9/06 21:00,TOregon at Fresno St.,ESPN2 HD,9/9/06 22:00,TTennessee Tech at Middle Tennessee,ESPNU,9/14/06 19:00,TMaryland at West Virginia,ESPN HD,9/14/06 19:30,TKansas at Toledo,ESPN2 HD,9/15/06 20:00,TMichigan St. at Pittsburgh,ABC,9/16/06 12:00,TWake Forest at Connecticut,ESPN360,9/16/06 12:00,WBYU at Boston College,ESPN2 HD,9/16/06 12:00,TDuke at Virginia Tech,Raycom/LF Sports,9/16/06 12:00,TIowa St. at Iowa,ESPN HD,9/16/06 12:00,TSyracuse at Illinois,ESPNU,9/16/06 12:00,TCincinnati at Ohio St.,ESPN Plus,9/16/06 12:00,TMarshall at Kansas St.,FSN,9/16/06 12:30,TArkansas at Vanderbilt,Lincoln Financial Sports,9/16/06 12:30,TUAB at Georgia,CSS PPV,9/16/06 13:00,TAkron at Central Michigan,Comcast Local,9/16/06 13:00,TBall St. at Purdue,ESPN360,9/16/06 13:00,WKent St. at Miami (OH),FSN Ohio,9/16/06 14:00,TUSF at UCF,CSTV,9/16/06 14:30,TYoungstown St. at Penn St.,ESPNU,9/16/06 15:30,TSan Diego St. at Wisconsin,ESPN Plus,9/16/06 15:30,TMichigan at Notre Dame,NBC HD,9/16/06 15:30,TWestern Michigan at Virginia,ESPN360,9/16/06 15:30,WMiami (FL) at Louisville,ABC HD,9/16/06 15:30,TOhio at Rutgers,ESPN Plus,9/16/06 15:30,TBoise St. at Wyoming,The mtn.,9/16/06 15:30,TLSU at Auburn,CBS HD,9/16/06 15:30,TIdaho St. at Idaho,Vandal Sports,9/16/06 17:00,TTexas Tech at TCU,OLN,9/16/06 17:30,TOle Miss at Kentucky,ESPN Plus PPV,9/16/06 18:00,TTexas vs. Rice (at Reliant Stadium),ESPN2 HD,9/16/06 18:00,TNC State at Southern Miss,,9/16/06 19:00,WNorth Texas at Tulsa,,9/16/06 19:00,WMemphis at East Carolina,,9/16/06 19:00,WGrambling at Houston,,9/16/06 19:00,WArizona St. at Colorado,TBS,9/16/06 19:00,TFurman at North Carolina,ESPNU,9/16/06 19:00,TUL-Monroe at Alabama,Crimson Tide PPV,9/16/06 19:00,TWofford at South Carolina,ESPN Plus PPV,9/16/06 19:00,TNicholls St. at Louisiana Tech,ESPN Plus,9/16/06 19:00,TBuffalo at Northern Illinois,CSN Chicago,9/16/06 19:30,TClemson at Florida St.,ESPN HD,9/16/06 19:45,TSam Houston St. at SMU,,9/16/06 20:00,WMissouri at New Mexico,The mtn.,9/16/06 20:00,TFlorida at Tennessee,CBS HD,9/16/06 20:00,TUtah at Utah St.,KJZZ,9/16/06 20:00,TTexas Southern at New Mexico St.,,9/16/06 20:00,WColorado St. at Nevada,,9/16/06 21:00,WTexas A&M vs. Army (at San Antonio TX),ESPN2 HD,9/16/06 21:15,TUNLV at Hawai'i,Oceanic PPV,9/16/06 23:59,TVirginia at Georgia Tech,ESPN HD,9/21/06 19:30,TNorthwestern at Nevada,ESPN2 HD,9/22/06 20:00,TCincinnati at Virginia Tech,ESPNU,9/23/06 12:00,TNorth Carolina at Clemson,Raycom/LF Sports,9/23/06 12:00,TLouisville at Kansas St.,FSN HD,9/23/06 12:00,TWisconsin at Michigan,ESPN HD,9/23/06 12:00,TMinnesota at Purdue,ESPN2 HD,9/23/06 12:00,TIowa at Illinois,ESPN Plus,9/23/06 12:00,TColorado at Georgia,Lincoln Financial Sports,9/23/06 12:30,TKent St. at Bowling Green,,9/23/06 13:00,WTulsa at Navy,CSTV,9/23/06 13:30,TThe Citadel at Pittsburgh,ESPN360,9/23/06 13:30,WHoward at Rutgers,ESPN Plus,9/23/06 14:00,TIndiana St. at Northern Illinois,CSN Chicago,9/23/06 15:00,TUtah St. at BYU,The mtn.,9/23/06 15:00,TCentral Michigan at Eastern Michigan,Comcast Local,9/23/06 15:30,TAlabama at Arkansas,CBS HD,9/23/06 15:30,TIowa St. at Texas,ABC,9/23/06 15:30,TRice at Florida St.,ESPNU,9/23/06 15:30,TPenn St. at Ohio St.,ABC HD,9/23/06 15:30,TConnecticut at Indiana,ESPN Plus,9/23/06 15:30,TMarshall at Tennessee,CSS PPV<br>WOWK,9/23/06 16:00,TWest Virginia at East Carolina,ESPN2 HD,9/23/06 16:30,TUTEP at New Mexico,CSTV,9/23/06 17:00,TNorth Texas at Akron,,9/23/06 18:00,WCal-Poly at San Jose St.,,9/23/06 18:00,WFIU at Maryland,ESPN360,9/23/06 18:00,WNorth Dakota St. at Ball St.,,9/23/06 18:30,WTemple at Western Michigan,,9/23/06 19:00,WMcNeese St. at Toledo,,9/23/06 19:00,WFAU at South Carolina,ESPN Plus PPV,9/23/06 19:00,TUSF at Kansas,FSN,9/23/06 19:00,TTroy at Nebraska,FSN PPV,9/23/06 19:00,TMiddle Tennessee at Oklahoma,FSN PPV,9/23/06 19:00,TMiami (OH) at Syracuse,ESPNU,9/23/06 19:00,TKentucky at Florida,ESPN HD,9/23/06 19:45,TTulane at LSU,TigerVision PPV,9/23/06 20:00,TUtah at San Diego St.,The mtn.,9/23/06 20:00,THawai'i at Boise St.,KTVB,9/23/06 20:00,TBoston College at NC State,ESPN2 HD,9/23/06 20:00,TNotre Dame at Michigan St.,ABC HD,9/23/06 20:00,TArkansas St. at SMU,,9/23/06 20:00,WOklahoma St. at Houston,CSTV,9/23/06 21:00,TSouthern Miss at UCF,ESPN2 HD,9/26/06 19:30,TBYU at TCU,Versus,9/28/06 18:00,TAuburn at South Carolina,ESPN HD,9/28/06 19:30,TRutgers at USF,ESPN2 HD,9/29/06 20:00,TToledo at Pittsburgh,ESPNU,9/30/06 12:00,TNavy at Connecticut,ESPN Plus,9/30/06 12:00,TVirginia at Duke,Raycom/LF Sports,9/30/06 12:00,TTennessee at Memphis,ESPN HD,9/30/06 12:00,TWisconsin at Indiana,ESPN2 HD,9/30/06 12:00,TIllinois at Michigan St.,ESPN Plus,9/30/06 12:00,TColorado at Missouri,FSN,9/30/06 12:30,TMississippi St. at LSU,Lincoln Financial Sports,9/30/06 12:30,TMaine at Boston College,ESPN360,9/30/06 13:00,WWyoming at Syracuse,ESPN360,9/30/06 13:30,WNew Mexico at Air Force,The mtn.,9/30/06 14:00,TAkron at Kent St.,MAC TV,9/30/06 14:00,TBowling Green at Ohio,,9/30/06 14:00,WPurdue at Notre Dame,NBC HD,9/30/06 14:30,TBoise St. at Utah,Versus,9/30/06 15:00,TIdaho at Utah St.,Vandals Sports,9/30/06 15:00,TAlabama at Florida,CBS HD,9/30/06 15:30,TRice at Army,ESPNU,9/30/06 15:30,TNorthwestern at Penn St.,ABC,9/30/06 15:30,TTexas Tech at Texas A&M,ABC,9/30/06 15:30,TLiberty at Wake Forest,ESPN360,9/30/06 15:30,WGeorgia Tech at Virginia Tech,ABC HD,9/30/06 15:30,THouston at Miami (FL),ESPN2 HD,9/30/06 18:00,TNorthern Illinois at Ball St.,Comcast Local,9/30/06 18:30,TMiddle Tennessee at North Texas,ESPN Plus,9/30/06 19:00,TFAU at UL-Monroe,CSS,9/30/06 19:00,TLouisiana Tech at Clemson,ESPNU,9/30/06 19:00,TKansas at Nebraska,FSN,9/30/06 19:00,TSam Houston St. at Texas,FSN PPV,9/30/06 19:00,TSMU at Tulane,CSTV,9/30/06 19:30,TOhio St. at Iowa,ABC HD,9/30/06 20:00,TMichigan at Minnesota,ESPN HD,9/30/06 20:00,TNew Mexico St. at UTEP,,9/30/06 21:00,WGeorgia at Ole Miss,ESPN2 HD,9/30/06 21:00,TNevada at UNLV,The mtn.,9/30/06 22:00,TColorado St. at Fresno St.,KFRE,9/30/06 22:00,TEastern Illinois at Hawai'i,Oceanic PPV,9/30/06 23:59,TSouthern Miss at Tulsa,ESPN2 HD,10/3/06 19:30,TUCF at Marshall,ESPN2 HD,10/4/06 19:30,TFlorida St. at NC State,ESPN HD,10/5/06 19:30,TTCU at Utah,Versus,10/5/06 21:00,TLouisville vs. Middle Tennessee (at Nashville TN),ESPN2 HD,10/6/06 20:00,TWestern Michigan at Ohio,MAC TV,10/7/06 12:00,TArkansas at Auburn,CBS,10/7/06 12:00,TClemson at Wake Forest,ESPN HD,10/7/06 12:00,TNorth Carolina at Miami (FL),Raycom/LF Sports,10/7/06 12:00,TTexas A&M at Kansas,FSN,10/7/06 12:00,TPittsburgh at Syracuse,ESPN Plus,10/7/06 12:00,TPurdue at Iowa,ESPNU,10/7/06 12:00,TPenn St. at Minnesota,ESPN Plus,10/7/06 12:00,TIndiana at Illinois,ESPN Plus,10/7/06 12:00,TNorthwestern at Wisconsin,ESPN360,10/7/06 12:00,WVMI at Army,ESPN Classic,10/7/06 13:00,TRice at Tulane,,10/7/06 14:00,WBuffalo at Ohio,,10/7/06 14:00,WWestern Michigan at Ball St.,,10/7/06 14:00,WNavy at Air Force,CSTV,10/7/06 14:00,TSan Diego St. at BYU,The mtn.,10/7/06 14:00,TWest Virginia at Mississippi St.,CSS PPV,10/7/06 14:30,TStanford at Notre Dame,NBC HD,10/7/06 14:30,TBowling Green at Ohio St.,ESPN Plus,10/7/06 15:30,TAkron at Cincinnati,ESPN360,10/7/06 15:30,WOklahoma vs. Texas (at Dallas TX),ABC HD,10/7/06 15:30,TMaryland at Georgia Tech,ESPNU,10/7/06 15:30,TLSU at Florida,CBS HD,10/7/06 15:30,TMichigan St. at Michigan,ESPN HD,10/7/06 16:30,TNew Mexico St. at Idaho,AggieVision,10/7/06 17:00,TUNLV at Colorado St.,The mtn.,10/7/06 17:30,TVirginia at East Carolina,CSTV,10/7/06 18:00,TUL-Lafayette at Houston,,10/7/06 19:00,WConnecticut at USF,ESPN Plus,10/7/06 19:00,TCentral Michigan at Toledo,ESPNU,10/7/06 19:00,TSouth Carolina at Kentucky,ESPN2 HD,10/7/06 19:00,TDuke at Alabama,Crimson Tide PPV,10/7/06 19:00,TFIU at North Texas,CSS,10/7/06 19:00,TUL-Monroe at Arkansas St.,ESPN Plus,10/7/06 19:00,TTennessee at Georgia,ESPN HD,10/7/06 19:45,TWyoming at New Mexico,,10/7/06 20:00,WLouisiana Tech at Boise St.,KTVB,10/7/06 20:00,TFresno St. at Utah St.,KFRE<br>KJZZ,10/7/06 20:00,TNebraska at Iowa St.,ABC HD,10/7/06 20:00,TSMU at UTEP,,10/7/06 21:00,WNevada at Hawai'i,Oceanic PPV<br>KREN,10/7/06 23:59,TNorthern Illinois at Miami (OH),ESPN HD,10/8/06 20:00,TClemson vs. Temple (at Charlotte NC),ESPNU,10/12/06 19:30,TVirginia Tech at Boston College,ESPN HD,10/12/06 19:30,TColorado St. at Air Force,The mtn.,10/12/06 20:00,TPittsburgh at UCF,ESPN HD,10/13/06 20:00,TMinnesota at Wisconsin,ESPN HD,10/14/06 12:00,TIowa at Indiana,ESPN2 HD,10/14/06 12:00,TPurdue at Northwestern,ESPN Plus,10/14/06 12:00,TUSF at North Carolina,ESPNU,10/14/06 12:00,TWake Forest at NC State,Raycom/LF Sports,10/14/06 12:00,TSyracuse at West Virginia,ESPN Plus,10/14/06 12:00,TIowa St. at Oklahoma,FSN HD,10/14/06 12:30,TVanderbilt at Georgia,Lincoln Financial Sports,10/14/06 12:30,TRutgers at Navy,CSTV,10/14/06 13:30,TNorthern Illinois at Western Michigan,MAC TV,10/14/06 14:00,TUtah at Wyoming,The mtn.,10/14/06 15:00,TTulsa at East Carolina,,10/14/06 15:00,WOhio St. at Michigan St.,ABC HD,10/14/06 15:30,TMissouri at Texas A&M,ABC,10/14/06 15:30,TCincinnati at Louisville,ESPNU,10/14/06 15:30,TMaryland at Virginia,ESPN360,10/14/06 15:30,WOle Miss at Alabama,CBS HD,10/14/06 15:30,TEastern Michigan,BCSN,10/14/06 16:00,TToledo at Kent St.,,10/14/06 16:00,WUL-Monroe at Troy,ESPN Plus,10/14/06 16:00,THawai'i at Fresno St.,KFRE KFVE,10/14/06 17:00,TUtah St. at San Jose St.,,10/14/06 18:00,WIdaho at Louisiana Tech,,10/14/06 19:00,WFIU at Miami (FL),CSS Replay Feed,10/14/06 19:00,TBaylor at Texas,TBS,10/14/06 19:00,TNebraska at Kansas St.,FSN PPV,10/14/06 19:00,TOhio at Illinois,ESPN360,10/14/06 19:00,WHouston at Southern Miss,,10/14/06 19:00,WUAB at Rice,CSTV,10/14/06 19:30,TFlorida at Auburn,ESPN HD,10/14/06 19:45,TKentucky at LSU,,10/14/06 20:00,WNew Mexico at UNLV,The mtn.,10/14/06 20:00,TMichigan at Penn St.,ABC HD,10/14/06 20:00,TTulane at UTEP,,10/14/06 21:00,WBoise St. at New Mexico St.,ESPN HD,10/15/06 20:00,TUL-Lafayette at FAU,ESPN2 HD,10/18/06 19:30,TBowling Green at Central Michigan,ESPNU,10/19/06 19:30,TNorth Carolina at Virginia,ESPN HD,10/19/06 19:30,TUtah at New Mexico,The mtn.,10/19/06 21:00,TWest Virginia at Connecticut,ESPN HD,10/20/06 20:00,TLouisville at Syracuse,ESPN Plus,10/21/06 12:00,TTexas at Nebraska,ABC HD,10/21/06 12:00,TNC State at Maryland,Raycom/LF Sports,10/21/06 12:00,TWisconsin at Purdue,ESPN HD,10/21/06 12:00,TIllinois at Penn St.,ESPN2 HD,10/21/06 12:00,TIndiana at Ohio St.,ESPNU,10/21/06 12:00,TMichigan St. at Northwestern,ESPN Plus,10/21/06 12:00,TOle Miss at Arkansas,Lincoln Financial Sports,10/21/06 12:30,TMiami (FL) at Duke,ESPN360,10/21/06 13:00,WWestern Michigan at Ball St.,Comcast Local,10/21/06 14:00,TBuffalo at Ohio,,10/21/06 14:00,WWestern Michigan at Ball St.,,10/21/06 14:00,WUCLA at Notre Dame,NBC HD,10/21/06 14:30,TSMU at East Carolina,,10/21/06 15:00,WToledo at Eastern Michigan,MAC TV,10/21/06 15:00,TTemple at Northern Illinois,CSN Chicago,10/21/06 15:00,TUNLV at BYU,The mtn.,10/21/06 15:00,TSouth Carolina at Vanderbilt,ESPN Plus PPV,10/21/06 15:00,TAlabama at Tennessee,CBS HD,10/21/06 15:30,TTCU at Army,ESPNU,10/21/06 15:30,TIowa at Michigan,ABC HD,10/21/06 15:30,TNorth Dakota St. at Minnesota,ESPN Plus,10/21/06 15:30,TBoston College at Florida St.,ABC,10/21/06 15:30,TColorado St. at Wyoming,CSTV,10/21/06 16:00,TBoise St. at Idaho,KTVB,10/21/06 17:00,TRutgers at Pittsburgh,ESPN2 HD,10/21/06 17:45,TMiami (OH) at Akron,ESPN360,10/21/06 18:00,WSan Jose St. at Nevada,ABC,10/21/06 19:00,TUtah St. at Louisiana Tech,ESPN Plus,10/21/06 19:00,TNorth Texas at Arkansas St.,ESPN Plus,10/21/06 19:00,TColorado at Oklahoma,FSN,10/21/06 19:00,TSouthern Miss at Virginia Tech,ESPNU,10/21/06 19:00,TMarshall at UAB,WOWK,10/21/06 19:00,TGeorgia Tech at Clemson,ESPN HD,10/21/06 19:45,TTulsa at Memphis,CSTV,10/21/06 20:00,THouston at UTEP,Time Warner-El Paso,10/21/06 20:00,THawai'i at New Mexico St.,Oceanic PPV,10/21/06 20:00,TAir Force at San Diego St.,The mtn.,10/21/06 20:00,TFresno St. at LSU,ESPN2 HD,10/21/06 21:00,TUSF at Cincinnati,ESPN HD,10/22/06 20:00,TClemson at Virginia Tech,ESPN HD,10/26/06 19:30,TUTEP at Tulsa,ESPN2 HD,10/27/06 20:00,TNotre Dame vs. Navy (at Baltimore MD),CBS,10/28/06 12:00,TPenn St. at Purdue,ABC,10/28/06 12:00,TNorthwestern at Michigan,ESPN HD,10/28/06 12:00,TIllinois at Wisconsin,ESPN2 HD,10/28/06 12:00,TNorthern Illinois at Iowa,ESPNU,10/28/06 12:00,TMichigan St. at Iowa,ESPN Plus,10/28/06 12:00,TNC State at Virginia,Raycom/LF Sports,10/28/06 12:00,TSyracuse at Cincinnati,ESPN Plus,10/28/06 12:00,TOklahoma at Missouri,ABC HD,10/28/06 12:00,TAuburn at Ole Miss,Lincoln Financial Sports,10/28/06 12:30,TBuffalo at Boston College,ESPN360,10/28/06 13:00,WNavy at Tulane,,10/28/06 14:00,WBYU at Air Force,Versus,10/28/06 14:00,TOhio at Kent St.,MAC TV,10/28/06 14:00,TBall St. at Miami (OH),ONN,10/28/06 14:00,TFIU at Alabama,Crimson Tide PPV,10/28/06 15:00,TFlorida vs. Georgia (at Jacksonville FL),CBS HD,10/28/06 15:30,TEastern Michigan at Western Michigan,Comcast Local,10/28/06 15:30,TNorth Texas at Troy,ESPN Plus,10/28/06 15:30,TUCF at Houston,CSTV,10/28/06 15:30,TMinnesota at Ohio St.,ABC,10/28/06 15:30,TMiami (FL) at Georgia Tech,ABC HD,10/28/06 15:30,TWake Forest at North Carolina,ESPNU,10/28/06 15:30,TNebraska at Oklahoma St.,ABC,10/28/06 15:30,TNew Mexico St. at Nevada,AggieVision,10/28/06 16:00,TLouisiana Tech at San Jose St.,,10/28/06 16:00,WUNLV at Utah,The mtn.,10/28/06 16:00,TMemphis at Marshall,WOWK,10/28/06 16:30,TNew Mexico at Colorado St.,,10/28/06 17:30,WAkron at Toledo,ESPN360,10/28/06 19:00,WArkansas vs. UL-Monroe (at Little Rock AR),ESPNU,10/28/06 19:00,TTexas at Texas Tech,TBS,10/28/06 19:00,TFlorida St. at Maryland,ESPN2 HD,10/28/06 19:00,TEast Carolina at Southern Miss,CSTV,10/28/06 19:30,TWyoming at TCU,The mtn.,10/28/06 19:30,TTennessee at South Carolina,ESPN HD,10/28/06 19:45,TIdaho at Hawai'i,Oceanic PPV<br>Vandal Sports,10/28/06 23:59,TConnecticut at Rutgers,ESPN HD,10/29/06 20:00,TUAB at SMU,ESPN2 HD,10/31/06 19:30,TFresno St. at Boise St.,ESPN2 HD,11/1/06 20:00,TWest Virginia at Louisville,ESPN HD,11/2/06 19:30,TAir Force at Army,ESPN2 HD,11/3/06 20:00,TPenn St. at Wisconsin,ABC HD,11/4/06 12:00,TBall St. at Michigan,ESPNU,11/4/06 12:00,TNorthwestern at Iowa,ESPN Plus,11/4/06 12:00,TIndiana at Wisconsin,ESPN360,11/4/06 12:00,WPittsburgh at USF,ESPN Plus,11/4/06 12:00,TMissouri at Nebraska,ABC,11/4/06 12:00,TBaylor at Texas Tech,FSN,11/4/06 12:00,TMaryland at Clemson,ESPN2 HD,11/4/06 12:00,TVirginia at Florida St.,Raycom/LF Sports,11/4/06 12:00,TFlorida at Vanderbilt,Lincoln Financial Sports,11/4/06 12:30,TMississippi St. at Alabama,Lincoln Financial Sports,11/4/06 12:30,TBowling Green at Akron,,11/4/06 13:00,WOhio at Eastern Michigan,,11/4/06 13:00,WKent St. at Buffalo,,11/4/06 13:00,WArkansas St. at Auburn,CSS PPV,11/4/06 14:30,TNorth Carolina at Notre Dame,NBC HD,11/4/06 14:30,TTCU at UNLV,Versus,11/4/06 15:00,TSan Diego St. at Wyoming,The mtn.,11/4/06 15:00,THawai'i at Utah St.,ESPN Plus,11/4/06 15:00,TSan Jose St. at New Mexico St.,,11/4/06 15:30,WFAU at Middle Tennessee,CSS,11/4/06 15:30,TLSU at Tennessee,CBS HD,11/4/06 15:30,TMiami (OH) at Western Michigan,Comcast Local,11/4/06 15:30,TTulsa at Houston,CSTV,11/4/06 15:30,TOhio St. at Illinois,ESPN2 HD,11/4/06 15:30,TPurdue at Michigan St.,ESPNU,11/4/06 15:30,TKansas St. at Colorado,FSN,11/4/06 15:30,TEast Carolina at UCF,WITN,11/4/06 16:00,TUL-Lafayette at Troy,ESPN Plus,11/4/06 16:00,TNevada at Idaho,KREN,11/4/06 17:00,TBYU at Colorado St.,The mtn.,11/4/06 18:30,TOklahoma St. at Texas,TBS,11/4/06 19:00,TBoston College at Wake Forest,ESPN2 HD,11/4/06 19:00,TGeorgia Tech at NC State,ESPNU,11/4/06 19:00,TTulane at Marshall,CSTV,11/4/06 19:30,TArkansas at South Carolina,ESPN HD,11/4/06 19:45,TRice at UTEP,Time Warner-El Paso,11/4/06 20:00,TVirginia Tech at Miami (FL),ABC,11/4/06 20:00,TOklahoma at Texas A&M,ABC HD,11/4/06 20:00,TSouthern Miss at Memphis,ESPN HD,11/5/06 20:00,TToledo at Northern Illinois,ESPN2 HD,11/7/06 19:30,TBuffalo at Akron,ESPNU,11/9/06 18:00,TLouisville at Rutgers,ESPN HD,11/9/06 19:30,TWyoming at BYU,CSTV,11/9/06 20:00,TWestern Michigan at Central Michigan,Comcast Local,11/10/06 19:00,TUTEP at UAB,ESPN2 HD,11/10/06 20:00,TWisconsin at Iowa,ESPN HD,11/11/06 12:00,TMinnesota at Michigan St.,ESPNU,11/11/06 12:00,TPurdue at Illinois,ESPN Plus,11/11/06 12:00,TCincinnati at West Virginia,ESPN2 HD,11/11/06 12:00,TSyracuse at USF,ESPN Plus,11/11/06 12:00,TGeorgia Tech at North Carolina,Raycom/LF Sports,11/11/06 12:00,TNC State at Clemson,Raycom/LF Sports,11/11/06 12:00,TBaylor at Oklahoma St.,FSN,11/11/06 12:30,TGeorgia at Auburn,Lincoln Financial Sports,11/11/06 12:30,TNavy vs. Eastern Michigan (at Detroit MI),Comcast Local,11/11/06 13:00,TMarshall at East Carolina,WOWK WITN,11/11/06 13:00,TSouthern Miss at Tulane,,11/11/06 14:00,WColorado St. at Utah,Versus,11/11/06 14:00,THouston at SMU,,11/11/06 15:00,WRice at Tulsa,,11/11/06 15:00,WOhio St. at Northwestern,ABC HD,11/11/06 15:30,TMichigan at Indiana,ESPN HD,11/11/06 15:30,TTemple at Penn St.,ESPN Plus,11/11/06 15:30,TNebraska at Texas A&M,ABC,11/11/06 15:30,TPittsburgh at Connecticut,ESPN Plus,11/11/06 15:30,TMiami (FL) at Maryland,ABC,11/11/06 15:30,TKent St. at Virginia Tech,ESPNU,11/11/06 15:30,TSouth Carolina at Florida,CBS HD,11/11/06 15:30,TNotre Dame at Air Force,CSTV,11/11/06 16:00,TUtah St. at Nevada,,11/11/06 16:00,WNew Mexico St. at Fresno St.,,11/11/06 17:00,WTCU at New Mexico,The mtn.,11/11/06 17:30,TBoise St. at San Jose St.,KTVB,11/11/06 18:00,TUL-Monroe at FIU,ESPN Plus,11/11/06 19:00,TTennessee at Arkansas,ESPN2 HD,11/11/06 19:00,TDuke at Boston College,ESPNU,11/11/06 19:00,TTexas Tech at Oklahoma,FSN,11/11/06 19:00,TAlabama at LSU,ESPN HD,11/11/06 19:45,TTexas at Kansas St.,ABC HD,11/11/06 20:00,TWake Forest at Florida St.,ABC HD,11/11/06 20:00,TUCF at Memphis,CSTV,11/11/06 20:00,TUNLV at San Diego St.,The mtn.,11/11/06 21:00,TLouisiana Tech at Hawai'i,Oceanic PPV,11/11/06 23:00,TBall St. at Toledo,ESPN2 HD,11/14/06 19:30,TMiami (OH) at Bowling Green,ESPN2 HD,11/15/06 19:30,TAkron at Ohio,ESPNU,11/16/06 19:30,TWest Virginia at Pittsburgh,ESPN HD,11/16/06 19:30,TEastern Michigan at Kent St.,,11/17/06 18:00,WCentral Michigan at Northern Illinois,ESPNU,11/17/06 20:00,TWestern Carolina at Florida,Sun Sports PPV,11/18/06 12:00,TConnecticut at Syracuse,ESPN Plus,11/18/06 12:00,TOklahoma at Baylor,FSN HD,11/18/06 12:00,TMaryland at Boston College,ESPN HD,11/18/06 12:00,TMiami (FL) at Virginia,Raycom/LF Sports,11/18/06 12:00,TNC State at North Carolina,Raycom/LF Sports,11/18/06 12:00,TIllinois at Northwestern,ESPN360,11/18/06 12:00,WMichigan St. at Penn St.,ESPN2 HD,11/18/06 12:00,TIndiana at Purdue,ESPN Classic,11/18/06 12:00,TBuffalo at Wisconsin,ESPNU,11/18/06 12:00,TIowa at Minnesota,ESPN Plus,11/18/06 12:00,TTemple at Navy,CSTV,11/18/06 12:30,TTennessee at Vanderbilt,Lincoln Financial Sports,11/18/06 12:30,TMiddle Tennessee at South Carolina,CSS PPV,11/18/06 12:30,TUCF at Tulane,,11/18/06 14:00,WWestern Michigan at Florida St.,ESPN360,11/18/06 14:00,WArmy at Notre Dame,NBC HD,11/18/06 14:30,TTulsa at SMU,,11/18/06 15:00,WEast Carolina at Rice,WITN,11/18/06 15:00,TUtah St. at Boise St.,KTVB,11/18/06 15:00,TAuburn at Alabama,CBS HD,11/18/06 15:30,TMichigan at Ohio St.,ABC HD,11/18/06 15:30,TKansas St. at Kansas,FSN,11/18/06 15:30,TSan Diego St. at TCU,Versus,11/18/06 16:00,TNew Mexico at BYU,The mtn.,11/18/06 16:00,TUTEP at Marshall,Time Warner-El Paso,11/18/06 16:30,TIdaho at Fresno St.,,11/18/06 17:00,WArkansas St. at Troy,ESPN Plus,11/18/06 19:00,TVirginia Tech at Wake Forest,ESPN2 HD,11/18/06 19:00,TUSF at Louisville,ESPNU,11/18/06 19:30,TUtah at Air Force,The mtn.,11/18/06 19:30,TRutgers at Cincinnati,ESPN HD,11/18/06 19:45,TUAB at Southern Miss,CSTV,11/18/06 20:00,TOle Miss at LSU,TigerVision PPV,11/18/06 20:00,TNevada at Louisiana Tech,KREN,11/18/06 20:00,TSan Jose St. at Hawai'i,Oceanic PPV,11/18/06 23:00,TBowling Green at Toledo,ESPN2 HD,11/21/06 19:00,TBoston College at Miami (FL),ESPN HD,11/23/06 20:00,TNorthern Illinois at Eastern Michigan,Comcast Local,11/24/06 11:00,TOhio at Miami (OH),ESPNU,11/24/06 12:00,TKent St. at Central Michigan,,11/24/06 12:00,WTexas A&M at Texas,ABC HD,11/24/06 12:00,TCentral Michigan at Buffalo,,11/24/06 13:00,WLSU at Arkansas,CBS HD,11/24/06 14:30,TTulane at Tulsa,,11/24/06 15:00,WColorado at Nebraska,ABC HD,11/24/06 15:30,TWestern Michigan at Akron,ESPNU,11/24/06 15:30,TAir Force at UNLV,The mtn.,11/24/06 19:00,TFresno St. at Louisiana Tech,ESPN2 HD,11/24/06 21:00,TKansas at Missouri,ABC,11/25/06 12:00,TUSF at West Virginia,ESPN2 HD,11/25/06 12:00,TCincinnati at Connecticut,ESPN Plus,11/25/06 12:00,TSyracuse at Rutgers,ESPNU,11/25/06 12:00,TFlorida at Florida St.,ABC,11/25/06 12:00,TSouth Carolina at Clemson,ESPN HD,11/25/06 12:00,TVirginia at Virginia Tech,Raycom/LF Sports,11/25/06 12:00,TDuke at N. Carolina,ESPN360,11/25/06 12:00,WUAB at UCF,CSS,11/25/06 12:00,TKentucky at Tennessee,Lincoln Financial Sports,11/25/06 12:30,TOklahoma at Oklahoma St.,FSN HD,11/25/06 14:30,TSMU at Rice,,11/25/06 15:00,WNew Mexico St. at Utah St.,AggieVision,11/25/06 15:00,TTroy at Middle Tennessee,ESPN Plus,11/25/06 15:30,TGeorgia Tech at Georgia,CBS HD,11/25/06 15:30,TBYU at Utah,The mtn.,11/25/06 15:30,TLouisville at Pittsburgh,ESPN HD,11/25/06 15:30,TBoise St. at Nevada,ESPN2 HD,11/25/06 16:15,TSan Jose St. at Idaho,,11/25/06 17:00,WFIU vs. FAU<br>(at Miami FL),ESPN Plus,11/25/06 19:00,TTCU at Colorado St.,The mtn.,11/25/06 19:00,TEast Carolina at NC State,ESPNU,11/25/06 19:00,TMarshall at Southern Miss,CSTV,11/25/06 19:30,TWake Forest at Maryland,ESPN HD,11/25/06 19:45,TMemphis at UTEP,Time Warner-El Paso,11/25/06 21:00,TPurdue at Hawai'i,Oceanic PPV,11/25/06 23:00,TMAC Championship<br>Central Michigan at Ohio<br>(at Detroit MI),ESPN HD,11/30/06 19:30,TConference USA Championship<br>Southern Miss at Houston,ESPN2 HD,12/1/06 20:00,TConnecticut at Louisville,ESPN HD,12/2/06 12:00,TACC Championship<br>Georgia Tech vs. Wake Forest<br>(at Jacksonville FL),ABC HD,12/2/06 13:00,TLouisiana Tech at New Mexico St.,,12/2/06 15:00,WAir Force at TCU,CSTV,12/2/06 15:30,TFresno St. at San Jose St.,KFRE<br>CSN West,12/2/06 16:00,TSEC Championship<br>Florida vs. Arkansas<br>(at Atlanta GA),CBS HD,12/2/06 18:00,TTroy at FIU,CSS,12/2/06 19:00,TRutgers at West Virginia,ESPN HD,12/2/06 19:45,TBig 12 Championship<br>Nebraska vs. Oklahoma<br>(at Kansas City MO),ABC HD,12/2/06 20:00,TColorado St. at San Diego St.,The mtn.,12/2/06 20:00,TOregon St. at Hawai'i,ESPN,12/2/06 23:59,T
