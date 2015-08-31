@@ -1,0 +1,632 @@
+game,network,time,mediaindicator
+Buffalo at Rutgers,ESPN Plus,8/30/2007 7:00:00 PM,T
+SE Missouri St. at Cincinnati,ESPN360,8/30/2007 7:00:00 PM,W
+Miami (OH) at Ball St.,Comcast Local,8/30/2007 7:00:00 PM,T
+Tulsa at UL-Monroe,ESPN2 HD,8/30/2007 7:00:00 PM,T
+Murray St. at Louisville,ESPNU,8/30/2007 7:30:00 PM,T
+Kent St. at Iowa St.,Web Video Available,8/30/2007 8:00:00 PM,W
+LSU at Mississippi St.,ESPN HD,8/30/2007 8:00:00 PM,T
+UNLV at Utah St.,Las Vegas One,8/30/2007 8:00:00 PM,T
+SE Louisiana at New Mexico St.,AggieVision,8/30/2007 8:00:00 PM,T
+Weber St. at Boise St.,KTVB,8/30/2007 9:00:00 PM,T
+Navy at Temple,ESPNU,8/31/2007 7:30:00 PM,T
+Washington at Syracuse,ESPN HD,8/31/2007 8:00:00 PM,T
+Colorado St. vs. Colorado<br>(at Denver, CO),FSN HD,9/1/2007 12:00:00 PM,T
+East Carolina at Virginia Tech,ESPN HD,9/1/2007 12:00:00 PM,T
+Marshall at Miami (FL),ESPNU,9/1/2007 12:00:00 PM,T
+UAB at Michigan St.,ESPN2 HD,9/1/2007 12:00:00 PM,T
+Appalachian St. at Michigan,Big Ten Network HD,9/1/2007 12:00:00 PM,T
+Northeastern at Northwestern,Big Ten Network,9/1/2007 12:00:00 PM,T
+Youngstown St. at Ohio St.,Big Ten Network HD,9/1/2007 12:00:00 PM,T
+FIU at Penn St.,Big Ten Network HD,9/1/2007 12:00:00 PM,T
+Western Kentucky at Florida,Lincoln Financial Sports,9/1/2007 12:30:00 PM,T
+South Carolina St. at Air Force,The mtn.,9/1/2007 2:00:00 PM,T
+Virginia at Wyoming,Versus,9/1/2007 2:00:00 PM,T
+Connecticut at Duke,ACC Select,9/1/2007 2:00:00 PM,W
+Southern vs. Florida A&M<br>(at Birmingham, AL),ESPN Classic,9/1/2007 3:00:00 PM,T
+Iowa vs. Northern Illinois<br>(at Chicago, IL),ESPNU,9/1/2007 3:30:00 PM,T
+Wake Forest at Boston College,ABC HD,9/1/2007 3:30:00 PM,T
+Nevada at Nebraska,ABC,9/1/2007 3:30:00 PM,T
+Western Michigan at West Virginia,ESPN Plus,9/1/2007 3:30:00 PM,T
+Washington St. at Wisconsin,ABC HD,9/1/2007 3:30:00 PM,T
+Missouri vs. Illinois<br>(at St. Louis, MO),ESPN2 HD,9/1/2007 3:30:00 PM,T
+Ole Miss at Memphis,CSS,9/1/2007 3:30:00 PM,T
+Georgia Tech at Notre Dame,NBC HD,9/1/2007 3:30:00 PM,T
+Middle Tennessee at FAU,Web Video Available,9/1/2007 4:00:00 PM,W
+Arizona at BYU,Versus,9/1/2007 5:30:00 PM,T
+Baylor at TCU,CSTV,9/1/2007 6:00:00 PM,T
+Eastern Kentucky at Kentucky,Big Blue Sports,9/1/2007 6:00:00 PM,T
+James Madison at North Carolina,ESPN360,9/1/2007 6:00:00 PM,W
+UCF at NC State,ESPN360,9/1/2007 6:00:00 PM,W
+Villanova at Maryland,ESPN360,9/1/2007 6:00:00 PM,W
+Oklahoma St. at Georgia,ESPN2 HD,9/1/2007 6:45:00 PM,T
+Western Carolina at Alabama,Crimson Tide PPV,9/1/2007 7:00:00 PM,T
+UL-Lafayette at South Carolina,CSS PPV,9/1/2007 7:00:00 PM,T
+Purdue at Toledo,ESPNU,9/1/2007 7:00:00 PM,T
+Army vs. Akron<br>(at Cleveland, OH),ESPN Plus,9/1/2007 7:00:00 PM,T
+Gardner-Webb at Ohio,WSFJ,9/1/2007 7:00:00 PM,T
+Elon at USF,ESPN Plus,9/1/2007 7:00:00 PM,T
+North Texas at Oklahoma,FSN HD,9/1/2007 7:00:00 PM,T
+Arkansas St. at Texas,FSN PPV,9/1/2007 7:00:00 PM,T
+UT-Martin at Southern Miss,Web Video Available,9/1/2007 7:00:00 PM,W
+Kansas St. at Auburn,ESPN HD,9/1/2007 7:45:00 PM,T
+Nicholls St. at Rice,Web Video Available,9/1/2007 8:00:00 PM,W
+Indiana St. at Indiana,Big Ten Network HD,9/1/2007 8:00:00 PM,T
+Bowling Green at Minnesota,Big Ten Network HD,9/1/2007 8:00:00 PM,T
+New Mexico at UTEP,CSTV,9/1/2007 10:00:00 PM,T
+Sacramento St. at Fresno St.,Web Video Available,9/1/2007 10:00:00 PM,W
+Northern Colorado at Hawai'i,Oceanic PPV,9/1/2007 11:59:00 PM,T
+Texas Tech at SMU,ESPN HD,9/3/2007 4:00:00 PM,T
+Florida St. at Clemson,ESPN HD,9/3/2007 8:00:00 PM,T
+Middle Tennessee at Louisville,ESPN2 HD,9/6/2007 7:00:00 PM,T
+Oregon St. at Cincinnati,ESPN HD,9/6/2007 7:30:00 PM,T
+Navy at Rutgers,ESPN HD,9/7/2007 7:00:00 PM,T
+West Virginia at Marshall,ESPN2 HD,9/8/2007 11:00:00 AM,T
+Bowling Green at Michigan St.,Big Ten Network HD,9/8/2007 12:00:00 PM,T
+Miami (OH) at Minnesota,Big Ten Network,9/8/2007 12:00:00 PM,T
+Nevada at Northwestern,Big Ten Network HD,9/8/2007 12:00:00 PM,T
+Akron at Ohio St.,Big Ten Network HD,9/8/2007 12:00:00 PM,T
+Eastern Illinois at Purdue,Big Ten Network HD,9/8/2007 12:00:00 PM,T
+Miami (FL) at Oklahoma,ABC HD,9/8/2007 12:00:00 PM,T
+Grambling at Pittsburgh,ESPN360,9/8/2007 12:00:00 PM,W
+Nebraska at Wake Forest,ESPN HD,9/8/2007 12:00:00 PM,T
+Duke at Virginia,Raycom/LF Sports,9/8/2007 12:00:00 PM,T
+Ball St. at Eastern Michigan,Comcast Local,9/8/2007 12:00:00 PM,T
+Alabama at Vanderbilt,Lincoln Financial Sports,9/8/2007 12:30:00 PM,T
+Buffalo at Temple,Web Video Available,9/8/2007 1:00:00 PM,W
+UL-Monroe at Clemson,CSS Replay Feed,9/8/2007 1:00:00 PM,T
+Rhode Island at Army,ESPN Classic,9/8/2007 1:00:00 PM,T
+Samford at Georgia Tech,ESPNU,9/8/2007 1:30:00 PM,T
+Utah St. at Wyoming,The mtn.,9/8/2007 2:00:00 PM,T
+California at Colorado St.,CSTV,9/8/2007 2:00:00 PM,T
+NC State at Boston College,ESPN2 HD,9/8/2007 2:30:00 PM,T
+Fresno St. at Texas A&M,FSN HD,9/8/2007 3:30:00 PM,T
+Oregon at Michigan,ABC HD,9/8/2007 3:30:00 PM,T
+UAB at Florida St.,ESPNU,9/8/2007 5:00:00 PM,T
+South Carolina at Georgia,ESPN2 HD,9/8/2007 5:45:00 PM,T
+Kent St. at Kentucky,Big Blue PPV,9/8/2007 6:00:00 PM,T
+Troy at Florida,Sun Sports PPV,9/8/2007 6:00:00 PM,T
+Air Force at Utah,The mtn.,9/8/2007 6:00:00 PM,T
+Notre Dame at Penn St.,ESPN HD,9/8/2007 6:00:00 PM,T
+North Carolina at East Carolina,CSTV,9/8/2007 6:00:00 PM,T
+Mississippi St. at Tulane,CSS,9/8/2007 7:00:00 PM,T
+Western Illinois at Illinois,Big Ten Network HD,9/8/2007 7:00:00 PM,T
+TCU at Texas,FSN HD,9/8/2007 7:00:00 PM,T
+Maine at Connecticut,ESPN Plus,9/8/2007 7:00:00 PM,T
+Southern Miss at Tennessee,Vol Network PPV,9/8/2007 7:00:00 PM,T
+Toledo at Central Michigan,Web Video Available,9/8/2007 7:00:00 PM,W
+Hawai'i at Louisiana Tech,ESPN Plus,9/8/2007 7:00:00 PM,T
+Ohio at UL-Lafayette,Web Video Available,9/8/2007 7:00:00 PM,W
+Southern Illinois at Northern Illinois,CSN Chicago,9/8/2007 7:30:00 PM,T
+Indiana at Western Michigan,ESPNU,9/8/2007 8:00:00 PM,T
+Syracuse at Iowa,Big Ten Network HD,9/8/2007 8:00:00 PM,T
+North Texas at SMU,Web Video Available,9/8/2007 8:00:00 PM,W
+USF at Auburn,ESPN2 HD,9/8/2007 9:00:00 PM,T
+Virginia Tech at LSU,ESPN HD,9/8/2007 9:15:00 PM,T
+New Mexico St. at New Mexico,The mtn.,9/8/2007 9:30:00 PM,T
+Wisconsin at UNLV,Versus,9/8/2007 10:00:00 PM,T
+West Virginia at Maryland,ESPN HD,9/13/2007 7:30:00 PM,T
+TCU at Air Force,CSTV,9/13/2007 8:00:00 PM,T
+Oklahoma St. at Troy,ESPN2 HD,9/14/2007 8:00:00 PM,T
+Eastern Michigan at Northern Illinois,ESPN Plus,9/15/2007 12:00:00 PM,T
+Cincinnati at Miami (OH),ESPN Plus,9/15/2007 12:00:00 PM,T
+Virginia at North Carolina,Raycom/LF Sports,9/15/2007 12:00:00 PM,T
+Illinois at Syracuse,ESPNU,9/15/2007 12:00:00 PM,T
+Temple at Connecticut,ESPN Plus,9/15/2007 12:00:00 PM,T
+Pittsburgh at Michigan St.,ESPN HD,9/15/2007 12:00:00 PM,T
+Central Michigan at Purdue,ESPN2 HD,9/15/2007 12:00:00 PM,T
+Akron at Indiana,Big Ten Network HD,9/15/2007 12:00:00 PM,T
+Buffalo at Penn St.,Big Ten Network HD,9/15/2007 12:00:00 PM,T
+The Citadel at Wisconsin,Big Ten Network HD,9/15/2007 12:00:00 PM,T
+Mississippi St. at Auburn,Lincoln Financial Sports,9/15/2007 12:30:00 PM,T
+Western Carolina at Georgia,CSS PPV,9/15/2007 1:00:00 PM,T
+Minnesota vs. FAU<br>(at Miami, FL),ESPN360,9/15/2007 1:00:00 PM,W
+Furman at Clemson,CSS Replay Feed,9/15/2007 1:00:00 PM,T
+Ohio at Virginia Tech,ESPN360,9/15/2007 1:30:00 PM,W
+Iowa at Iowa St.,Versus,9/15/2007 1:30:00 PM,T
+Texas Tech at Rice,FSN Southwest,9/15/2007 3:00:00 PM,T
+Texas at UCF,ESPN2 HD,9/15/2007 3:30:00 PM,T
+Notre Dame at Michigan,ABC HD,9/15/2007 3:30:00 PM,T
+Army at Wake Forest,ACC Select,9/15/2007 3:30:00 PM,W
+FIU at Miami (FL),ESPNU,9/15/2007 3:30:00 PM,T
+Norfolk St. at Rutgers,ESPN Plus,9/15/2007 3:30:00 PM,T
+Utah St. at Oklahoma,FSN PPV,9/15/2007 3:30:00 PM,T
+Tennessee at Florida,CBS HD,9/15/2007 3:30:00 PM,T
+Delaware St. at Kent St.,Web Video Available,9/15/2007 4:00:00 PM,W
+New Hampshire at Marshall,Web Video Available,9/15/2007 4:30:00 PM,W
+Ball St. at Navy,CSTV,9/15/2007 5:00:00 PM,T
+UCLA at Utah,Versus,9/15/2007 5:00:00 PM,T
+Southern Miss at East Carolina,WITN,9/15/2007 6:00:00 PM,T
+Wofford at NC State,ESPN360,9/15/2007 6:00:00 PM,W
+Arkansas at Alabama,ESPN HD,9/15/2007 6:45:00 PM,T
+South Carolina St. at South Carolina,CSS PPV,9/15/2007 7:00:00 PM,T
+Ole Miss at Vanderbilt,CSS PPV,9/15/2007 7:00:00 PM,T
+McNeese St. at UL-Lafayette,Web Video Available,9/15/2007 7:00:00 PM,W
+Houston at Tulane,Web Video Available,9/15/2007 7:00:00 PM,W
+Alcorn St. at UAB,Web Video Available,9/15/2007 7:00:00 PM,W
+Louisville at Kentucky,ESPN Classic,9/15/2007 7:30:00 PM,T
+Middle Tennessee at LSU,TigerVision PPV,9/15/2007 8:00:00 PM,T
+Wyoming at Boise St.,KTVB,9/15/2007 8:00:00 PM,T
+UTEP at New Mexico,AggieVision,9/15/2007 8:00:00 PM,T
+Jacksonville St. at Memphis,Web Video Available,9/15/2007 8:00:00 PM,W
+Duke at Northwestern,Big Ten Network HD,9/15/2007 8:00:00 PM,T
+Boston College at Georgia Tech,ESPN2 HD,9/15/2007 8:00:00 PM,T
+USC at Nebraska,ABC HD,9/15/2007 8:00:00 PM,T
+BYU at Tulsa,CSTV,9/15/2007 9:00:00 PM,T
+Nicholls St. at Nevada,ESPN Plus,9/15/2007 9:00:00 PM,T
+Hawai'i at UNLV,The mtn.,9/15/2007 9:30:00 PM,T
+Florida St. at Colorado,ESPN HD,9/15/2007 10:00:00 PM,T
+Western Kentucky at Middle Tennessee,ESPN Plus,9/20/2007 7:00:00 PM,T
+Texas A&M at Miami (FL),ESPN HD,9/20/2007 7:30:00 PM,T
+Oklahoma at Tulsa,ESPN2 HD,9/21/2007 8:00:00 PM,T
+Illinois at Indiana,Big Ten Network HD,9/22/2007 12:00:00 PM,T
+Georgia Tech at Virginia,ESPNU,9/22/2007 12:00:00 PM,T
+Clemson at NC State,Raycom/LF Sports,9/22/2007 12:00:00 PM,T
+North Carolina at USF,ESPN HD,9/22/2007 12:00:00 PM,T
+East Carolina at West Virginia,ESPN2 HD,9/22/2007 12:00:00 PM,T
+Syracuse at Louisville,ESPN Plus,9/22/2007 12:00:00 PM,T
+Temple at Bowling Green,ESPN Plus,9/22/2007 12:00:00 PM,T
+Kent St. at Akron,ESPN Plus,9/22/2007 12:00:00 PM,T
+Florida at Ole Miss,Lincoln Financial Sports,9/22/2007 12:30:00 PM,T
+Ball St. at Nebraska,FSN PPV,9/22/2007 12:30:00 PM,T
+Army at Boston College ,ESPN Classic,9/22/2007 1:00:00 PM,T
+Duke at Navy,CSTV,9/22/2007 1:00:00 PM,T
+William & Mary at Virginia Tech,ACC Select,9/22/2007 1:30:00 PM,W
+Air Force at BYU,The mtn.,9/22/2007 3:00:00 PM,T
+Wyoming at Ohio,WSFJ,9/22/2007 3:00:00 PM,T
+Howard at Eastern Michigan,Comcast Local,9/22/2007 3:30:00 PM,T
+North Dakota St. at Central Michigan,Web Video Available,9/22/2007 3:30:00 PM,W
+South Carolina at LSU,CBS HD,9/22/2007 3:30:00 PM,T
+Memphis at UCF,CSS,9/22/2007 3:30:00 PM,T
+Michigan St. at Notre Dame,NBC HD,9/22/2007 3:30:00 PM,T
+Penn St. at Michigan,ABC HD,9/22/2007 3:30:00 PM,T
+Northwestern at Ohio St.,ESPN HD,9/22/2007 3:30:00 PM,T
+Maryland at Wake Forest,ESPNU,9/22/2007 3:30:00 PM,T
+Texas Tech at Oklahoma St.,FSN HD,9/22/2007 3:30:00 PM,T
+Colorado St. at Houston,CSTV,9/22/2007 4:30:00 PM,T
+Northern Illinois at Idaho,KBCI,9/22/2007 5:00:00 PM,T
+Kentucky at Arkansas,ESPN2 HD,9/22/2007 6:00:00 PM,T
+Baylor at Buffalo,Web Video Available,9/22/2007 6:00:00 PM,W
+Portland St. at San Diego St.,The mtn.,9/22/2007 6:30:00 PM,T
+New Mexico St. at Auburn,CSS PPV,9/22/2007 7:00:00 PM,T
+Arkansas St. at Tennessee,Vol Network PPV,9/22/2007 7:00:00 PM,T
+Iowa St. at Toledo,Web Video Available,9/22/2007 7:00:00 PM,W
+Central Connecticut St. at Western Michigan,Web Video Available,9/22/2007 7:00:00 PM,W
+FAU at North Texas,CSS,9/22/2007 7:00:00 PM,T
+Troy at UL-Lafayette,Troy Sports,9/22/2007 7:00:00 PM,T
+Gardner-Webb at Mississippi St.,Web Video Available,9/22/2007 7:00:00 PM,W
+Rice at Texas,FSN HD,9/22/2007 7:00:00 PM,T
+Connecticut at Pittsburgh,ESPNU,9/22/2007 7:00:00 PM,T
+Marshall at Cincinnati,ESPN Plus,9/22/2007 7:00:00 PM,T
+Georgia at Alabama,ESPN HD,9/22/2007 7:45:00 PM,T
+Sacramento St. at New Mexico,Web Video Available,9/22/2007 8:00:00 PM,W
+San Jose St. at Utah St.,ESPN Plus,9/22/2007 8:00:00 PM,T
+Southeastern Louisiana at Tulane,Web Video Available,9/22/2007 8:00:00 PM,W
+Iowa at Wisconsin,ABC HD,9/22/2007 8:00:00 PM,T
+SMU at TCU,CSTV,9/22/2007 8:30:00 PM,T
+Purdue at Minnesota,ESPN2 HD,9/22/2007 9:00:00 PM,T
+Texas Southern at UTEP,Web Video Available,9/22/2007 9:00:00 PM,W
+Utah at UNLV,The mtn.,9/22/2007 10:00:00 PM,T
+Charleston Southern at Hawai'i,Oceanic PPV,9/22/2007 11:59:00 PM,T
+Memphis at Arkansas St.,Web Video Available,9/27/2007 7:00:00 PM,W
+Southern Miss at Boise St.,ESPN HD,9/27/2007 7:30:00 PM,T
+West Virginia at USF,ESPN2 HD,9/28/2007 8:00:00 PM,T
+Akron at Connecticut,ESPN Plus,9/29/2007 12:00:00 PM,T
+North Carolina at Virginia Tech,Raycom/LF Sports,9/29/2007 12:00:00 PM,T
+LSU at Tulane,ESPN2 HD,9/29/2007 12:00:00 PM,T
+Temple at Army,ESPNU,9/29/2007 12:00:00 PM,T
+Notre Dame at Purdue,ESPN HD,9/29/2007 12:00:00 PM,T
+Indiana at Iowa,Big Ten Network HD,9/29/2007 12:00:00 PM,T
+Penn St. at Illinois,Big Ten Network HD,9/29/2007 12:00:00 PM,T
+Michigan at Northwestern,Big Ten Network HD,9/29/2007 12:00:00 PM,T
+Northern Illinois at Central Michigan,ESPN Plus,9/29/2007 12:00:00 PM,T
+Mississippi St. at South Carolina,Lincoln Financial Sports,9/29/2007 12:30:00 PM,T
+Baylor at Texas A&M,Versus,9/29/2007 12:30:00 PM,T
+Massachusetts at Boston College,ESPN360,9/29/2007 1:00:00 PM,W
+Air Force at Navy,CSTV,9/29/2007 1:00:00 PM,T
+FAU at Kentucky,Big Blue PPV,9/29/2007 1:00:00 PM,T
+Buffalo at Ball St.,Web Video Available,9/29/2007 1:00:00 PM,W
+Oklahoma at Colorado,FSN HD,9/29/2007 1:30:00 PM,T
+Kent St. at Ohio,FSN Ohio,9/29/2007 3:00:00 PM,T
+Syracuse at Miami (OH),ONN,9/29/2007 3:00:00 PM,T
+Utah St. at Utah,The mtn.,9/29/2007 3:00:00 PM,T
+Kansas St. at Texas,ABC,9/29/2007 3:30:00 PM,T
+Clemson at Georgia Tech,ABC HD,9/29/2007 3:30:00 PM,T
+Louisville at NC State,ESPNU,9/29/2007 3:30:00 PM,T
+Maryland at Rutgers,ABC,9/29/2007 3:30:00 PM,T
+Michigan St. at Wisconsin,ABC HD,9/29/2007 3:30:00 PM,T
+UC-Davis at San Jose St.,CSN West,9/29/2007 4:00:00 PM,T
+UTEP at SMU,CSTV,9/29/2007 4:30:00 PM,T
+Hawai'i at Idaho,Oceanic PPV,9/29/2007 5:00:00 PM,T
+Florida St. vs. Alabama<br>(at Jacksonville, FL),CBS HD,9/29/2007 5:00:00 PM,T
+Western Kentucky at Bowling Green,Web Video Available,9/29/2007 6:00:00 PM,W
+UL-Lafayette at UCF,Web Video Available,9/29/2007 6:00:00 PM,W
+East Carolina at Houston,WITN,9/29/2007 7:00:00 PM,T
+UAB at Tulsa,Web Video Available,9/29/2007 7:00:00 PM,W
+Pittsburgh at Virginia,ESPNU,9/29/2007 7:00:00 PM,T
+Western Michigan at Toledo,Web Video Available,9/29/2007 7:00:00 PM,W
+Colorado St. at TCU,The mtn.,9/29/2007 7:00:00 PM,T
+FIU at Middle Tennessee,Web Video Available,9/29/2007 7:00:00 PM,W
+UL-Monroe at Troy,CSS,9/29/2007 7:00:00 PM,T
+Auburn at Florida,ESPN HD,9/29/2007 8:00:00 PM,T
+UAPB at New Mexico St.,AggieVision,9/29/2007 8:00:00 PM,T
+Ohio St. at Minnesota,ESPN2 HD,9/29/2007 8:00:00 PM,T
+BYU at New Mexico,CSTV,9/29/2007 8:30:00 PM,T
+Cincinnati at San Diego St.,Versus,9/29/2007 10:00:00 PM,T
+UNLV at Nevada,Web Video Available,9/29/2007 10:00:00 PM,W
+Louisiana Tech at Fresno St.,Web Video Available,9/29/2007 10:00:00 PM,W
+Marshall at Memphis,ESPN2 HD,10/2/2007 8:00:00 PM,T
+Rice at Southern Miss,ESPN2 HD,10/3/2007 8:00:00 PM,T
+Kentucky at South Carolina,ESPN HD,10/4/2007 7:30:00 PM,T
+Utah at Louisville,ESPN HD,10/5/2007 8:00:00 PM,T
+West Virginia at Syracuse,ESPN Plus,10/6/2007 12:00:00 PM,T
+Miami (FL) at North Carolina,ESPN2 HD,10/6/2007 12:00:00 PM,T
+Bowling Green at Boston College,ESPNU,10/6/2007 12:00:00 PM,T
+Georgia Tech at Maryland,Raycom/LF Sports,10/6/2007 12:00:00 PM,T
+Kansas at Kansas St.,FSN HD,10/6/2007 12:00:00 PM,T
+Wisconsin at Illinois,ESPN HD,10/6/2007 12:00:00 PM,T
+Eastern Michigan at Michigan,Big Ten Network HD,10/6/2007 12:00:00 PM,T
+Northwestern at Michigan St.,Big Ten Network HD,10/6/2007 12:00:00 PM,T
+Minnesota at Indiana,Big Ten Network HD,10/6/2007 12:00:00 PM,T
+Central Michigan at Ball St.,ESPN Plus,10/6/2007 12:00:00 PM,T
+Vanderbilt at Auburn,Lincoln Financial Sports,10/6/2007 12:30:00 PM,T
+Ohio at Buffalo,Web Video Available,10/6/2007 1:00:00 PM,W
+Northern Illinois at Temple,Web Video Available,10/6/2007 1:00:00 PM,W
+Wake Forest at Duke,ACC Select,10/6/2007 1:00:00 PM,W
+TCU at Wyoming,The mtn.,10/6/2007 2:00:00 PM,T
+Miami (OH) at Kent St.,FSN Ohio,10/6/2007 3:00:00 PM,T
+Houston at Alabama,Crimson Tide PPV,10/6/2007 3:00:00 PM,T
+Georgia at Tennessee,CBS HD,10/6/2007 3:30:00 PM,T
+USF at FAU,ESPNU,10/6/2007 3:30:00 PM,T
+Oklahoma vs. Texas<br>(at Dallas, TX),ABC HD,10/6/2007 3:30:00 PM,T
+NC State at Florida St.,ABC,10/6/2007 3:30:00 PM,T
+Iowa at Penn St.,ABC HD,10/6/2007 3:30:00 PM,T
+Fresno St. at Nevada,KFRE,10/6/2007 4:00:00 PM,T
+Idaho at San Jose St.,KBCI,10/6/2007 4:00:00 PM,T
+San Diego St. at Colorado St.,The mtn.,10/6/2007 5:30:00 PM,T
+Virginia Tech at Clemson,ESPN HD,10/6/2007 6:00:00 PM,T
+Tulane at Army,ESPNU,10/6/2007 7:00:00 PM,T
+Akron at Western Michigan,Web Video Available,10/6/2007 7:00:00 PM,W
+Liberty at Toledo,Web Video Available,10/6/2007 7:00:00 PM,W
+Virginia at Middle Tennessee,CSS,10/6/2007 7:00:00 PM,T
+North Texas at UL-Lafayette,ESPN Plus,10/6/2007 7:00:00 PM,T
+Arkansas St. at UL-Monroe,Web Video Available,10/6/2007 7:00:00 PM,W
+Troy at FIU,Web Video Available,10/6/2007 7:00:00 PM,W
+UCF at East Carolina,CSTV,10/6/2007 7:30:00 PM,T
+Oklahoma St. at Texas A&M,FSN HD,10/6/2007 7:30:00 PM,T
+Cincinnati at Rutgers,ESPN2 HD,10/6/2007 8:00:00 PM,T
+Ohio St. at Purdue,ABC HD,10/6/2007 8:00:00 PM,T
+Florida at LSU,CBS HD,10/6/2007 8:00:00 PM,T
+UNLV at Air Force,The mtn.,10/6/2007 9:00:00 PM,T
+Tulsa at UTEP,Web Video Available,10/6/2007 9:00:00 PM,W
+Nebraska at Missouri,ESPN HD,10/6/2007 9:15:00 PM,T
+Utah St. at Hawai'i,Oceanic PPV,10/6/2007 11:59:00 PM,T
+New Mexico St. at Boise St.,ESPN HD,10/7/2007 8:00:00 PM,T
+Navy at Pittsburgh,ESPN HD,10/10/2007 8:00:00 PM,T
+Florida St. at Wake Forest,ESPN HD,10/11/2007 7:30:00 PM,T
+Hawai'i at San Jose St.,ESPN HD,10/12/2007 8:00:00 PM,T
+Eastern Michigan at Ohio,ESPN Plus,10/13/2007 12:00:00 PM,T
+Georgia Tech at Miami (FL),ESPN HD,10/13/2007 12:00:00 PM,T
+Virginia Tech at Duke,Raycom/LF Sports,10/13/2007 12:00:00 PM,T
+UCF at USF,ESPNU,10/13/2007 12:00:00 PM,T
+Rutgers at Syracuse,ESPN Plus,10/13/2007 12:00:00 PM,T
+Illinois at Iowa,ESPN2 HD,10/13/2007 12:00:00 PM,T
+Purdue at Michigan,Big Ten Network HD,10/13/2007 12:00:00 PM,T
+Minnesota at Northwestern,Big Ten Network HD,10/13/2007 12:00:00 PM,T
+Kent St. at Ohio St.,Big Ten Network HD,10/13/2007 12:00:00 PM,T
+Texas at Iowa St.,FSN HD,10/13/2007 12:30:00 PM,T
+Baylor at Kansas,FOX College Sports,10/13/2007 12:30:00 PM,T
+Oklahoma St. at Nebraska,FSN PPV,10/13/2007 12:30:00 PM,T
+Alabama at Ole Miss,Lincoln Financial Sports,10/13/2007 12:30:00 PM,T
+Toledo at Buffalo,Web Video Available,10/13/2007 1:00:00 PM,W
+Western Kentucky at Ball St.,Web Video Available,10/13/2007 2:00:00 PM,W
+New Mexico at Wyoming,The mtn.,10/13/2007 2:00:00 PM,T
+Tennessee at Mississippi St.,Vol Network PPV,10/13/2007 2:30:00 PM,T
+San Diego St. at Utah,4SD,10/13/2007 3:00:00 PM,T
+Bowling Green at Miami (OH),FSN Ohio,10/13/2007 3:00:00 PM,T
+Army at Central Michigan,Comcast Local,10/13/2007 3:30:00 PM,T
+LSU at Kentucky,CBS HD,10/13/2007 3:30:00 PM,T
+Texas A&M at Texas Tech,ABC,10/13/2007 3:30:00 PM,T
+South Carolina at North Carolina,ABC HD,10/13/2007 3:30:00 PM,T
+Connecticut at Virginia,ESPNU,10/13/2007 3:30:00 PM,T
+Wisconsin at Penn St.,ABC HD,10/13/2007 3:30:00 PM,T
+Rice at Houston,CSTV,10/13/2007 3:30:00 PM,T
+Boston College at Notre Dame,NBC HD,10/13/2007 3:30:00 PM,T
+Western Michigan at Northern Illinois,CSN Chicago,10/13/2007 4:00:00 PM,T
+Fresno St. at Idaho,KFRE<br>Altitude,10/13/2007 5:00:00 PM,T
+Air Force at Colorado St.,The mtn.,10/13/2007 5:30:00 PM,T
+Temple at Akron,Web Video Available,10/13/2007 6:00:00 PM,W
+Georgia at Vanderbilt,ESPN2 HD,10/13/2007 6:00:00 PM,T
+Missouri at Oklahoma,FSN HD,10/13/2007 6:30:00 PM,T
+Louisville at Cincinnati,ESPNU,10/13/2007 7:00:00 PM,T
+Marshall at Tulsa,WOWK,10/13/2007 7:00:00 PM,T
+Tulane at UAB,Web Video Available,10/13/2007 7:00:00 PM,W
+Indiana at Michigan St.,Big Ten Network HD,10/13/2007 7:00:00 PM,T
+UL-Monroe at North Texas,ESPN Plus,10/13/2007 7:00:00 PM,T
+UL-Lafayette at Arkansas St.,Web Video Available,10/13/2007 7:00:00 PM,W
+New Mexico St. at Louisiana Tech,ESPN Plus,10/13/2007 7:00:00 PM,T
+SMU at Southern Miss,CSTV,10/13/2007 7:30:00 PM,T
+Auburn at Arkansas,ESPN HD,10/13/2007 7:45:00 PM,T
+Middle Tennessee at Memphis,Web Video Available,10/13/2007 8:00:00 PM,W
+East Carolina at UTEP,MASN,10/13/2007 9:00:00 PM,T
+Colorado at Kansas St.,ESPN2 HD,10/13/2007 9:15:00 PM,T
+BYU at UNLV,The mtn.,10/13/2007 9:30:00 PM,T
+Nevada at Boise St.,ESPN HD,10/14/2007 8:00:00 PM,T
+USF at Rutgers,ESPN HD,10/18/2007 7:30:00 PM,T
+Utah at TCU,Versus,10/18/2007 8:00:00 PM,T
+Northwestern vs. Eastern Michigan<br>(at Detroit, MI),ESPNU,10/19/2007 7:30:00 PM,T
+Louisville at Connecticut,ESPN HD,10/19/2007 8:00:00 PM,T
+Cincinnati at Pittsburgh,ESPN Plus,10/20/2007 12:00:00 PM,T
+Central Michigan at Clemson,ESPNU,10/20/2007 12:00:00 PM,T
+Army at Georgia Tech,Raycom/LF Sports,10/20/2007 12:00:00 PM,T
+Penn St. at Indiana,ESPN HD,10/20/2007 12:00:00 PM,T
+Iowa at Purdue,ESPN2 HD,10/20/2007 12:00:00 PM,T
+North Dakota St. at Minnesota,Big Ten Network HD,10/20/2007 12:00:00 PM,T
+Northern Illinois at Wisconsin,Big Ten Network HD,10/20/2007 12:00:00 PM,T
+Miami (OH) at Temple,ESPN Plus,10/20/2007 12:00:00 PM,T
+Tennessee at Alabama,Lincoln Financial Sports,10/20/2007 12:30:00 PM,T
+Vanderbilt at South Carolina,CSS PPV,10/20/2007 12:30:00 PM,T
+Oklahoma at Iowa St.,FSN HD,10/20/2007 12:30:00 PM,T
+Texas at Baylor,Versus,10/20/2007 12:30:00 PM,T
+Wake Forest at Navy,CSTV,10/20/2007 1:00:00 PM,T
+Bowling Green at Kent St.,Web Video Available,10/20/2007 1:00:00 PM,W
+Ball St. at Western Michigan,Comcast Local,10/20/2007 2:00:00 PM,T
+Wyoming at Air Force,The mtn.,10/20/2007 2:00:00 PM,T
+Nevada at Utah St.,KAME<br>KJZZ,10/20/2007 3:00:00 PM,T
+Memphis at Rice,Web Video Available,10/20/2007 3:00:00 PM,W
+USC at Notre Dame,NBC HD,10/20/2007 3:30:00 PM,T
+Michigan St. at Ohio St.,ABC HD,10/20/2007 3:30:00 PM,T
+Texas Tech at Missouri,ABC,10/20/2007 3:30:00 PM,T
+Miami (FL) at Florida St.,ABC HD,10/20/2007 3:30:00 PM,T
+Mississippi St. at West Virginia,ESPN Plus,10/20/2007 3:30:00 PM,T
+Arkansas St. at Middle Tennessee,Web Video Available,10/20/2007 3:30:00 PM,W
+North Texas at Troy,Troy Sports,10/20/2007 3:30:00 PM,T
+Florida at Kentucky,CBS HD,10/20/2007 3:30:00 PM,T
+Buffalo at Syracuse,ESPNU,10/20/2007 4:00:00 PM,T
+Tulsa at UCF,Web Video Available,10/20/2007 4:00:00 PM,W
+NC State at East Carolina,CSTV,10/20/2007 4:30:00 PM,T
+FAU at UL-Lafayette,ESPN Plus,10/20/2007 5:00:00 PM,T
+San Jose St. at Fresno St.,KFRE,10/20/2007 5:00:00 PM,T
+Eastern Washington at BYU,The mtn.,10/20/2007 5:30:00 PM,T
+Kansas at Colorado,ESPN HD,10/20/2007 5:45:00 PM,T
+Houston at UAB,Web Video Available,10/20/2007 7:00:00 PM,W
+Ohio at Toledo,WSFJ,10/20/2007 7:00:00 PM,T
+Boise St. at Louisiana Tech,KTVB,10/20/2007 7:00:00 PM,T
+FIU at UL-Monroe,Web Video Available,10/20/2007 7:00:00 PM,W
+Idaho at New Mexico St.,AggieVision,10/20/2007 8:00:00 PM,T
+Tulane at SMU,FSN Southwest,10/20/2007 8:00:00 PM,T
+Michigan at Illinois,ABC HD,10/20/2007 8:00:00 PM,T
+Virginia at Maryland,ESPN2 HD,10/20/2007 8:00:00 PM,T
+New Mexico at San Diego St.,CSTV,10/20/2007 8:30:00 PM,T
+Auburn at LSU,ESPN HD,10/20/2007 9:00:00 PM,T
+Southern Miss at Marshall,ESPN HD,10/21/2007 8:00:00 PM,T
+Boston College at Virginia Tech,ESPN HD,10/25/2007 7:30:00 PM,T
+Air Force at New Mexico,Versus,10/25/2007 9:00:00 PM,T
+Boise St. at Fresno St.,ESPN2 HD,10/26/2007 9:00:00 PM,T
+North Carolina at Wake Forest,Raycom/LF Sports,10/27/2007 12:00:00 PM,T
+Colorado at Texas Tech,ABC,10/27/2007 12:00:00 PM,T
+West Virginia at Rutgers,ABC HD,10/27/2007 12:00:00 PM,T
+Pittsburgh at Louisville,ESPN Plus,10/27/2007 12:00:00 PM,T
+Michigan St. at Iowa,ESPN2 HD,10/27/2007 12:00:00 PM,T
+Ball St. at Illinois,Big Ten Network HD,10/27/2007 12:00:00 PM,T
+Northwestern at Purdue,Big Ten Network HD,10/27/2007 12:00:00 PM,T
+Indiana at Wisconsin,Big Ten Network HD,10/27/2007 12:00:00 PM,T
+Mississippi St. at Kentucky,Lincoln Financial Sports,10/27/2007 12:30:00 PM,T
+Akron at Buffalo,Web Video Available,10/27/2007 1:00:00 PM,W
+Central Michigan at Kent St.,Web Video Available,10/27/2007 1:00:00 PM,W
+Delaware at Navy,CSTV,10/27/2007 1:00:00 PM,T
+UNLV at Wyoming,The mtn.,10/27/2007 2:00:00 PM,T
+Louisiana Tech at Utah St.,ESPN Plus,10/27/2007 3:00:00 PM,T
+Memphis at Tulane,Web Video Available,10/27/2007 3:00:00 PM,W
+SMU at Tulsa,KTXA,10/27/2007 3:00:00 PM,T
+UAB at East Carolina,MASN,10/27/2007 3:30:00 PM,T
+Minnesota at Michigan,ESPN Classic,10/27/2007 3:30:00 PM,T
+USF at Connecticut,ABC HD,10/27/2007 3:30:00 PM,T
+Nebraska at Texas,ABC,10/27/2007 3:30:00 PM,T
+Clemson at Maryland,ABC,10/27/2007 3:30:00 PM,T
+Western Michigan at Eastern Michigan,Comcast Local,10/27/2007 3:30:00 PM,T
+Georgia vs. Florida<br>(at Jacksonville, FL),CBS HD,10/27/2007 3:30:00 PM,T
+UL-Monroe at FAU,Web Video Available,10/27/2007 4:00:00 PM,W
+Idaho at Nevada,KBCI,10/27/2007 4:00:00 PM,T
+Virginia at NC State,ESPNU,10/27/2007 4:30:00 PM,T
+Rice at Marshall,CSTV,10/27/2007 4:30:00 PM,T
+Utah at Colorado St.,The mtn.,10/27/2007 5:30:00 PM,T
+Ohio at Bowling Green,WSFJ,10/27/2007 6:00:00 PM,T
+Ole Miss at Auburn,CSS PPV,10/27/2007 6:00:00 PM,T
+Northern Illinois at Toledo,Web Video Available,10/27/2007 7:00:00 PM,W
+Middle Tennessee at North Texas,Web Video Available,10/27/2007 7:00:00 PM,W
+Troy at Arkansas St.,ESPN Plus,10/27/2007 7:00:00 PM,T
+Kansas at Texas A&M,ESPN2 HD,10/27/2007 7:00:00 PM,T
+South Carolina at Tennessee,ESPN HD,10/27/2007 7:45:00 PM,T
+Duke at Florida St.,ESPNU,10/27/2007 8:00:00 PM,T
+Ohio St. at Penn St.,ABC HD,10/27/2007 8:00:00 PM,T
+Houston at UTEP,Web Video Available,10/27/2007 9:00:00 PM,W
+New Mexico St. at Hawai'i,Oceanic PPV,10/27/2007 11:59:00 PM,T
+UCF at Southern Miss,ESPN HD,10/28/2007 8:00:00 PM,T
+Virginia Tech at Georgia Tech,ESPN HD,11/1/2007 7:30:00 PM,T
+Temple at Ohio,Web Video Available,11/2/2007 7:00:00 PM,W
+Akron at Bowling Green,ESPNU,11/2/2007 7:30:00 PM,T
+Nevada at New Mexico St.,ESPN HD,11/2/2007 8:00:00 PM,T
+NC State at Miami (FL),ESPNU,11/3/2007 12:00:00 PM,T
+Wake Forest at Virginia,Raycom/LF Sports,11/3/2007 12:00:00 PM,T
+Clemson at Duke,CSS Replay Feed,11/3/2007 12:00:00 PM,T
+Syracuse at Pittsburgh,ESPN Plus,11/3/2007 12:00:00 PM,T
+Purdue at Penn St.,ESPN HD,11/3/2007 12:00:00 PM,T
+Iowa at Northwestern,ESPN2 HD,11/3/2007 12:00:00 PM,T
+Wisconsin at Ohio St.,Big Ten Network HD,11/3/2007 12:00:00 PM,T
+Ball St. at Indiana,Big Ten Network HD,11/3/2007 12:00:00 PM,T
+Nebraska at Kansas,FSN HD,11/3/2007 12:30:00 PM,T
+Kansas St. at Iowa St.,Versus,11/3/2007 12:30:00 PM,T
+Vanderbilt at Florida,Lincoln Financial Sports,11/3/2007 12:30:00 PM,T
+Colorado St. at BYU,The mtn.,11/3/2007 2:00:00 PM,T
+East Carolina at Memphis,WITN,11/3/2007 2:00:00 PM,T
+Navy at Notre Dame,NBC HD,11/3/2007 2:30:00 PM,T
+UTEP at Rice,Web Video Available,11/3/2007 3:00:00 PM,W
+Buffalo at Miami (OH),ONN,11/3/2007 3:00:00 PM,T
+FIU at Arkansas St.,ESPN Plus,11/3/2007 3:00:00 PM,T
+San Jose St. at Boise St.,KTVB,11/3/2007 3:00:00 PM,T
+Army at Air Force,CSTV,11/3/2007 3:30:00 PM,T
+Marshall at UCF,CSS,11/3/2007 3:30:00 PM,T
+Michigan at Michigan St.,ABC HD,11/3/2007 3:30:00 PM,T
+Texas at Oklahoma St.,ABC,11/3/2007 3:30:00 PM,T
+Cincinnati at USF,ABC,11/3/2007 3:30:00 PM,T
+Maryland at North Carolina,ESPNU,11/3/2007 3:45:00 PM,T
+Utah St. at Fresno St.,Web Video Available,11/3/2007 5:00:00 PM,W
+LSU at Alabama,CBS HD,11/3/2007 5:00:00 PM,T
+New Mexico at TCU,The mtn.,11/3/2007 5:30:00 PM,T
+Louisiana Tech at Idaho,Web Video Available,11/3/2007 6:00:00 PM,W
+Missouri at Colorado,FSN HD,11/3/2007 6:30:00 PM,T
+Southern Miss at UAB,CSS,11/3/2007 7:00:00 PM,T
+Middle Tennessee at UL-Monroe,Web Video Available,11/3/2007 7:00:00 PM,W
+Eastern Michigan at Toledo,Web Video Available,11/3/2007 7:00:00 PM,W
+Rutgers at Connecticut,ESPNU,11/3/2007 7:15:00 PM,T
+Tulsa at Tulane,CSTV,11/3/2007 7:30:00 PM,T
+Illinois at Minnesota,Big Ten Network HD,11/3/2007 8:00:00 PM,T
+Texas A&M at Oklahoma,ABC,11/3/2007 8:00:00 PM,T
+Florida St. at Boston College,ABC HD,11/3/2007 8:00:00 PM,T
+South Carolina at Arkansas,ESPN2 HD,11/3/2007 8:00:00 PM,T
+Wyoming at San Diego St.,The mtn.,11/3/2007 9:00:00 PM,T
+SMU at Houston,ESPN HD,11/4/2007 8:00:00 PM,T
+Central Michigan at Western Michigan,ESPN2 HD,11/6/2007 7:30:00 PM,T
+Ohio at Akron,ESPN2 HD,11/7/2007 7:30:00 PM,T
+Louisville at West Virginia,ESPN HD,11/8/2007 7:30:00 PM,T
+TCU at BYU,Versus,11/8/2007 9:00:00 PM,T
+Bowling Green at Eastern Michigan,ESPNU,11/9/2007 7:30:00 PM,T
+Rutgers at Army,ESPN2 HD,11/9/2007 8:00:00 PM,T
+Michigan at Wisconsin,ESPN HD,11/10/2007 12:00:00 PM,T
+Indiana at Northwestern,ESPN Classic,11/10/2007 12:00:00 PM,T
+Michigan St. at Purdue,Big Ten Network HD,11/10/2007 12:00:00 PM,T
+Minnesota at Iowa,Big Ten Network HD,11/10/2007 12:00:00 PM,T
+USF at Syracuse,ESPN Plus,11/10/2007 12:00:00 PM,T
+Wake Forest at Clemson,ESPN2 HD,11/10/2007 12:00:00 PM,T
+North Carolina at NC State,Raycom/LF Sports,11/10/2007 12:00:00 PM,T
+Penn St. at Temple,ESPNU,11/10/2007 12:00:00 PM,T
+Alabama at Mississippi St.,Lincoln Financial Sports,11/10/2007 12:30:00 PM,T
+Arkansas at Tennessee,Lincoln Financial Sports,11/10/2007 12:30:00 PM,T
+Texas A&M at Missouri,FSN HD,11/10/2007 12:30:00 PM,T
+Kansas St. at Nebraska,Versus,11/10/2007 12:30:00 PM,T
+Colorado at Iowa St.,FOX College Sports,11/10/2007 12:30:00 PM,T
+Georgia Tech at Duke,ACC Select,11/10/2007 1:00:00 PM,W
+Rice at SMU,Web Video Available,11/10/2007 2:00:00 PM,W
+Kentucky at Vanderbilt,Big Blue Sports Delayed Feed,11/10/2007 2:00:00 PM,T
+Air Force at Notre Dame,NBC HD,11/10/2007 2:30:00 PM,T
+Houston at Tulsa,Web Video Available,11/10/2007 3:00:00 PM,W
+Boise St. at Utah St.,KTVB<br>KJZZ,11/10/2007 3:00:00 PM,T
+Colorado St. at New Mexico,The mtn.,11/10/2007 3:00:00 PM,T
+Wyoming at Utah,CSTV,11/10/2007 3:30:00 PM,T
+Auburn at Georgia,CBS HD,11/10/2007 3:30:00 PM,T
+Illinois at Ohio St.,ABC HD,11/10/2007 3:30:00 PM,T
+Connecticut at Cincinnati,ESPNU,11/10/2007 3:30:00 PM,T
+Texas Tech at Texas,ABC,11/10/2007 3:30:00 PM,T
+Florida St. at Virginia Tech,ABC,11/10/2007 3:30:00 PM,T
+New Mexico St. at San Jose St.,AggieVision,11/10/2007 4:00:00 PM,T
+Kent St. at Northern Illinois,CSN Chicago,11/10/2007 4:00:00 PM,T
+Memphis at Southern Miss,CSS,11/10/2007 4:30:00 PM,T
+East Carolina at Marshall,WITN,11/10/2007 4:30:00 PM,T
+Baylor at Oklahoma,FSN HD,11/10/2007 6:30:00 PM,T
+UTEP at Tulane,Web Video Available,11/10/2007 7:00:00 PM,W
+Virginia at Miami (FL),ESPN2 HD,11/10/2007 7:15:00 PM,T
+UCF at UAB,CSTV,11/10/2007 7:30:00 PM,T
+Florida at South Carolina,ESPN HD,11/10/2007 7:45:00 PM,T
+Louisiana Tech at LSU,TigerVision PPV,11/10/2007 8:00:00 PM,T
+Boston College at Maryland,ABC,11/10/2007 8:00:00 PM,T
+Kansas at Oklahoma St.,ABC HD,11/10/2007 8:00:00 PM,T
+Fresno St. at Hawai'i,ESPN2<br>KFRE<br>Oceanic PPV,11/10/2007 11:00:00 PM,T
+San Diego St. at UNLV,CSTV,11/10/2007 11:00:00 PM,T
+Toledo at Ball St.,ESPN2 HD,11/13/2007 7:30:00 PM,T
+Akron at Miami (OH),ESPN2 HD,11/14/2007 7:30:00 PM,T
+North Texas at Arkansas St.,ESPN Plus,11/15/2007 7:00:00 PM,T
+Eastern Michigan at Central Michigan,Comcast Local,11/16/2007 7:00:00 PM,T
+Hawai'i at Nevada,ESPN2 HD,11/16/2007 11:00:00 PM,T
+FAU at Florida,Sun Sports PPV,11/17/2007 12:00:00 PM,T
+Kent St. at Temple,Web Video Available,11/17/2007 12:00:00 PM,W
+Syracuse at Connecticut,ESPN2 HD,11/17/2007 12:00:00 PM,T
+Pittsburgh at Rutgers,ESPN Plus,11/17/2007 12:00:00 PM,T
+Maryland at Florida St.,Raycom/LF Sports,11/17/2007 12:00:00 PM,T
+North Carolina at Georgia Tech,Raycom/LF Sports,11/17/2007 12:00:00 PM,T
+Tulsa at Army,ESPN Classic,11/17/2007 12:00:00 PM,T
+Ohio St. at Michigan,ABC HD,11/17/2007 12:00:00 PM,T
+Northwestern at Illinois,ESPN HD,11/17/2007 12:00:00 PM,T
+Missouri at Kansas St.,FSN HD,11/17/2007 12:30:00 PM,T
+Kentucky at Georgia,Lincoln Financial Sports,11/17/2007 12:30:00 PM,T
+Bowling Green at Buffalo,Web Video Available,11/17/2007 1:00:00 PM,W
+UCF at SMU,Web Video Available,11/17/2007 2:00:00 PM,W
+BYU at Wyoming,The mtn.,11/17/2007 2:00:00 PM,T
+Vanderbilt at Tennessee,Vol Network PPV,11/17/2007 2:00:00 PM,T
+Idaho at Boise St.,KTVB,11/17/2007 2:00:00 PM,T
+Duke at Notre Dame,NBC HD,11/17/2007 2:30:00 PM,T
+Tulane at Rice,Web Video Available,11/17/2007 3:00:00 PM,W
+LSU at Ole Miss,CBS HD,11/17/2007 3:30:00 PM,T
+Iowa St. at Kansas,ABC,11/17/2007 3:30:00 PM,T
+Miami (FL) at Virginia Tech,ABC HD,11/17/2007 3:30:00 PM,T
+Penn St. at Michigan St.,ABC HD,11/17/2007 3:30:00 PM,T
+Purdue at Indiana,Big Ten Network HD,11/17/2007 3:30:00 PM,T
+Wisconsin at Minnesota,Big Ten Network HD,11/17/2007 3:30:00 PM,T
+Western Michigan at Iowa,Big Ten Network HD,11/17/2007 3:30:00 PM,T
+Northern Illinois at Navy,CSTV,11/17/2007 3:30:00 PM,T
+UAB at Memphis,CSS,11/17/2007 3:30:00 PM,T
+Marshall at Houston,WOWK,11/17/2007 3:30:00 PM,T
+NC State at Wake Forest,ESPNU,11/17/2007 4:00:00 PM,T
+New Mexico at Utah,The mtn.,11/17/2007 5:30:00 PM,T
+UL-Lafayette at FIU,Web Video Available,11/17/2007 7:00:00 PM,W
+Oklahoma St. at Baylor,FSN HD,11/17/2007 7:00:00 PM,T
+Southern Miss at UTEP,CSTV,11/17/2007 7:30:00 PM,T
+Boston College at Clemson,ESPN2 HD,11/17/2007 7:45:00 PM,T
+West Virginia at Cincinnati,ESPN HD,11/17/2007 7:45:00 PM,T
+Louisville at USF,ESPNU,11/17/2007 8:00:00 PM,T
+Oklahoma at Texas Tech,ABC HD,11/17/2007 8:00:00 PM,T
+Middle Tennessee at Troy,ESPN2 HD,11/20/2007 7:00:00 PM,T
+Central Michigan at Akron,ESPNU,11/23/2007 11:00:00 AM,T
+Nebraska at Colorado,ABC HD,11/23/2007 12:00:00 PM,T
+Ole Miss at Mississippi St.,Lincoln Financial Sports,11/23/2007 12:30:00 PM,T
+Wyoming at Colorado St.,The mtn.,11/23/2007 2:00:00 PM,T
+Toledo at Bowling Green,ESPNU,11/23/2007 2:30:00 PM,T
+Arkansas at LSU,CBS HD,11/23/2007 2:30:00 PM,T
+Texas at Texas A&M,ABC HD,11/23/2007 3:30:00 PM,T
+Boise St. at Hawai'i,ESPN2 HD,11/23/2007 9:00:00 PM,T
+USF at Pittsburgh,ESPN Plus,11/24/2007 12:00:00 PM,T
+Miami (FL) at Boston College,ESPN HD,11/24/2007 12:00:00 PM,T
+Virginia Tech at Virginia,ESPN2 HD,11/24/2007 12:00:00 PM,T
+Maryland at NC State,Raycom/LF Sports,11/24/2007 12:00:00 PM,T
+Buffalo at Kent St.,Web Video Available,11/24/2007 1:00:00 PM,W
+Tulane at East Carolina,MASN,11/24/2007 1:00:00 PM,T
+Tennessee at Kentucky,CBS HD,11/24/2007 1:30:00 PM,T
+Temple at Western Michigan,Web Video Available,11/24/2007 2:00:00 PM,W
+SMU at Memphis,KTXA,11/24/2007 2:00:00 PM,T
+UTEP at UCF,Web Video Available,11/24/2007 2:00:00 PM,W
+Miami (OH) at Ohio,WSFJ,11/24/2007 2:00:00 PM,T
+Utah at BYU,The mtn.,11/24/2007 2:00:00 PM,T
+Tulsa at Rice,Web Video Available,11/24/2007 3:00:00 PM,W
+Arkansas St. at Southern Miss,Web Video Available,11/24/2007 3:00:00 PM,W
+Texas Southern at Houston,Web Video Available,11/24/2007 3:30:00 PM,W
+Kansas St. at Fresno St.,ESPN2,11/24/2007 3:30:00 PM,T
+Utah St. at Idaho,Altitude,11/24/2007 3:30:00 PM,T
+Georgia at Georgia Tech,ABC HD,11/24/2007 3:30:00 PM,T
+Duke at North Carolina,ESPNU,11/24/2007 3:30:00 PM,T
+Connecticut at West Virginia,ABC HD,11/24/2007 3:30:00 PM,T
+Oklahoma St. at Oklahoma,FSN HD,11/24/2007 3:30:00 PM,T
+Nevada at San Jose St.,KAME,11/24/2007 4:00:00 PM,T
+Western Kentucky at North Texas,Web Video Available,11/24/2007 4:00:00 PM,W
+Ball St. at Northern Illinois,CSN Chicago,11/24/2007 4:00:00 PM,T
+UAB at Marshall,WOWK,11/24/2007 4:30:00 PM,T
+Florida St. at Florida,CBS HD,11/24/2007 5:00:00 PM,T
+UNLV at New Mexico,The mtn.,11/24/2007 5:30:00 PM,T
+Clemson at South Carolina,ESPN2 HD,11/24/2007 7:00:00 PM,T
+FAU at FIU,ESPN Plus,11/24/2007 7:00:00 PM,T
+UL-Monroe at UL-Lafayette,Web Video Available,11/24/2007 7:00:00 PM,W
+Cincinnati at Syracuse,ESPNU,11/24/2007 7:15:00 PM,T
+Missouri vs. Kansas<br>(at Kansas City, MO),ABC HD,11/24/2007 8:00:00 PM,T
+Alabama at Auburn,ESPN HD,11/24/2007 8:00:00 PM,T
+Rutgers at Louisville,ESPN HD,11/29/2007 7:30:00 PM,T
+Fresno St. at New Mexico St.,ESPN2 HD,11/30/2007 8:00:00 PM,T
+MAC Championship<br>Central Michigan vs. Miami (OH)<br>(at Detroit, MI),ESPN2 HD,12/1/2007 11:00:00 AM,T
+C-USA Championship<br>Tulsa at UCF,ESPN HD,12/1/2007 12:00:00 PM,T
+ACC Championship<br>Boston College vs. Virginia Tech<br>(at Jacksonville, FL),ABC HD,12/1/2007 1:00:00 PM,T
+FAU at Troy,CSS,12/1/2007 2:00:00 PM,T
+Louisiana Tech at Nevada,Web Video Available,12/1/2007 4:00:00 PM,W
+SEC Championship<br>LSU vs. Tennessee<br>(at Atlanta, GA),CBS HD,12/1/2007 4:00:00 PM,T
+North Texas at FIU,Web Video Available,12/1/2007 6:00:00 PM,W
+BYU at San Diego St.,The mtn.,12/1/2007 6:30:00 PM,T
+Pittsburgh at West Virginia,ESPN HD,12/1/2007 7:45:00 PM,T
+Big 12 Championship<br>Oklahoma vs. Missouri<br>(at San Antonio, TX),ABC HD,12/1/2007 8:00:00 PM,T
+Washington at Hawai'i,ESPN2 HD,12/1/2007 11:30:00 PM,T
