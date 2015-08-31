@@ -1,0 +1,521 @@
+game,network,time,mediaindicator
+Vanderbilt at Wake Forest,ESPNU,9/1/2005 7:00:00 PM,T
+Western Michigan at Virginia,ESPN360,9/3/2005 6:00:00 PM,W
+Texas A&M at Clemson,ABC,9/3/2005 8:00:00 PM,T
+Virginia Tech at NC State,ESPN2 HD,9/4/2005 7:15:00 PM,T
+Miami (FL) at Florida St.,ABC HD,9/5/2005 8:00:00 PM,T
+Clemson at Maryland,ESPN,9/10/2005 12:00:00 PM,T
+Virginia Tech at Duke,JP Sports,9/10/2005 12:00:00 PM,T
+Army at Boston College,ESPN Classic,9/10/2005 12:30:00 PM,T
+North Carolina at Georgia Tech,ABC,9/10/2005 3:30:00 PM,T
+The Citadel at Florida St.,ESPNU,9/10/2005 6:45:00 PM,T
+West Virginia at Maryland,JP Sports,9/17/2005 12:00:00 PM,T
+Miami (FL) at Clemson,ABC,9/17/2005 3:30:00 PM,T
+Ohio at Virginia Tech,ESPNU,9/17/2005 3:30:00 PM,T
+Connecticut at Georgia Tech,ESPNU,9/17/2005 6:45:00 PM,T
+Florida St. at Boston College,ESPN HD,9/17/2005 7:45:00 PM,T
+Colorado at Miami (FL),ABC,9/24/2005 12:00:00 PM,T
+Boston College at Clemson,JP Sports,9/24/2005 12:00:00 PM,T
+North Carolina at NC State,JP Sports,9/24/2005 12:00:00 PM,T
+Georgia Tech at Virginia Tech,ABC,9/24/2005 3:30:00 PM,T
+Maryland at Wake Forest,ESPNU,9/24/2005 3:30:00 PM,T
+Duke at Virginia,ESPN360,9/24/2005 3:30:00 PM,W
+Virginia at Maryland,JP Sports,10/1/2005 12:00:00 PM,T
+Syracuse at Florida St.,ABC,10/1/2005 3:30:00 PM,T
+Clemson at Wake Forest,ESPNU,10/1/2005 3:30:00 PM,T
+USF at Miami (FL),ESPNU,10/1/2005 8:00:00 PM,T
+NC State at Georgia Tech,ESPN HD,10/6/2005 7:30:00 PM,T
+Marshall at Virginia Tech,ESPN2,10/8/2005 12:00:00 PM,T
+Wake Forest at Florida St.,JP Sports,10/8/2005 12:00:00 PM,T
+Virginia at Boston College,ABC,10/8/2005 1:00:00 PM,T
+Duke at Miami (FL),ESPNU,10/8/2005 3:30:00 PM,T
+Clemson at NC State,ESPN HD,10/13/2005 7:30:00 PM,T
+Wake Forest at Boston College,JP Sports,10/15/2005 12:00:00 PM,T
+Georgia Tech at Duke,ESPNU,10/15/2005 3:30:00 PM,T
+Florida St. at Virginia,ESPN HD,10/15/2005 7:45:00 PM,T
+Virginia Tech at Maryland,ESPN HD,10/20/2005 7:30:00 PM,T
+Virginia at North Carolina,JP Sports,10/22/2005 12:00:00 PM,T
+Florida St. at Duke,ESPNU,10/22/2005 3:30:00 PM,T
+Boston College at Virginia Tech,ESPN HD,10/27/2005 7:30:00 PM,T
+North Carolina at Miami (FL),ESPN2,10/29/2005 12:00:00 PM,T
+Southern Miss at NC State,ESPNU,10/29/2005 12:00:00 PM,T
+Wake Forest at Duke,JP Sports,10/29/2005 12:00:00 PM,T
+Maryland at Florida St.,ABC,10/29/2005 3:30:00 PM,T
+Clemson at Georgia Tech,ESPN,10/29/2005 3:30:00 PM,T
+Boston College at North Carolina,JP Sports,11/5/2005 12:00:00 PM,T
+NC State at Florida St.,ABC,11/5/2005 3:30:00 PM,T
+Miami (FL) at Virginia Tech,ESPN HD,11/5/2005 7:45:00 PM,T
+Clemson at Florida St.,ESPN HD,11/12/2005 12:00:00 PM,T
+Maryland at North Carolina,JP Sports,11/12/2005 12:00:00 PM,T
+Georgia Tech at Virginia,ABC,11/12/2005 3:30:00 PM,T
+Miami (FL) at Wake Forest,ABC,11/12/2005 3:30:00 PM,T
+NC State at Boston College,ESPN2 HD,11/12/2005 7:15:00 PM,T
+Virginia Tech at Virginia,ESPN HD,11/19/2005 12:00:00 PM,T
+Boston College at Maryland,JP Sports,11/19/2005 12:00:00 PM,T
+Georgia Tech at Miami (FL),ESPN HD,11/19/2005 7:45:00 PM,T
+Maryland at NC State,ESPN HD,11/26/2005 12:00:00 PM,T
+Virginia at Miami (FL),ABC,11/26/2005 3:30:00 PM,T
+North Carolina at Virginia Tech,ESPN HD,11/26/2005 7:45:00 PM,T
+ACC Championship<br>Florida St. at Virginia Tech,ABC HD,12/3/2005 8:00:00 PM,T
+Notre Dame at Pittsburgh,ABC,9/3/2005 8:00:00 PM,T
+West Virginia at Syracuse,ABC,9/4/2005 1:30:00 PM,T
+Buffalo at Syracuse,ESPN Plus,9/10/2005 3:30:00 PM,T
+Oregon St. at Louisville,ESPN,9/17/2005 12:00:00 PM,T
+Virginia at Syracuse,ESPN2,9/17/2005 12:00:00 PM,T
+UCF at USF,ESPN Plus,9/17/2005 7:00:00 PM,T
+East Carolina at West Virginia,ESPN Plus,9/24/2005 12:00:00 PM,T
+Louisville at USF,ESPNU,9/24/2005 6:45:00 PM,T
+Pittsburgh at Rutgers,ESPN2 HD,9/30/2005 8:00:00 PM,T
+Virginia Tech at West Virginia,ESPN,10/1/2005 12:00:00 PM,T
+FAU at Louisville,ESPN Plus,10/1/2005 12:00:00 PM,T
+Syracuse at Connecticut,ESPN2 HD,10/7/2005 8:00:00 PM,T
+West Virginia at Rutgers,ESPN Plus,10/8/2005 12:00:00 PM,T
+North Carolina at Louisville,WHAS,10/8/2005 4:30:00 PM,T
+Rutgers at Syracuse,ESPN Plus,10/15/2005 12:00:00 PM,T
+USF at Pittsburgh,ESPN360,10/15/2005 2:00:00 PM,W
+Louisville at West Virginia,ABC,10/15/2005 3:30:00 PM,T
+Louisville at Cincinnati,ESPNU,10/22/2005 12:00:00 PM,T
+Syracuse at Pittsburgh,ESPN Plus,10/22/2005 12:00:00 PM,T
+Rutgers at Connecticut,ESPN Plus,10/22/2005 3:00:00 PM,T
+Cincinnati at Syracuse,ESPN Plus,10/29/2005 12:00:00 PM,T
+Connecticut at West Virginia,ESPN2 HD,11/2/2005 7:30:00 PM,T
+Pittsburgh at Louisville,ESPN HD,11/3/2005 7:30:00 PM,T
+USF at Rutgers,ESPN Plus,11/5/2005 12:00:00 PM,T
+West Virginia at Cincinnati,ESPN2 HD,11/9/2005 7:30:00 PM,T
+Rutgers at Louisville,ESPN2 HD,11/11/2005 8:00:00 PM,T
+Connecticut at Pittsburgh,ESPN Plus,11/12/2005 12:00:00 PM,T
+Cincinnati at USF,ESPN Plus,11/19/2005 12:00:00 PM,T
+Pittsburgh at West Virginia,ESPN HD,11/24/2005 8:00:00 PM,T
+USF at Connecticut,ABC,11/26/2005 3:30:00 PM,T
+Syracuse at Louisville,ESPNU,11/26/2005 3:30:00 PM,T
+Louisville at Connecticut,ESPN HD,12/3/2005 7:45:00 PM,T
+TCU at Oklahoma,ABC,9/3/2005 12:00:00 PM,T
+Colorado St. at Colorado,TBS,9/3/2005 3:30:00 PM,T
+UL-Lafayette at Texas,FSN,9/3/2005 7:00:00 PM,T
+Maine at Nebraska,FSN PPV,9/3/2005 7:00:00 PM,T
+Tulsa at Oklahoma,FSN,9/10/2005 12:30:00 PM,T
+Iowa at Iowa St.,ABC,9/10/2005 3:30:00 PM,T
+Wake Forest at Nebraska,TBS,9/10/2005 7:00:00 PM,T
+New Mexico St. at Colorado,FSN,9/10/2005 10:00:00 PM,T
+SMU at Texas A&M,FSN,9/17/2005 12:30:00 PM,T
+Pittsburgh at Nebraska,ABC,9/17/2005 3:30:00 PM,T
+Rice at Texas,FSN,9/17/2005 7:00:00 PM,T
+Arkansas St. at Oklahoma St.,FOX Sports Webcast,9/17/2005 7:00:00 PM,W
+Texas St. at Texas A&M,FSN Regional,9/22/2005 8:30:00 PM,T
+Indiana St. at Texas Tech,FOX Sports Webcast,9/24/2005 7:00:00 PM,W
+Texas at Missouri,ABC,10/1/2005 12:00:00 PM,T
+Baylor at Texas A&M,FSN,10/1/2005 12:30:00 PM,T
+Iowa St. at Nebraska,ABC,10/1/2005 3:30:00 PM,T
+Kansas St. at Oklahoma,FSN,10/1/2005 7:00:00 PM,T
+Kansas at Kansas St.,FSN,10/8/2005 12:00:00 PM,T
+Oklahoma vs. Texas<br>(at Dallas, TX),ABC,10/8/2005 1:00:00 PM,T
+Texas Tech at Nebraska,TBS,10/8/2005 4:00:00 PM,T
+Texas A&M at Colorado,FSN,10/8/2005 7:00:00 PM,T
+Kansas St. at Texas Tech,ABC,10/15/2005 12:00:00 PM,T
+Colorado at Texas,ABC,10/15/2005 3:30:00 PM,T
+Oklahoma vs. Kansas<br>(at Kansas City, MO),TBS,10/15/2005 7:00:00 PM,T
+Nebraska at Baylor,FSN PPV,10/15/2005 7:00:00 PM,T
+Nebraska at Missouri,FSN,10/22/2005 12:30:00 PM,T
+Texas Tech at Texas,ABC,10/22/2005 3:30:00 PM,T
+Baylor at Oklahoma,FSN,10/22/2005 7:00:00 PM,T
+Kansas at Colorado,FSN PPV,10/22/2005 7:00:00 PM,T
+Oklahoma at Nebraska,ABC,10/29/2005 12:00:00 PM,T
+Texas Tech at Baylor,FSN,10/29/2005 12:30:00 PM,T
+Iowa St. at Texas A&M,ABC,10/29/2005 3:30:00 PM,T
+Texas at Oklahoma St.,TBS,10/29/2005 7:00:00 PM,T
+Texas at Baylor,FSN,11/5/2005 12:30:00 PM,T
+Missouri at Colorado,ABC,11/5/2005 3:30:00 PM,T
+Texas A&M at Texas Tech,FSN,11/5/2005 7:00:00 PM,T
+Texas A&M at Oklahoma,ABC,11/12/2005 12:00:00 PM,T
+Kansas at Texas,ABC,11/12/2005 3:30:00 PM,T
+Colorado at Iowa St.,FSN,11/12/2005 7:00:00 PM,T
+Oklahoma at Texas Tech,FSN,11/19/2005 12:00:00 PM,T
+Texas at Texas A&M,ABC,11/25/2005 12:00:00 PM,T
+Nebraska at Colorado,ABC,11/25/2005 3:30:00 PM,T
+Iowa St. at Kansas,FSN,11/26/2005 12:30:00 PM,T
+Oklahoma St. at Oklahoma,ABC,11/26/2005 3:30:00 PM,T
+Big 12 Championship<br>Texas vs. Colorado<br>(at Houston, TX),ABC HD,12/3/2005 1:00:00 PM,T
+Miami (OH) at Ohio St.,ABC,9/3/2005 12:00:00 PM,T
+Bowling Green at Wisconsin,ESPN,9/3/2005 12:00:00 PM,T
+Rutgers at Illinois,ESPN2,9/3/2005 12:00:00 PM,T
+Ohio at Northwestern,ESPNU,9/3/2005 12:00:00 PM,T
+Kent St. at Michigan St.,ESPN Plus,9/3/2005 12:00:00 PM,T
+Ball St. at Iowa,ESPN Plus,9/3/2005 12:00:00 PM,T
+Northern Illinois at Michigan,ABC,9/3/2005 3:30:00 PM,T
+USF at Penn St.,ESPN Plus,9/3/2005 3:30:00 PM,T
+Notre Dame at Michigan,ABC,9/10/2005 12:00:00 PM,T
+Temple at Wisconsin,ESPN Plus,9/10/2005 12:00:00 PM,T
+Cincinnati at Penn St.,ESPN Plus,9/10/2005 12:00:00 PM,T
+Akron at Purdue,ESPN360,9/10/2005 1:00:00 PM,W
+Colorado St. at Minnesota,ESPN2,9/10/2005 2:00:00 PM,T
+Hawai'i at Michigan St.,ESPN Plus,9/10/2005 3:30:00 PM,T
+Northern Illinois at Northwestern,ESPN Classic,9/10/2005 4:00:00 PM,T
+Texas at Ohio St.,ABC,9/10/2005 8:00:00 PM,T
+Eastern Michigan at Michigan,ESPN Plus,9/17/2005 12:00:00 PM,T
+San Diego St. at Ohio St.,ABC,9/17/2005 3:30:00 PM,T
+Northern Iowa at Iowa,ESPN Plus,9/17/2005 3:30:00 PM,T
+Central Michigan at Penn St.,ESPN Plus,9/17/2005 3:30:00 PM,T
+Kentucky at Indiana,ESPN Classic,9/17/2005 6:45:00 PM,T
+FAU at Minnesota,ESPN Plus,9/17/2005 8:30:00 PM,T
+Iowa at Ohio St.,ABC,9/24/2005 12:00:00 PM,T
+Purdue at Minnesota,ESPN,9/24/2005 12:00:00 PM,T
+Penn St. at Northwestern,ESPN2,9/24/2005 12:00:00 PM,T
+Michigan St. at Illinois,ESPN Plus,9/24/2005 12:00:00 PM,T
+Michigan at Wisconsin,ESPN2 HD,9/24/2005 6:00:00 PM,T
+Michigan at Michigan St.,ABC,10/1/2005 12:00:00 PM,T
+Indiana at Wisconsin,ESPN2,10/1/2005 12:00:00 PM,T
+Illinois at Iowa,ESPN Plus,10/1/2005 12:00:00 PM,T
+Minnesota at Penn St.,ABC,10/1/2005 3:30:00 PM,T
+Notre Dame at Purdue,ESPN HD,10/1/2005 7:45:00 PM,T
+Wisconsin at Northwestern,ESPN,10/8/2005 12:00:00 PM,T
+Illinois at Indiana,ESPN Plus,10/8/2005 12:00:00 PM,T
+Minnesota at Michigan,ABC,10/8/2005 1:00:00 PM,T
+Iowa at Purdue,ESPN,10/8/2005 4:30:00 PM,T
+Ohio St. at Penn St.,ESPN HD,10/8/2005 7:45:00 PM,T
+Michigan St. at Ohio St.,ABC,10/15/2005 12:00:00 PM,T
+Wisconsin at Minnesota,ESPN HD,10/15/2005 12:00:00 PM,T
+Northwestern at Purdue,ESPN2,10/15/2005 1:00:00 PM,T
+Indiana at Iowa,ESPN Plus,10/15/2005 12:00:00 PM,T
+Penn St. at Michigan,ABC,10/15/2005 3:30:00 PM,T
+Michigan at Iowa,ABC,10/22/2005 12:00:00 PM,T
+Ohio St. at Indiana,ESPN HD/ESPN Plus,10/22/2005 12:00:00 PM,T
+Northwestern at Michigan St.,ESPN2,10/22/2005 12:00:00 PM,T
+Purdue at Wisconsin,ABC,10/22/2005 3:30:00 PM,T
+Penn St. at Illinois,ESPN2 HD,10/22/2005 7:00:00 PM,T
+Ohio St. at Minnesota,ABC,10/29/2005 12:00:00 PM,T
+Wisconsin at Illinois,ESPN,10/29/2005 12:00:00 PM,T
+Indiana at Michigan St.,ESPN Plus,10/29/2005 12:00:00 PM,T
+Purdue at Penn St.,ABC,10/29/2005 3:30:00 PM,T
+Michigan at Northwestern,ESPN HD,10/29/2005 7:00:00 PM,T
+Iowa at Northwestern,ESPN HD,11/5/2005 12:00:00 PM,T
+Minnesota at Indiana,ESPN2,11/5/2005 12:00:00 PM,T
+Michigan St. at Purdue,ESPN Plus,11/5/2005 12:00:00 PM,T
+Wisconsin at Penn St.,ABC,11/5/2005 3:30:00 PM,T
+Illinois at Penn St.,ESPN,11/5/2005 3:30:00 PM,T
+Northwestern at Ohio St.,ABC,11/12/2005 12:00:00 PM,T
+Indiana at Michigan,ESPN2,11/12/2005 12:00:00 PM,T
+Michigan St. at Minnesota,ESPN Plus,11/12/2005 12:00:00 PM,T
+Illinois at Purdue,ESPN360,11/12/2005 12:00:00 PM,W
+Iowa at Wisconsin,ESPN,11/12/2005 3:30:00 PM,T
+Minnesota at Iowa,ESPN2,11/19/2005 12:00:00 PM,T
+Northwestern at Illinois,ESPN Plus,11/19/2005 12:00:00 PM,T
+Ohio St. at Michigan,ABC,11/19/2005 1:00:00 PM,T
+Purdue at Indiana,ESPN360,11/19/2005 1:00:00 PM,W
+Penn St. at Michigan St.,ESPN HD,11/19/2005 4:00:00 PM,T
+Oregon vs. Houston<br>(at Reliant Stadium),ESPN2,9/1/2005 7:00:00 PM,T
+Minnesota at Tulsa,ESPN2,9/1/2005 10:00:00 PM,T
+Duke at East Carolina,CSTV,9/3/2005 1:00:00 PM,T
+Ole Miss at Memphis,ESPN,9/5/2005 4:00:00 PM,T
+Kansas St. at Marshall,ESPN2,9/10/2005 10:45:00 AM,T
+Sam Houston St. at Houston,C-USA All Access,9/10/2005 7:00:00 PM,W
+TCU at SMU,CSTV,9/10/2005 9:30:00 PM,T
+Houston at UTEP,ESPN2 HD,9/16/2005 8:00:00 PM,T
+Jacksonville St. at UAB,C-USA All Access,9/17/2005 7:00:00 PM,W
+McNeese St. at Southern Miss,C-USA All Access,9/17/2005 7:00:00 PM,W
+Mississippi St. vs. Tulane<br>(at Shreveport, LA),i Network,9/17/2005 8:00:00 PM,T
+Chattanooga at Memphis,C-USA All Access,9/17/2005 8:00:00 PM,W
+Tulane at SMU,C-USA All Access,9/24/2005 2:00:00 PM,W
+Marshall at UCF,C-USA All Access,9/24/2005 6:00:00 PM,T
+Memphis at Tulsa,WLMT,9/24/2005 7:00:00 PM,T
+New Mexico at UTEP,CSTV,9/24/2005 9:00:00 PM,T
+SE Louisiana vs. Tulane<br>(at Baton Rouge, LA),C-USA All Access,10/1/2005 3:30:00 PM,W
+SMU at Marshall,CSTV,10/1/2005 4:00:00 PM,T
+Southern Miss at East Carolina,C-USA All Access,10/1/2005 6:00:00 PM,W
+Houston at Tulsa,C-USA All Access,10/1/2005 7:00:00 PM,W
+Rice at UAB,C-USA All Access,10/1/2005 7:00:00 PM,W
+UTEP at Memphis,CSTV,10/1/2005 8:00:00 PM,T
+Houston vs. Tulane<br>(at Lafayette, LA),i Network,10/8/2005 6:00:00 PM,T
+Memphis at UCF,WLMT,10/8/2005 6:00:00 PM,T
+Rice at East Carolina,C-USA All Access,10/8/2005 6:00:00 PM,T
+SMU at UAB,C-USA All Access,10/8/2005 7:00:00 PM,T
+Tulane at Southern Miss,CSTV,10/8/2005 8:00:00 PM,T
+UTEP vs. Tulane<br>(at Ruston, LA),ESPN HD,10/14/2005 8:00:00 PM,T
+East Carolina at SMU,WITN,10/15/2005 3:00:00 PM,T
+Tulsa at Rice,KWHB,10/15/2005 4:00:00 PM,T
+UAB at Marshall,i Network,10/15/2005 5:00:00 PM,T
+Memphis at Houston,CSTV,10/15/2005 5:00:00 PM,T
+UCF at Southern Miss,C-USA All Access,10/15/2005 7:00:00 PM,W
+Southern Miss at UAB,ESPN HD,10/21/2005 8:00:00 PM,T
+SMU at Tulsa,C-USA All Access,10/22/2005 3:00:00 PM,T
+East Carolina at Memphis,CSTV,10/22/2005 3:30:00 PM,T
+Marshall at UTEP,i Network,10/22/2005 9:00:00 PM,T
+UCF at East Carolina,C-USA All Access,10/29/2005 2:00:00 PM,T
+UTEP at Rice,i Network,10/29/2005 6:00:00 PM,T
+Marshall vs. Tulane<br>(at Mobile, AL),CSTV,10/29/2005 7:00:00 PM,T
+UAB at Memphis,ESPN2 HD,11/1/2005 7:30:00 PM,T
+Rice at SMU,C-USA All Access,11/5/2005 3:00:00 PM,W
+Houston at UCF,i Network,11/5/2005 6:00:00 PM,T
+Tulsa at UTEP,KWHB,11/5/2005 9:00:00 PM,T
+Southern Miss at Marshall,ESPN2 HD,11/8/2005 7:30:00 PM,T
+East Carolina at Tulsa,C-USA All Access,11/12/2005 3:00:00 PM,W
+UCF at UAB,CSTV,11/12/2005 4:00:00 PM,T
+SMU at Houston,C-USA All Access,11/12/2005 6:00:00 PM,W
+Texas Southern at UTEP,C-USA All Access,11/12/2005 9:00:00 PM,T
+Tulsa vs. Tulane<br>(at Monroe, LA),KWHB,11/19/2005 2:00:00 PM,T
+UCF at Rice,C-USA All Access,11/19/2005 3:00:00 PM,T
+East Carolina at Marshall,WITN,11/19/2005 4:30:00 PM,T
+UAB at UTEP,i Network,11/19/2005 6:00:00 PM,T
+SMU at Houston,C-USA All Access,11/19/2005 6:00:00 PM,T
+Memphis at Southern Miss,CSTV,11/19/2005 8:30:00 PM,T
+UAB at East Carolina,WITN,11/26/2005 12:00:00 PM,T
+Marshall at Memphis,CSTV,11/26/2005 2:00:00 PM,T
+UTEP at SMU,Time Warner-El Paso,11/26/2005 2:00:00 PM,T
+Tulane at Southern Miss,C-USA All Access,11/26/2005 2:00:00 PM,W
+Houston at Rice,C-USA All Access,11/26/2005 3:00:00 PM,T
+Conference USA Championship<br>Tulsa at UCF,ESPN HD,12/3/2005 12:00:00 PM,T
+Maryland vs. Navy<br>(at Baltimore, MD),CSTV,9/3/2005 6:00:00 PM,T
+Stanford at Navy,CSTV<br>HDNet,9/10/2005 6:00:00 PM,T
+Baylor at Army,ESPN Classic,9/17/2005 3:00:00 PM,T
+Michigan St. at Notre Dame,NBC HD,9/17/2005 3:30:00 PM,T
+Toledo at Temple,CN8,9/17/2005 1:00:00 PM,T
+Iowa St. at Army,ESPN2 HD,9/23/2005 8:00:00 PM,T
+Western Michigan at Temple,CN8,9/24/2005 1:00:00 PM,T
+Connecticut at Army,ESPNU,10/1/2005 12:00:00 PM,T
+Central Michigan at Army,ESPN Classic,10/8/2005 1:00:00 PM,T
+Air Force at Navy,CSTV<br>HDNet,10/8/2005 1:30:00 PM,T
+Kent St. at Navy,CSTV,10/15/2005 1:30:00 PM,T
+USC at Notre Dame,NBC HD,10/15/2005 3:30:00 PM,T
+Miami (FL) at Temple,FSN,10/15/2005 1:00:00 PM,T
+BYU at Notre Dame,NBC HD,10/22/2005 2:30:00 PM,T
+Tulane at Navy,CSTV<br>HDNet,11/5/2005 1:30:00 PM,T
+Tennessee at Notre Dame,NBC HD,11/5/2005 2:30:00 PM,T
+Massachusetts at Army,ESPNU,11/12/2005 12:00:00 PM,T
+Navy at Notre Dame,NBC HD,11/12/2005 1:00:00 PM,T
+Arkansas St. at Army,ESPNU,11/19/2005 12:00:00 PM,T
+Temple at Navy,CSTV,11/19/2005 1:30:00 PM,T
+Syracuse at Notre Dame,NBC HD,11/19/2005 2:30:00 PM,T
+Indiana at Central Michigan,ESPNU,9/2/2005 7:30:00 PM,T
+Pittsburgh at Ohio,ESPN2 HD,9/9/2005 8:00:00 PM,T
+Central Michigan at Miami (OH),Time Warner-SW Ohio,9/10/2005 2:00:00 PM,T
+Western Michigan at Toledo,Comcast Local,9/10/2005 7:00:00 PM,T
+Tennessee Tech at Northern Illinois,CSN Chicago,9/17/2005 4:00:00 PM,T
+Rutgers at Buffalo,ESPN Plus,9/17/2005 8:00:00 PM,T
+Eastern Michigan at Central Michigan,Comcast Local,9/24/2005 1:00:00 PM,T
+Cincinnati at Miami (OH),ESPN2,9/28/2005 7:00:00 PM,T
+Miami (OH) at Northern Illinois,ESPN2,10/5/2005 7:30:00 PM,T
+Ball St. at Central Michigan,Comcast Local,10/8/2005 7:00:00 PM,T
+Eastern Michigan at Northern Illinois,CSN Chicago,10/15/2005 4:00:00 PM,T
+Northern Illinois at Kent St.,Time Warner-NE Ohio,10/22/2005 1:00:00 PM,T
+Ball St. at Ohio,MAC TV,10/22/2005 2:00:00 PM,T
+Western Michigan at Bowling Green,BCSN,10/22/2005 4:00:00 PM,T
+Miami (OH) at Eastern Michigan,Comcast Local,10/22/2005 6:00:00 PM,T
+Toledo at Central Michigan,MAC TV,10/29/2005 1:00:00 PM,T
+Kent St. at Western Michigan,Comcast Local,10/29/2005 2:00:00 PM,T
+Ball St. at Northern Illinois,CSN Chicago,10/29/2005 4:00:00 PM,T
+Toledo at Ohio,ESPN2 HD,11/4/2005 8:00:00 PM,T
+Western Michigan vs. Eastern Michigan<br>(at Detroit, MI),Comcast Local,11/5/2005 1:00:00 PM,T
+Bowling Green at Kent St.,MAC TV,11/5/2005 2:00:00 PM,T
+Buffalo at Miami (OH),Time Warner-SW Ohio,11/5/2005 2:00:00 PM,T
+Central Michigan at Western Michigan,MAC TV,11/12/2005 2:00:00 PM,T
+Ball St. at Eastern Michigan,Comcast Local,11/12/2005 6:00:00 PM,T
+Bowling Green at Miami (OH),ESPN2 HD,11/15/2005 7:00:00 PM,T
+Ohio at Akron,ESPNU,11/15/2005 7:30:00 PM,T
+Northern Illinois at Toledo,ESPN2 HD,11/16/2005 7:30:00 PM,T
+Central Michigan at Ball St.,CSN Chicago,11/19/2005 1:00:00 PM,T
+Miami (OH) at Ohio,ESPNU,11/21/2005 7:30:00 PM,T
+Toledo at Bowling Green,ESPN2 HD,11/22/2005 7:00:00 PM,T
+Western Michigan at Northern Illinois,ESPN2,11/23/2005 1:30:00 PM,T
+Kent St. at Akron,ESPNU,11/24/2005 10:00:00 AM,T
+MAC Championship<br>Northern Illinois vs. Akron<br>(at Detroit, MI),ESPN HD,12/1/2005 7:30:00 PM,T
+Arizona at Utah,ESPN HD,9/2/2005 8:00:00 PM,T
+Washington vs. Air Force<br>(at Seattle, WA),ABC,9/3/2005 3:30:00 PM,T
+Boston College at BYU,ABC,9/3/2005 3:30:00 PM,T
+UCLA at San Diego St.,ESPN2 HD,9/3/2005 10:15:00 PM,T
+UNLV at New Mexico,ESPN2,9/5/2005 1:00:00 PM,T
+San Diego St. at Air Force,ESPN360,9/10/2005 2:00:00 PM,W
+Eastern Illinois at BYU,SportsWest,9/10/2005 3:00:00 PM,T
+Utah St. at Utah,KJZZ,9/10/2005 8:00:00 PM,T
+Utah at TCU,ESPN HD,9/15/2005 7:30:00 PM,T
+Air Force at Utah,ESPN HD,9/22/2005 7:30:00 PM,T
+TCU at BYU,ESPN Plus,9/24/2005 3:00:00 PM,T
+Nevada at Colorado St.,FSN Rocky Mountain<br>KREN,9/24/2005 6:00:00 PM,T
+San Jose St. at San Diego St.,SportsWest,9/24/2005 8:00:00 PM,T
+Air Force at Colorado St.,ESPN HD,9/29/2005 7:30:00 PM,T
+UNLV at Wyoming,SportsWest,10/1/2005 3:00:00 PM,T
+New Mexico at TCU,KRQE,10/1/2005 7:00:00 PM,T
+BYU at San Diego St.,SportsWest,10/1/2005 10:00:00 PM,T
+San Diego St. at UNLV,ESPN Plus,10/8/2005 3:00:00 PM,T
+Utah at Colorado St.,KJZZ,10/8/2005 6:30:00 PM,T
+BYU at New Mexico,SportsWest,10/8/2005 8:00:00 PM,T
+UNLV at Air Force,SportsWest,10/15/2005 12:00:00 PM,T
+New Mexico at Wyoming,ESPN Plus,10/15/2005 3:00:00 PM,T
+San Diego St. at Utah,ABC,10/15/2005 7:00:00 PM,T
+Colorado St. at BYU,SportsWest,10/15/2005 10:00:00 PM,T
+Wyoming at Colorado St.,ESPN Classic,10/22/2005 3:00:00 PM,T
+TCU at Air Force,ESPN Plus,10/22/2005 3:00:00 PM,T
+Utah at UNLV,ABC,10/22/2005 7:00:00 PM,T
+New Mexico at San Diego St.,SportsWest,10/22/2005 10:00:00 PM,T
+Colorado St. at New Mexico,ESPN2 HD,10/28/2005 8:00:00 PM,T
+Air Force at BYU,ESPN Plus,10/29/2005 3:00:00 PM,T
+TCU at San Diego St.,ESPN360,10/29/2005 8:00:00 PM,W
+BYU at UNLV,ESPN Plus,11/5/2005 3:00:00 PM,T
+Army at Air Force,ESPN Classic,11/5/2005 3:30:00 PM,T
+San Diego St. at Colorado St.,ESPN Plus,11/12/2005 3:00:00 PM,T
+BYU at Wyoming,SportsWest,11/12/2005 6:00:00 PM,T
+New Mexico at Utah,KJZZ,11/12/2005 6:30:00 PM,T
+Utah at BYU,ESPN Plus,11/19/2005 3:00:00 PM,T
+Wyoming at San Diego St.,SportsWest,11/19/2005 8:00:00 PM,T
+Idaho at Washington St.,FSN Northwest,9/1/2005 10:00:00 PM,T
+Temple at Arizona St.,FSN Arizona,9/1/2005 10:00:00 PM,T
+Sacramento St. at California,CSN West,9/3/2005 5:00:00 PM,T
+California at Washington,ABC,9/10/2005 3:30:00 PM,T
+Boise St. at Oreogn St.,FSN,9/10/2005 6:30:00 PM,T
+Rice at UCLA,FSN West 2,9/10/2005 10:00:00 PM,T
+Northern Arizona at Arizona,FSN Arizona,9/10/2005 10:00:00 PM,T
+Oklahoma at UCLA,ABC,9/17/2005 3:30:00 PM,T
+Fresno St. at Oregon,TBS,9/17/2005 7:00:00 PM,T
+Arkansas at USC,FSN,9/17/2005 10:15:00 PM,T
+Notre Dame at Washington,ABC,9/24/2005 3:30:00 PM,T
+USC at Oregon,ABC,9/24/2005 7:00:00 PM,T
+Arizona St. at Oregon St.,TBS,9/24/2005 10:00:00 PM,T
+USC at Arizona St.,ABC,10/1/2005 3:30:00 PM,T
+Arizona at California,TBS,10/1/2005 7:00:00 PM,T
+Washington at UCLA,FSN Regional,10/1/2005 10:15:00 PM,T
+Arizona at USC,FSN,10/8/2005 3:30:00 PM,T
+California at UCLA,TBS,10/8/2005 7:30:00 PM,T
+Oregon at Arizona St.,FSN,10/8/2005 10:15:00 PM,T
+Oregon St. at California,ABC,10/15/2005 3:30:00 PM,T
+UCLA at Washington St.,FSN,10/15/2005 6:30:00 PM,T
+USC at Washington,ABC,10/22/2005 3:30:00 PM,T
+Oregon St. at UCLA,TBS,10/22/2005 7:00:00 PM,T
+Washington St. at California,FSN,10/22/2005 10:15:00 PM,T
+Washington St. at USC,ABC,10/29/2005 3:30:00 PM,T
+UCLA at Stanford,FSN,10/29/2005 6:30:00 PM,T
+California at Oregon,ABC,11/5/2005 3:30:00 PM,T
+UCLA at Arizona,FSN West 2,11/5/2005 6:15:00 PM,T
+Oregon St. at Wasington,FSN Northwest,11/5/2005 6:30:00 PM,T
+Stanford at USC,TBS,11/5/2005 10:00:00 PM,T
+USC at California,ABC,11/12/2005 3:30:00 PM,T
+Stanford at Oregon St.,FSN Bay Area<br>Beaver Sports Net,11/12/2005 6:30:00 PM,T
+Arizona St. at UCLA,ABC,11/12/2005 7:00:00 PM,T
+Oregon at Washington St.,FSN,11/12/2005 10:15:00 PM,T
+Washington St. at Washington,FSN HD,11/19/2005 3:15:00 PM,T
+Oregon St. at Oregon,FSN,11/19/2005 6:45:00 PM,T
+California at Stanford,ABC,11/19/2005 7:00:00 PM,T
+Fresno St. at USC,FSN,11/19/2005 10:15:00 PM,T
+Arizona at Arizona St.,FSN,11/25/2005 3:00:00 PM,T
+Notre Dame at Stanford,ABC,11/26/2005 8:00:00 PM,T
+UCLA at USC,ABC HD,12/3/2005 4:30:00 PM,T
+UCF at South Carolina,ESPN HD,9/1/2005 7:30:00 PM,T
+UAB at Tennessee,JP Sports,9/3/2005 12:30:00 PM,T
+Boise St. at Georgia,ESPN HD,9/3/2005 5:30:00 PM,T
+Wyoming at Florida ,Sun PPV,9/3/2005 6:00:00 PM,T
+Middle Tennessee at Alabama,Crimson Tide PPV,9/3/2005 7:00:00 PM,T
+Georgia Tech at Auburn,ESPN HD,9/3/2005 8:45:00 PM,T
+Louisville at Kentucky,ESPN,9/4/2005 3:30:00 PM,T
+Mississippi St. at Auburn,JP Sports,9/10/2005 12:30:00 PM,T
+Georgia at South Carolina,ESPN HD,9/10/2005 5:30:00 PM,T
+Louisiana Tech at Florida,Sun PPV,9/10/2005 6:00:00 PM,T
+Southern Miss at Alabama,ESPN2,9/10/2005 7:30:00 PM,T
+Arizona St. vs. LSU<br>(at Tempe, AZ),ESPN,9/10/2005 9:00:00 PM,T
+Mississippi St. at Vanderbilt,JP Sports,9/17/2005 12:30:00 PM,T
+Ball St. at Auburn,CSS PPV,9/17/2005 2:30:00 PM,T
+UL-Monroe at Georgia,CSS PPV,9/17/2005 1:00:00 PM,T
+Alabama at South Carolina,CBS,9/17/2005 3:30:00 PM,T
+Tennessee at Florida,CBS HD,9/17/2005 8:00:00 PM,T
+Arkansas at Alabama,JP Sports,9/24/2005 12:30:00 PM,T
+Florida at Kentucky,CBS HD,9/24/2005 3:30:00 PM,T
+Troy at South Carolina,ESPN Plus PPV,9/24/2005 7:00:00 PM,T
+Georgia at Mississippi St.,ESPN HD,9/24/2005 7:45:00 PM,T
+Tennessee at LSU,ESPN2 HD,9/26/2005 7:45:00 PM,T
+Ole Miss at Tennessee,JP Sports,10/1/2005 12:30:00 PM,T
+LSU at Mississippi St.,ESPN Plus PPV,10/1/2005 2:30:00 PM,T
+Florida at Alabama,CBS HD,10/1/2005 3:30:00 PM,T
+South Carolina at Auburn,ESPN2 HD,10/1/2005 7:00:00 PM,T
+Middle Tennessee St. at Vanderbilt,WUXP,10/1/2005 7:00:00 PM,T
+Mississippi St. at Florida,JP Sports,10/8/2005 12:30:00 PM,T
+Kentucky at South Carolina,ESPN Plus PPV,10/8/2005 1:00:00 PM,T
+Georgia at Tennessee,CBS HD,10/8/2005 3:30:00 PM,T
+LSU at Vanderbilt,ESPN2 HD,10/8/2005 7:00:00 PM,T
+Alabama at Ole Miss,CBS,10/15/2005 12:00:00 PM,T
+Florida at LSU,CBS HD,10/15/2005 3:30:00 PM,T
+Georgia at Vanderbilt,ESPN2 HD,10/15/2005 7:15:00 PM,T
+Arkansas at Georgia,JP Sports,10/22/2005 12:30:00 PM,T
+Tennessee at Alabama,CBS HD,10/22/2005 3:30:00 PM,T
+Vanderbilt at South Carolina,ESPN Plus PPV,10/22/2005 3:30:00 PM,T
+LSU at Auburn,ESPN HD,10/22/2005 7:45:00 PM,T
+Ole Miss at Auburn,JP Sports,10/29/2005 12:30:00 PM,T
+Utah St. at Alabama,Crimson Tide PPV,10/29/2005 3:00:00 PM,T
+Georgia vs. Florida<br>(at Jacksonville, FL),CBS HD,10/29/2005 3:30:00 PM,T
+South Carolina at Tennessee,ESPN2 HD,10/29/2005 7:45:00 PM,T
+North Texas at LSU,TigerVision PPV,10/29/2005 8:00:00 PM,T
+South Carolina at Arkansas,JP Sports,11/5/2005 12:30:00 PM,T
+Alabama at Mississippi St.,CBS HD,11/5/2005 3:30:00 PM,T
+Vanderbilt at Florida,ESPN2 HD,11/5/2005 7:15:00 PM,T
+Florida at South Carolina,JP Sports,11/12/2005 12:30:00 PM,T
+Memphis at Tennessee,CSS PPV,11/12/2005 2:00:00 PM,T
+LSU at Alabama,CBS HD,11/12/2005 3:30:00 PM,T
+Auburn at Georgia,ESPN HD,11/12/2005 7:45:00 PM,T
+Kentucky at Georgia,JP Sports,11/19/2005 12:30:00 PM,T
+Vanderbilt at Tennessee,JP Sports,11/19/2005 12:30:00 PM,T
+Alabama at Auburn,CBS HD,11/19/2005 3:30:00 PM,T
+Clemson at South Carolina,ESPN2,11/19/2005 7:00:00 PM,T
+LSU at Ole Miss,ESPN2,11/19/2005 7:45:00 PM,T
+Arkansas at LSU,CBS,11/25/2005 2:30:00 PM,T
+Tennessee at Kentucky,JP Sports,11/26/2005 12:30:00 PM,T
+Florida St. at Florida,CBS HD,11/26/2005 3:30:00 PM,T
+Georgia at Georgia Tech,ABC,11/26/2005 8:00:00 PM,T
+SEC Championship<br>LSU vs. Georgia<br>(at Atlanta, GA),CBS HD,12/3/2005 6:00:00 PM,T
+Northwestern St. at UL-Monroe,CST,9/1/2005 8:00:00 PM,T
+Portland St. at Oregon St.,Beaver Sports,9/3/2005 6:00:00 PM,T
+Oklahoma St. at FAU,ESPN2 HD,9/8/2005 7:00:00 PM,T
+North Texas at Middle Tennessee St.,ESPN Plus,9/10/2005 7:00:00 PM,T
+UAB at Troy,ESPN Plus,9/10/2005 8:00:00 PM,T
+Northwestern St. at UL-Lafayette,KLAF,9/17/2005 8:00:00 PM,T
+UL-Monroe at FAU,ESPNU,9/22/2005 7:30:00 PM,T
+FIU at Arkansas St.,ESPN Plus,9/24/2005 3:30:00 PM,T
+Troy at North Texas,ESPN2,10/4/2005 7:30:00 PM,T
+FAU at UL-Lafayette,ESPN Plus,10/6/2005 8:00:00 PM,T
+UL-Lafayette at Arkansas St.,ESPNU,10/13/2005 7:30:00 PM,T
+Troy at UL-Monroe,ESPN Plus,10/15/2005 3:30:00 PM,T
+FIU at Troy,ESPNU,10/20/2005 7:30:00 PM,T
+FAU at Arkansas St.,ESPN Plus,10/22/2005 7:00:00 PM,T
+Troy at UL-Lafayette,Troy/ISP Sports,10/29/2005 5:00:00 PM,T
+FAU at Troy,Troy/ISP Sports,11/5/2005 3:30:00 PM,T
+Arkansas St. at Middle Tennessee,Middle Tennessee TV,11/5/2005 5:00:00 PM,T
+UL-Lafayette at North Texas,ESPN Plus,11/5/2005 7:00:00 PM,T
+FIU at UL-Lafayette,CSS,11/12/2005 7:00:00 PM,T
+UL-Lafayette at UL-Monroe,ESPN Plus,11/26/2005 3:30:00 PM,T
+Middle Tennessee at Troy,ESPN Plus,11/26/2005 7:00:00 PM,T
+USC at Hawai'i,ESPN2,9/3/2005 7:00:00 PM,T
+UTEP at New Mexico St.,ESPNU,9/3/2005 10:30:00 PM,T
+Washington St. at Nevada,ESPN,9/9/2005 10:00:00 PM,T
+Weber St. at Fresno St.,ESPNU,9/10/2005 10:00:00 PM,T
+UNLV at Nevada,ESPNU,9/17/2005 10:00:00 PM,T
+Bowling Green at Boise St.,ESPN2,9/21/2005 8:00:00 PM,T
+California at New Mexico St.,ESPN,9/23/2005 10:00:00 PM,T
+UNLV at Utah St.,SportsWest,9/24/2005 8:00:00 PM,T
+Hawai'i at Idaho,ESPNU<br>Oceanic PPV<br>Go Vandals TV,9/24/2005 10:00:00 PM,T
+Toledo at Fresno St.,ESPN2,9/27/2005 9:00:00 PM,T
+Nevada at San Jose St.,ABC,10/1/2005 7:00:00 PM,T
+Boise St. at Hawai'i,Oceanic PPV<br>Bronco Sports,10/1/2005 11:59:00 PM,T
+San Jose St. at Utah St.,KJZZ,10/8/2005 3:00:00 PM,T
+Hawai'i at Louisiana Tech,ESPN Plus,10/8/2005 7:00:00 PM,T
+Fresno St. at New Mexico St.,ESPNU<br>SportsWest,10/8/2005 10:00:00 PM,T
+San Jose St. at Boise St.,Bronco Sports,10/15/2005 8:00:00 PM,T
+New Mexico St. at Hawai'i,Oceanic PPV,10/15/2005 11:59:00 PM,T
+Fresno St. at Idaho,KFRE,10/22/2005 5:00:00 PM,T
+Hawai'i at San Jose St.,CSN West<br>Oceanic PPV,10/22/2005 6:00:00 PM,T
+Boise St. at Utah St.,Bronco Sports<br>KJZZ,10/22/2005 6:30:00 PM,T
+Nevada at Boise St.,SportsWest,10/29/2005 3:00:00 PM,T
+Fresno St. at Hawai'i,ABC,10/29/2005 7:00:00 PM,T
+Idaho at New Mexico St.,Go Vandals TV,10/29/2005 8:00:00 PM,T
+Louisiana Tech at Utah St.,ESPN Plus,11/5/2005 3:00:00 PM,T
+New Mexico St. at Bronco Sports,Bronco Sports,11/5/2005 3:00:00 PM,T
+Hawai'i at Nevada,SportsWest,11/5/2005 4:00:00 PM,T
+San Jose St. at Fresno St.,SportsWest,11/5/2005 9:00:00 PM,T
+Boise St. at Fresno St.,ESPN HD,11/10/2005 8:00:00 PM,T
+UL-Monroe at Middle Tennessee,Middle Tennessee TV,11/12/2005 3:00:00 PM,T
+Nevada at New Mexico St.,KREN,11/12/2005 4:00:00 PM,T
+Louisiana Tech at Idaho,SportsWest,11/12/2005 5:00:00 PM,T
+Utah St. at Hawai'i,Oceanic PPV,11/12/2005 11:00:00 PM,T
+Idaho at Boise St.,Bronco Sports,11/19/2005 3:00:00 PM,T
+Nevada at Utah St.,KREN,11/19/2005 3:00:00 PM,T
+New Mexico St. at San Jose St.,SportsWest,11/19/2005 6:00:00 PM,T
+Wisconsin at Hawai'i,ESPN2,11/25/2005 9:00:00 PM,T
+Boise St. at Louisiana Tech,SportsWest,11/26/2005 2:00:00 PM,T
+Idaho at San Jose St.,CSN West,11/26/2005 6:00:00 PM,T
+Fresno St. at Nevada,ESPN2 HD,11/26/2005 7:15:00 PM,T
+Louisiana Tech at Fresno St.,ESPN2 HD,12/2/2005 9:00:00 PM,T
+San Diego St. at Hawai'i,Oceanic PPV,12/3/2005 11:00:00 PM,T
+Portland St. at Boise St.,Bronco Sports,10/8/2005 8:00:00 PM,T

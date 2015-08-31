@@ -1,0 +1,694 @@
+Off Site,Away,Home,City,State,network,time,mediaindicator
+1,ACC Championship<br>Virginia Tech,Boston College,Tampa,FL,ABC HD,12/6/2008 13:00,T
+1,Illinois,Missouri,St. Louis,MO,ESPN HD,8/30/2008 20:30,T
+1,Oklahoma St.,Washington St.,Seattle,WA,FSN HD,8/30/2008 15:30,T
+1,Missouri,Kansas,Kansas City,MO,FSN HD,11/29/2008 12:30,T
+1,Big 12 Championship<br>Missouri,Oklahoma,Kansas City,MO,ABC HD,12/6/2008 20:00,T
+1,Colorado,Florida St.,Jacksonville,FL,ABC HD,9/27/2008 15:30,T
+1,Georgia,Florida,Jacksonville,FL,CBS HD,11/1/2008 15:30,T
+1,Illinois,Western Michigan,Detroit,MI,ESPN Plus,11/8/2008 12:00,T
+1,MAC Championship<br>Buffalo,Ball St.,Detroit,MI,ESPN2 HD,12/5/2008 20:00,T
+1,Colorado St.,Colorado,Denver,CO,FSN HD,8/31/2008 19:30,T
+1,Texas,Oklahoma,Dallas,TX,ABC HD,10/11/2008 12:00,T
+1,Boston College,Kent St.,Cleveland,OH,ESPNU HD,8/30/2008 19:30,T
+1,Notre Dame,Navy,Baltimore,MD,CBS HD,11/15/2008 12:00,T
+1,Alabama,Clemson,Atlanta,GA,ABC HD,8/30/2008 20:00,T
+1,SEC Championship<br>Alabama,Florida,Atlanta,GA,CBS HD,12/6/2008 16:00,T
+,UTEP,Buffalo,,,Time Warner-NY,8/28/2008 19:00,T
+,Northeastern,Ball St.,,,Web Video Available,8/28/2008 19:00,W
+,Indiana St.,Eastern Michigan,,,Web Video Available,8/28/2008 19:00,W
+,Eastern Illinois,Central Michigan,,,Web Video Available,8/28/2008 19:00,W
+,Vanderbilt,Miami (OH),,,ESPNU HD,8/28/2008 19:30,T
+,Troy,Middle Tennessee,,,ESPN Plus,8/28/2008 19:30,T
+,Hofstra,Connecticut,,,Big East Network,8/28/2008 19:30,T
+,Jacksonville St.,Georgia Tech,,,ESPN360,8/28/2008 19:30,W
+,Charleston Southern,Miami (FL),,,ESPN360,8/28/2008 19:30,W
+,Eastern Kentucky,Cincinnati,,,Web Video Available,8/28/2008 19:30,W
+,Wake Forest,Baylor,,,FSN HD,8/28/2008 20:00,T
+,South Dakota St.,Iowa St.,,,FOX College Sports,8/28/2008 20:00,T
+,NC State,South Carolina,,,ESPN HD,8/28/2008 20:00,T
+,Temple,Army,,,ESPN Classic,8/29/2008 19:00,T
+,SMU,Rice,,,ESPN HD,8/29/2008 20:00,T
+,McNeese St.,North Carolina,,,,8/30/2008 0:00,N
+,FIU,Kansas,,,,8/30/2008 0:00,N
+,North Texas,Kansas St.,,,,8/30/2008 0:00,N
+,Arkansas St.,Texas A&M,,,,8/30/2008 0:00,N
+,Eastern Washington,Texas Tech,,,,8/30/2008 0:00,N
+,Southern Utah,Air Force,,,,8/30/2008 0:00,N
+,Utah St.,UNLV,,,,8/30/2008 0:00,N
+,Memphis,Ole Miss,,,,8/30/2008 0:00,N
+,Appalachian St.,LSU,,,ESPN Classic,8/30/2008 11:00,T
+,Virginia Tech,East Carolina,,,ESPN HD,8/30/2008 12:00,T
+,Syracuse,Northwestern,,,ESPN2 HD,8/30/2008 12:00,T
+,Western Kentucky,Indiana,,,Big Ten Network,8/30/2008 12:00,T
+,Maine,Iowa,,,Big Ten Network HD,8/30/2008 12:00,T
+,Youngstown St.,Ohio St.,,,Big Ten Network HD,8/30/2008 12:00,T
+,Coastal Carolina,Penn St.,,,Big Ten Network HD,8/30/2008 12:00,T
+,Akron,Wisconsin,,,Big Ten Network,8/30/2008 12:00,T
+,Bowling Green,Pittsburgh,,,ESPNU HD,8/30/2008 12:00,T
+,Hawai'i,Florida,,,Raycom Sports HD,8/30/2008 12:30,T
+,Georgia Southern,Georgia,,,CSS PPV,8/30/2008 12:30,T
+,Ohio,Wyoming,,,The mtn.,8/30/2008 14:00,T
+,Towson,Navy,,,CBS College Sports HD,8/30/2008 15:30,T
+,Villanova,West Virginia,,,Big East Network,8/30/2008 15:30,T
+,Utah,Michigan,,,ABC HD,8/30/2008 15:30,T
+,USC,Virginia,,,ABC HD,8/30/2008 15:30,T
+,Delaware,Maryland,,,ESPN HD,8/30/2008 15:45,T
+,Tulsa,UAB,,,Web Video Available,8/30/2008 16:00,W
+,Illinois St.,Marshall,,,WOWK,8/30/2008 16:30,T
+,TCU,New Mexico,,,Versus,8/30/2008 17:00,T
+,Northern Iowa,BYU,,,The mtn.,8/30/2008 18:00,T
+,South Carolina St.,UCF,,,Web Video Available,8/30/2008 18:00,W
+,Mississippi St.,Louisiana Tech,,,ESPN2 HD,8/30/2008 18:45,T
+,UL-Monroe,Aubnrn,,,CSS PPV,8/30/2008 19:00,T
+,Southern,Houston,,,Web Video Available,8/30/2008 19:00,W
+,UL-Lafayette,Southern Miss,,,Web Video Available,8/30/2008 19:00,W
+,James Madison,Duke,,,ACC Select,8/30/2008 19:00,W
+,Northern Illinois,Wisconsin,,,Big Ten Network HD,8/30/2008 19:00,T
+,UT-Martin,USF,,,Big East Network,8/30/2008 19:00,T
+,Western Michigan,Nebraska,,,FSN PPV,8/30/2008 19:00,T
+,Chattanooga,Oklahoma,,,FSN PPV,8/30/2008 19:00,T
+,FAU,Texas,,,FSN PPV,8/30/2008 19:00,T
+,Idaho St.,Boise St.,,,KTVB,8/30/2008 20:00,T
+,UC Davis,San Jose St.,,,Web Video Available,8/30/2008 20:00,W
+,Grambling,Nevada,,,Web Video Available,8/30/2008 21:00,W
+,Cal-Poly,San Diego St.,,,4SD,8/30/2008 21:30,T
+,Kentucky,Louisville,,,ESPN HD,8/31/2008 15:30,T
+,Fresno St.,Rutgers,,,ESPN HD,9/1/2008 16:00,T
+,South Carolina,Vanderbilt,,,ESPN HD,9/4/2008 20:30,T
+,Navy,Ball St.,,,ESPN HD,9/5/2008 19:00,T
+,Northwestern St.,Baylor,,,,9/6/2008 0:00,N
+,Eastern Washington,Colorado,,,,9/6/2008 0:00,N
+,Kent St.,Iowa St.,,,,9/6/2008 0:00,N
+,Houston,Oklahoma St.,,,,9/6/2008 0:00,N
+,Sacramento St.,Colorado St.,,,,9/6/2008 0:00,N
+,Stephen F. Austin,TCU,,,,9/6/2008 0:00,N
+,Southeastern Louisiana,Mississippi St.,,,,9/6/2008 0:00,N
+,UAB,FAU,,,,9/6/2008 0:00,N
+,Connecticut,Temple,,,ESPNU HD,9/6/2008 12:00,T
+,Georgia Tech,Boston College,,,Raycom Sports HD,9/6/2008 12:00,T
+,Ohio,Ohio St.,,,ESPN HD,9/6/2008 12:00,T
+,Miami (OH),Michigan,,,ESPN2 HD,9/6/2008 12:00,T
+,Eastern Illinois,Illinois,,,Big Ten Network HD,9/6/2008 12:00,T
+,FIU,Iowa,,,Big Ten Network,9/6/2008 12:00,T
+,Eastern Michigan,Michigan St.,,,Big Ten Network HD,9/6/2008 12:00,T
+,Northern Colorado,Purdue,,,Big Ten Network,9/6/2008 12:00,T
+,Marshall,Wisconsin,,,Big Ten Network HD,9/6/2008 12:00,T
+,San Jose St.,Nebraska,,,FSN PPV,9/6/2008 12:30,T
+,Southern Miss,Auburn,,,Raycom Sports HD,9/6/2008 12:30,T
+,New Hampshire,Army,,,ESPN Classic,9/6/2008 13:00,T
+,Furman,Virginia Tech,,,ACC Select,9/6/2008 13:30,W
+,The Citadel,Clemson,,,ESPN360,9/6/2008 15:30,W
+,Akron,Syracuse,,,Big East Network,9/6/2008 15:30,T
+,Tennessee Tech,Louisville,,,Big East Network,9/6/2008 15:30,T
+,Cincinnati,Oklahoma,,,ABC,9/6/2008 15:30,T
+,Oregon St.,Penn St.,,,ABC HD,9/6/2008 15:30,T
+,Ole Miss,Wake Forest,,,ABC HD,9/6/2008 15:30,T
+,San Diego St.,Notre Dame,,,NBC HD,9/6/2008 15:30,T
+,Central Michigan,Georgia,,,SEC/FOX RSNs,9/6/2008 15:30,T
+,Air Force,Wyoming,,,CBS College Sports,9/6/2008 15:30,T
+,Richmond,Virginia,,,ESPNU HD,9/6/2008 15:45,T
+,West Virginia,East Carolina,,,ESPN HD,9/6/2008 16:30,T
+,Texas A&M,New Mexico,,,Versus,9/6/2008 17:00,T
+,Idaho St.,Idaho,,,Altitude,9/6/2008 17:00,T
+,Norfolk St.,Kentucky,,,Big Blue PPV,9/6/2008 18:00,T
+,Western Carolina,Florida St.,,,Sun Sports PPV,9/6/2008 18:00,T
+,Buffalo,Pittsburgh,,,Big East Network,9/6/2008 18:00,T
+,William & Mary,NC State,,,ACC Select,9/6/2008 18:00,W
+,Northwestern,Duke,,,ACC Select,9/6/2008 19:00,W
+,Louisiana Tech,Kansas,,,FSN HD,9/6/2008 19:00,T
+,Montana St.,Kansas St.,,,FOX College Sports,9/6/2008 19:00,T
+,Southeast Missouri St.,Missouri,,,FSN PPV,9/6/2008 19:00,T
+,USF,UCF,,,ESPN2 HD,9/6/2008 19:00,T
+,Murray St.,Indiana,,,Big Ten Network HD,9/6/2008 19:00,T
+,Tulane,Alabama,,,Crimson Tide PPV,9/6/2008 19:00,T
+,UL-Monroe,Arkansas,,,ARSN PPV,9/6/2008 19:00,T
+,Northern Illinois,Western Michigan,,,Web Video Available,9/6/2008 19:00,W
+,Tulsa,North Texas,,,KTXA,9/6/2008 19:00,T
+,Maryland,Middle Tennessee,,,CSS,9/6/2008 19:00,T
+,Texas Southern,Arkansas St.,,,Web Video Available,9/6/2008 19:00,W
+,Minnesota,Bowling Green,,,ESPNU HD,9/6/2008 19:30,T
+,Miami (FL),Florida,,,ESPN HD,9/6/2008 20:00,T
+,UNLV,Utah,,,The mtn.,9/6/2008 20:00,T
+,Rice,Memphis,,,CBS College Sports,9/6/2008 20:00,T
+,Texas St.,SMU,,,Web Video Available,9/6/2008 20:00,W
+,Texas Tech,Nevada,,,Web Video Available,9/6/2008 21:00,W
+,Texas,UTEP,,,ESPN2 HD,9/6/2008 22:15,T
+,Weber St.,Hawai'i,,,Oceanic PPV,9/6/2008 23:59,T
+,North Carolina,Rutgers,,,ESPN HD,9/11/2008 19:30,T
+,Kansas,USF,,,ESPN2 HD,9/12/2008 20:00,T
+,Washington St.,Baylor,,,FOX Sports Southwest,9/12/2008 20:30,T
+,Air Force,Houston,,,,9/13/2008 0:00,N
+,North Dakota St.,Wyoming,,,,9/13/2008 0:00,N
+,Samford,Ole Miss,,,,9/13/2008 0:00,N
+,Rice,Vanderbilt,,,,9/13/2008 0:00,N
+,Temple,Buffalo,,,ESPN Plus,9/13/2008 12:00,T
+,California,Maryland,,,ESPN HD,9/13/2008 12:00,T
+,Navy,Duke,,,ESPNU HD,9/13/2008 12:00,T
+,NC State,Clemson,,,Raycom Sports HD,9/13/2008 12:00,T
+,FAU,Michigan St.,,,ESPN2 HD,9/13/2008 12:00,T
+,UL-Lafayette,Illinois,,,Big Ten Network HD,9/13/2008 12:00,T
+,Iowa St.,Iowa,,,Big Ten Network HD,9/13/2008 12:00,T
+,Montana St.,Minnesota,,,Big Ten Network HD,9/13/2008 12:00,T
+,Southern Illinois,Northwestern,,,Big Ten Network HD,9/13/2008 12:00,T
+,Nevada,Missouri,,,FSN HD,9/13/2008 12:30,T
+,UAB,Tennessee,,,Raycom Sports HD,9/13/2008 12:30,T
+,Toledo,Eastern Michigan,,,Web Video Available,9/13/2008 13:00,W
+,Ball St.,Akron,,,Web Video Available,9/13/2008 13:00,W
+,Stanford,TCU,,,The mtn.,9/13/2008 13:00,T
+,Missouri St.,Oklahoma St.,,,FOX College Sports,9/13/2008 13:00,T
+,Delaware St.,Kent St.,,,Web Video Available,9/13/2008 14:00,W
+,Charleston Southern,Miami (OH),,,Web Video Available,9/13/2008 15:00,W
+,East Carolina,Tulane,,,WITN,9/13/2008 15:00,T
+,Oregon,Purdue,,,ABC HD,9/13/2008 15:30,T
+,Georgia Tech,Virginia Tech,,,ABC,9/13/2008 15:30,T
+,Penn St.,Syracuse,,,ABC HD,9/13/2008 15:30,T
+,Michigan,Notre Dame,,,NBC HD,9/13/2008 15:30,T
+,Georgia,South Carolina,,,CBS HD,9/13/2008 15:30,T
+,UCLA,BYU,,,Versus,9/13/2008 15:30,T
+,Chattanooga,Florida St.,,,ESPNU HD,9/13/2008 15:45,T
+,Western Michigan,Idaho,,,Web Video Available,9/13/2008 17:00,W
+,Alcorn St.,Troy,,,Web Video Available,9/13/2008 19:00,W
+,Alabama A&M,UL-Monroe,,,Web Video Available,9/13/2008 19:00,W
+,Southern Miss,Arkansas St.,,,Web Video Available,9/13/2008 19:00,W
+,Auburn,Mississippi St.,,,ESPN2 HD,9/13/2008 19:00,T
+,Western Kentucky,Alabama,,,Crimson Tide PPV,9/13/2008 19:00,T
+,Middle Tennessee,Kentucky,,,Big Blue PPV,9/13/2008 19:00,T
+,Virginia,Connecticut,,,ESPNU HD,9/13/2008 19:00,T
+,SMU,Texas Tech,,,FSN Regional,9/13/2008 19:00,T
+,New Mexico St.,Nebraska,,,FSN PPV,9/13/2008 19:00,T
+,Memphis,Marshall,,,CSS,9/13/2008 19:00,T
+,North Texas,LSU,,,TigerVision PPV,9/13/2008 20:00,T
+,Bowling Green,Boise St.,,,KTVB,9/13/2008 20:00,T
+,Utah,Utah St.,,,KJZZ,9/13/2008 20:00,T
+,Arizona,New Mexico,,,CBS College Sports,9/13/2008 20:00,T
+,San Diego St.,San Jose St.,,,Web Video Available,9/13/2008 20:00,W
+,Wisconsin,Fresno St.,,,ESPN2 HD,9/13/2008 22:30,T
+,Kansas St.,Louisville,,,ESPN HD,9/17/2008 20:00,T
+,West Virginia,Colorado,,,ESPN HD,9/18/2008 20:30,T
+,Baylor,Connecticut,,,ESPN2 HD,9/19/2008 20:00,T
+,Buffalo,Missouri,,,,9/20/2008 0:00,N
+,Massachusetts,Texas Tech,,,,9/20/2008 0:00,N
+,Houston,Colorado St.,,,,9/20/2008 0:00,N
+,Vanderbilt,Ole Miss,,,,9/20/2008 0:00,N
+,Iowa,Pittsburgh,,,ESPN2 HD,9/20/2008 12:00,T
+,East Carolina,NC State,,,ESPN HD,9/20/2008 12:00,T
+,Mississippi St.,Georgia Tech,,,Raycom Sports HD,9/20/2008 12:00,T
+,FAU,Minnesota,,,Big Ten Network HD,9/20/2008 12:00,T
+,Ohio,Northwestern,,,Big Ten Network,9/20/2008 12:00,T
+,Troy,Ohio St.,,,Big Ten Network HD,9/20/2008 12:00,T
+,Temple,Penn St.,,,Big Ten Network HD,9/20/2008 12:00,T
+,Central Michigan,Purdue,,,Big Ten Network HD,9/20/2008 12:00,T
+,Alabama,Arkansas,,,Raycom Sports HD,9/20/2008 12:30,T
+,Akron,Army,,,ESPN Classic,9/20/2008 13:00,T
+,UCF,Boston College,,,ESPNU HD,9/20/2008 13:00,T
+,South Carolina St.,Clemson,,,ESPN360,9/20/2008 13:00,W
+,Eastern Michigan,Maryland,,,ESPN360,9/20/2008 13:00,W
+,UL-Monroe,Tulane,,,CST,9/20/2008 15:00,T
+,Indiana St.,Northern Illinois,,,CSN Chicago,9/20/2008 15:00,T
+,Wyoming,BYU,,,The mtn.,9/20/2008 15:00,T
+,Rutgers,Navy,,,CBS College Sports HD,9/20/2008 15:30,T
+,Florida,Tennessee,,,CBS HD,9/20/2008 15:30,T
+,Marshall,Southern Miss,,,CSS,9/20/2008 15:30,T
+,Notre Dame,Michigan St.,,,ABC HD,9/20/2008 15:30,T
+,Virginia Tech,North Carolina,,,ABC HD,9/20/2008 15:30,T
+,Northwestern,Syracuse,,,Big East Network,9/20/2008 15:30,T
+,Miami (FL),Texas A&M,,,ABC,9/20/2008 15:30,T
+,Alabama St.,UAB,,,Web Video Available,9/20/2008 16:00,W
+,Utah,Air Force,,,Versus,9/20/2008 16:00,T
+,Idaho,Utah St.,,,Altitude,9/20/2008 16:00,T
+,SE Louisiana,Louisiana Tech,,,ESPN Plus,9/20/2008 19:00,T
+,Murray St.,Western Kentucky,,,Web Video Available,9/20/2008 19:00,W
+,Kent St.,UL-Lafayette,,,Web Video Available,9/20/2008 19:00,W
+,Middle Tennessee,Arkansas St.,,,Web Video Available,9/20/2008 19:00,W
+,Wofford,South Carolina,,,Gamecocks PPV,9/20/2008 19:00,T
+,Tennessee Tech,Western Michigan,,,Web Video Available,9/20/2008 19:00,W
+,New Mexico,Tulsa,,,Web Video Available,9/20/2008 19:00,W
+,Ball St.,Indiana,,,Big Ten Network HD,9/20/2008 19:00,T
+,Rice,Texas,,,FSN HD,9/20/2008 19:00,T
+,Sam Houston St.,Kansas,,,FOX College Sports,9/20/2008 19:00,T
+,Wake Forest,Florida St.,,,ESPN2 HD,9/20/2008 19:00,T
+,Miami (OH),Cincinnati,,,ESPN360,9/20/2008 19:30,W
+,LSU,Auburn,,,ESPN HD,9/20/2008 19:45,T
+,Nicholls St.,Memphis,,,Web Video Available,9/20/2008 20:00,W
+,TCU,SMU,,,CBS College Sports,9/20/2008 20:00,T
+,Fresno St.,Toledo,,,ESPNU HD,9/20/2008 20:15,T
+,Iowa St.,UNLV,,,The mtn.,9/20/2008 21:00,T
+,New Mexico St.,UTEP,,,Web Video Available,9/20/2008 21:00,W
+,SMU,Tulane,,,CBS College Sports,9/25/2008 20:00,T
+,Connecticut,Louisville,,,ESPN2 HD,9/26/2008 20:00,T
+,UL-Lafayette,Kansas St.,,,,9/27/2008 0:00,N
+,Troy,Oklahoma St.,,,,9/27/2008 0:00,N
+,Weber St.,Utah,,,,9/27/2008 0:00,N
+,Northern Illinois,Eastern Michigan,,,ESPN Plus,9/27/2008 12:00,T
+,Kent St.,Ball St.,,,ESPN Plus,9/27/2008 12:00,T
+,Pittsburgh,Syracuse,,,Big East Network,9/27/2008 12:00,T
+,North Carolina,Miami (FL),,,ESPN2 HD,9/27/2008 12:00,T
+,Virginia,Duke,,,ESPNU HD,9/27/2008 12:00,T
+,Maryland,Clemson,,,Raycom Sports HD,9/27/2008 12:00,T
+,Michigan St.,Indiana,,,ESPN HD,9/27/2008 12:00,T
+,Northwestern,Iowa,,,ESPN Classic,9/27/2008 12:00,T
+,Minnesota,Ohio St.,,,Big Ten Network HD,9/27/2008 12:00,T
+,Army,Texas A&M,,,Versus,9/27/2008 12:30,T
+,Ole Miss,Florida,,,Raycom Sports HD,9/27/2008 12:30,T
+,Rhode Island,Boston College,,,ESPN360,9/27/2008 13:00,W
+,Arkansas St.,Memphis,,,Web Video Available,9/27/2008 14:00,W
+,VMI,Ohio,,,Web Video Available,9/27/2008 14:00,W
+,Western Michigan,Temple,,,Web Video Available,9/27/2008 14:00,W
+,Cincinnati,Akron,,,FOX Sports Ohio,9/27/2008 15:30,T
+,Purdue,Notre Dame,,,NBC HD,9/27/2008 15:30,T
+,Tennessee,Auburn,,,CBS HD,9/27/2008 15:30,T
+,Houston,East Carolina,,,CBS College Sports,9/27/2008 15:30,T
+,Wisconsin,Michigan,,,ABC HD,9/27/2008 15:30,T
+,Arkansas,Texas,,,ABC,9/27/2008 15:30,T
+,Morgan St.,Rutgers,,,Big East Network,9/27/2008 15:30,T
+,Marshall,West Virginia,,,Big East Network,9/27/2008 15:30,T
+,Navy,Wake Forest,,,ESPNU HD,9/27/2008 15:45,T
+,Buffalo,Central Michigan,,,Web Video Available,9/27/2008 16:00,W
+,Bowling Green,Wyoming,,,The mtn.,9/27/2008 16:00,T
+,FIU,Toledo,,,Web Video Available,9/27/2008 19:00,W
+,Western Kentucky,Kentucky,,,Big Blue Sports,9/27/2008 19:00,T
+,UAB,South Carolina,,,Gamecocks PPV,9/27/2008 19:00,T
+,TCU,Oklahoma,,,FSN HD,9/27/2008 19:00,T
+,Central Arkansas,Tulsa,,,Web Video Available,9/27/2008 19:00,W
+,USF,NC State,,,ESPNU HD,9/27/2008 19:30,T
+,Mississippi St.,LSU,,,ESPN2 HD,9/27/2008 19:30,T
+,Alabama,Georgia,,,ESPN HD,9/27/2008 19:45,T
+,New Mexico,New Mexico St.,,,AggieVision,9/27/2008 20:00,T
+,Virginia Tech,Nebraska,,,ABC HD,9/27/2008 20:00,T
+,UCF,UTEP,,,CBS College Sports,9/27/2008 20:00,T
+,Illinois,Penn St.,,,ABC HD,9/27/2008 20:00,T
+,Nevada,UNLV,,,The mtn.,9/27/2008 22:00,T
+,San Jose St.,Hawai'i,,,Oceanic PPV,9/27/2008 23:59,T
+,FAU,Middle Tennessee,,,ESPN2 HD,9/30/2008 20:00,T
+,Louisiana Tech,Boise St.,,,ESPN HD,10/1/2008 20:00,T
+,Pittsburgh,USF,,,ESPN HD,10/2/2008 19:30,T
+,Memphis,UAB,,,CBS College Sports,10/2/2008 20:00,T
+,Oregon St.,Utah,,,Versus,10/2/2008 21:00,T
+,BYU,Utah St.,,,KJZZ,10/3/2008 20:00,T
+,Cincinnati,Marshall,,,ESPN HD,10/3/2008 20:00,T
+,Texas A&M,Oklahoma St.,,,,10/4/2008 0:00,N
+,Alcorn St.,New Mexico St.,,,,10/4/2008 0:00,N
+,Duke,Georgia Tech,,,ESPNU HD,10/4/2008 12:00,T
+,Boston College,NC State,,,Raycom Sports HD,10/4/2008 12:00,T
+,Penn St.,Purdue,,,ESPN HD,10/4/2008 12:00,T
+,Iowa,Michigan St.,,,ESPN2 HD,10/4/2008 12:00,T
+,Indiana,Minnesota,,,Big Ten Network HD,10/4/2008 12:00,T
+,Rutgers,West Virginia,,,Big East Network,10/4/2008 12:00,T
+,Akron,Kent St.,,,ESPN Plus,10/4/2008 12:00,T
+,Florida,Arkansas,,,Raycom Sports HD,10/4/2008 12:30,T
+,Oklahoma,Baylor,,,FSN HD,10/4/2008 12:30,T
+,Kansas,Iowa St.,,,Versus,10/4/2008 12:30,T
+,Western Kentucky,Virginia Tech,,,ACC Select,10/4/2008 13:30,W
+,South Carolina,Ole Miss,,,Gamecocks PPV,10/4/2008 14:00,T
+,Ohio,Western Michigan,,,Web Video Available,10/4/2008 14:00,W
+,UNLV,Colorado St.,,,The mtn.,10/4/2008 14:00,T
+,Stanford,Notre Dame,,,NBC HD,10/4/2008 14:30,T
+,Army,Tulane,,,CST,10/4/2008 15:00,T
+,SMU,UCF,,,CBS College Sports,10/4/2008 15:30,T
+,Florida St.,Miami (FL),,,ABC HD,10/4/2008 15:30,T
+,Illinois,Michigan,,,ABC HD,10/4/2008 15:30,T
+,Texas Tech,Kansas St.,,,ABC,10/4/2008 15:30,T
+,Temple,Miami (OH),,,ONN,10/4/2008 15:30,T
+,Kentucky,Alabama,,,CBS HD,10/4/2008 15:30,T
+,Navy,Air Force,,,Versus,10/4/2008 16:00,T
+,Nevada,Idaho,,,KAME,10/4/2008 17:00,T
+,San Diego St.,TCU,,,The mtn.,10/4/2008 18:00,T
+,Auburn,Vanderbilt,,,ESPN HD,10/4/2008 18:00,T
+,Ball St.,Toledo,,,Web Video Available,10/4/2008 19:00,W
+,FIU,North Texas,,,ESPN Plus,10/4/2008 19:00,T
+,UL-Lafayette,UL-Monroe,,,Web Video Available,10/4/2008 19:00,W
+,Texas,Colorado,,,FSN HD,10/4/2008 19:00,T
+,Connecticut,North Carolina,,,ESPN2 HD,10/4/2008 19:00,T
+,Maryland,Virginia,,,ESPNU HD,10/4/2008 19:00,T
+,UTEP,Southern Miss,,,Time Warner-El Paso,10/4/2008 19:00,T
+,Rice,Tulsa,,,CBS College Sports,10/4/2008 20:00,T
+,Ohio St.,Wisconsin,,,ABC HD,10/4/2008 20:00,T
+,Missouri,Nebraska,,,ESPN HD,10/4/2008 21:00,T
+,Wyoming,New Mexico,,,The mtn.,10/4/2008 21:30,T
+,Hawai'i,Fresno St.,,,KAIL<br>Oceanic PPV,10/4/2008 22:00,T
+,Troy,FAU,,,ESPN2 HD,10/7/2008 20:00,T
+,Clemson,Wake Forest,,,ESPN HD,10/9/2008 19:30,T
+,UAB,Houston,,,CBS College Sports,10/9/2008 20:00,T
+,Louisville,Memphis,,,ESPN HD,10/10/2008 20:00,T
+,Gardner-Webb,Georgia Tech,,,,10/11/2008 0:00,N
+,Kansas St.,Texas A&M,,,,10/11/2008 0:00,N
+,Middle Tennessee,FIU,,,,10/11/2008 0:00,N
+,East Carolina,Virginia,,,Raycom Sports HD,10/11/2008 12:00,T
+,Minnesota,Illinois,,,ESPN HD,10/11/2008 12:00,T
+,Iowa,Indiana,,,Big Ten Network HD,10/11/2008 12:00,T
+,Toledo,Michigan,,,Big Ten Network HD,10/11/2008 12:00,T
+,Syracuse,West Virginia,,,ESPNU HD,10/11/2008 12:00,T
+,Rutgers,Cincinnati,,,Big East Network,10/11/2008 12:00,T
+,Colorado,Kansas,,,ESPN2 HD,10/11/2008 12:30,T
+,South Carolina,Kentucky,,,Raycom Sports HD,10/11/2008 12:30,T
+,Eastern Michigan,Army,,,ESPN Classic,10/11/2008 13:00,T
+,Utah,Wyoming,,,The mtn.,10/11/2008 14:00,T
+,Ohio,Kent St.,,,FOX Sports Ohio,10/11/2008 14:30,T
+,Vanderbilt,Mississippi St.,,,CSS PPV,10/11/2008 14:30,T
+,Nebraska,Texas Tech,,,FSN HD,10/11/2008 15:00,T
+,Purdue,Ohio St.,,,ABC HD,10/11/2008 15:30,T
+,Michigan St.,Northwestern,,,ESPN2 HD,10/11/2008 15:30,T
+,Notre Dame,North Carolina,,,ABC HD,10/11/2008 15:30,T
+,Tennessee,Georgia,,,CBS HD,10/11/2008 15:30,T
+,Western Michigan,Buffalo,,,Time Warner-NY,10/11/2008 15:30,T
+,TCU,Colorado St.,,,CBS College Sports,10/11/2008 15:30,T
+,UCF,Miami (FL),,,ESPNU HD,10/11/2008 15:45,T
+,New Mexico St.,Nevada,,,AggieVision,10/11/2008 16:00,T
+,Miami (OH),Northern Illinois,,,CSN Chicago,10/11/2008 16:00,T
+,Temple,Central Michigan,,,Web Video Available,10/11/2008 16:00,W
+,Arkansas,Auburn,,,CSS PPV,10/11/2008 17:00,T
+,Bowling Green,Akron,,,Web Video Available,10/11/2008 18:00,W
+,New Mexico,BYU,,,The mtn.,10/11/2008 18:00,T
+,UL-Monroe,Arkansas St.,,,ESPN Plus,10/11/2008 19:00,T
+,UL-Lafayette,North Texas,,,Web Video Available,10/11/2008 19:00,W
+,Ball St.,Western Kentucky,,,Web Video Available,10/11/2008 19:00,W
+,Iowa St.,Baylor,,,FOX College Sports,10/11/2008 19:00,T
+,Utah St.,San Jose St.,,,ESPNU HD,10/11/2008 19:30,T
+,LSU,Florida,,,CBS HD,10/11/2008 20:00,T
+,Oklahoma St.,Missouri,,,ESPN2 HD,10/11/2008 20:00,T
+,Boise St.,Southern Miss,,,CBS College Sports,10/11/2008 20:00,T
+,Tulsa,SMU,,,Web Video Available,10/11/2008 20:00,W
+,Penn St.,Wisconsin,,,ESPN HD,10/11/2008 20:00,T
+,Tulane,UTEP,,,Web Video Available,10/11/2008 21:00,W
+,Air Force,San Diego St.,,,The mtn.,10/11/2008 21:30,T
+,Idaho,Fresno St.,,,KBCI<br>KAIL,10/11/2008 22:00,T
+,Louisiana Tech,Hawai'i,,,Oceanic PPV,10/11/2008 23:59,T
+,BYU,TCU,,,Versus,10/16/2008 20:00,T
+,Hawai'i,Boise St.,,,ESPN HD,10/17/2008 20:00,T
+,Baylor,Oklahoma St.,,,,10/18/2008 0:00,N
+,Western Michigan,Central Michigan,,,ESPN Plus,10/18/2008 12:00,T
+,Miami (OH),Bowling Green,,,ESPN Plus,10/18/2008 12:00,T
+,Memphis,East Carolina,,,CSS<br>WITN,10/18/2008 12:00,T
+,Purdue,Northwestern,,,ESPN2 HD,10/18/2008 12:00,T
+,Wisconsin,Iowa,,,Big Ten Network HD,10/18/2008 12:00,T
+,Texas Tech,Texas A&M,,,FSN HD,10/18/2008 12:00,T
+,Connecticut,Rutgers,,,ESPNU HD,10/18/2008 12:00,T
+,Syracuse,USF,,,Big East Network,10/18/2008 12:00,T
+,Georgia Tech,Clemson,,,ESPN HD,10/18/2008 12:00,T
+,Wake Forest,Maryland,,,Raycom Sports HD,10/18/2008 12:00,T
+,Nebraska,Iowa St.,,,Versus,10/18/2008 12:30,T
+,Vanderbilt,Georgia,,,Raycom Sports HD,10/18/2008 12:30,T
+,Akron,Eastern Michigan,,,Web Video Available,10/18/2008 13:00,W
+,Colorado St.,Utah,,,The mtn.,10/18/2008 14:00,T
+,Southern Miss,Rice,,,Web Video Available,10/18/2008 15:00,W
+,Ohio St.,Michigan St.,,,ABC HD,10/18/2008 15:30,T
+,Kansas,Oklahoma,,,ABC HD,10/18/2008 15:30,T
+,North Carolina,Virginia,,,ABC,10/18/2008 15:30,T
+,Miami (FL),Duke,,,ESPNU HD,10/18/2008 15:30,T
+,Middle Tennessee,Louisville,,,Big East Network,10/18/2008 15:30,T
+,Army,Buffalo,,,Time Warner-NY,10/18/2008 15:30,T
+,Pittsburgh,Navy,,,CBS College Sports HD,10/18/2008 15:30,T
+,Ole Miss,Alabama,,,CBS HD,10/18/2008 15:30,T
+,Toledo,Northern Illinois,,,CSN Chicago,10/18/2008 16:00,T
+,Utah St.,Nevada,,,Web Video Available,10/18/2008 16:00,W
+,Marshall,UAB,,,Web Video Available,10/18/2008 16:00,W
+,Michigan,Penn St.,,,ESPN HD,10/18/2008 16:30,T
+,San Diego St.,New Mexico,,,The mtn.,10/18/2008 18:00,T
+,FAU,Western Kentucky,,,Web Video Available,10/18/2008 19:00,W
+,FIU,Troy,,,ESPN Plus,10/18/2008 19:00,T
+,North Texas,UL-Monroe,,,Web Video Available,10/18/2008 19:00,W
+,Arkansas St.,UL-Lafayette,,,Web Video Available,10/18/2008 19:00,W
+,Idaho,Louisiana Tech,,,ESPN Plus,10/18/2008 19:00,T
+,Arkansas,Kentucky,,,ESPNU HD,10/18/2008 19:00,T
+,Mississippi St.,Tennessee,,,Vol Network PPV,10/18/2008 19:00,T
+,Kansas St.,Colorado,,,FSN Regional,10/18/2008 19:00,T
+,Florida St.,NC State,,,ESPN HD,10/18/2008 19:30,T
+,Houston,SMU,,,Web Video Available,10/18/2008 20:00,W
+,UTEP,Tulsa,,,CBS College Sports,10/18/2008 20:00,T
+,Indiana,Illinois,,,Big Ten Network HD,10/18/2008 20:00,T
+,Missouri,Texas,,,ABC HD,10/18/2008 20:00,T
+,Virginia Tech,Boston College,,,ESPN2 HD,10/18/2008 20:00,T
+,LSU,South Carolina,,,ESPN HD,10/18/2008 20:00,T
+,San Jose St.,New Mexico St.,,,AggieVision,10/18/2008 20:00,T
+,Air Force,UNLV,,,The mtn.,10/18/2008 22:00,T
+,Ohio,Temple,,,ESPN2 HD,10/21/2008 20:00,T
+,Auburn,West Virginia,,,ESPN HD,10/23/2008 19:30,T
+,New Mexico,Air Force,,,CBS College Sports HD,10/23/2008 20:00,T
+,Boise St.,San Jose St.,,,ESPN2 HD,10/24/2008 21:00,T
+,Duke,Vanderbilt,,,,10/25/2008 0:00,N
+,Central Michigan,Toledo,,,ESPN Plus,10/25/2008 12:00,T
+,Eastern Michigan,Ball St.,,,Web Video Available,10/25/2008 12:00,W
+,Cincinnati,Connecticut,,,Big East Network,10/25/2008 12:00,T
+,Wake Forest,Miami (FL),,,ESPNU HD,10/25/2008 12:00,T
+,Boston College,North Carolina,,,Raycom Sports HD,10/25/2008 12:00,T
+,Texas Tech,Kansas,,,ESPN HD,10/25/2008 12:00,T
+,Illinois,Wisconsin,,,ESPN2 HD,10/25/2008 12:00,T
+,Minnesota,Purdue,,,ESPN Classic,10/25/2008 12:00,T
+,Northwestern,Indiana,,,Big Ten Network HD,10/25/2008 12:00,T
+,Baylor,Nebraska,,,Versus,10/25/2008 12:30,T
+,Kentucky,Florida,,,Raycom Sports HD,10/25/2008 12:30,T
+,Louisiana Tech,Army,,,ESPN360,10/25/2008 13:00,W
+,UNLV,BYU,,,The mtn.,10/25/2008 14:00,T
+,Fresno St.,Utah St.,,,KAIL,10/25/2008 15:00,T
+,Rice,Tulane,,,Web Video Available,10/25/2008 15:00,W
+,Michigan St.,Michigan,,,ABC HD,10/25/2008 15:30,T
+,Oklahoma St.,Texas,,,ABC HD,10/25/2008 15:30,T
+,Virginia Tech,Florida St.,,,ABC HD,10/25/2008 15:30,T
+,Virginia,Georgia Tech,,,ESPNU HD,10/25/2008 15:30,T
+,NC State,Maryland,,,ESPN360,10/25/2008 15:30,W
+,USF,Louisville,,,Big East Network,10/25/2008 15:30,T
+,Rutgers,Pittsburgh,,,ESPN360,10/25/2008 15:30,W
+,SMU,Navy,,,CBS College Sports HD,10/25/2008 15:30,T
+,Kent St.,Miami (OH),,,ONN,10/25/2008 15:30,T
+,Georgia,LSU,,,CBS HD,10/25/2008 15:30,T
+,Bowling Green,Northern Illinois,,,CSN Chicago,10/25/2008 16:00,T
+,New Mexico St.,Idaho,,,Altitude,10/25/2008 17:00,T
+,Wyoming,TCU,,,The mtn.,10/25/2008 18:00,T
+,Colorado,Missouri,,,FSN HD,10/25/2008 18:30,T
+,Texas A&M,Iowa St.,,,FOX College Sports,10/25/2008 19:00,T
+,FAU,UL-Monroe,,,ESPN Plus,10/25/2008 19:00,T
+,Troy,North Texas,,,Web Video Available,10/25/2008 19:00,W
+,Middle Tennessee,Mississippi St.,,,ESPNU HD,10/25/2008 19:00,T
+,Ole Miss,Arkansas,,,Razorbacks PPV<br>CSS PPV,10/25/2008 19:00,T
+,Alabama,Tennessee,,,ESPN HD,10/25/2008 19:45,T
+,Penn St.,Ohio St.,,,ABC HD,10/25/2008 20:00,T
+,Southern Miss,Memphis,,,CBS College Sports,10/25/2008 20:00,T
+,Colorado St.,San Diego St.,,,The mtn.,10/25/2008 21:30,T
+,Nevada,Hawai'i,,,KAME<br>Oceanic PPV,10/25/2008 23:59,T
+,UCF,Tulsa,,,ESPN HD,10/26/2008 20:00,T
+,Buffalo,Ohio,,,ESPNU HD,10/28/2008 19:00,T
+,Houston,Marshall,,,ESPN2 HD,10/28/2008 20:00,T
+,USF,Cincinnati,,,ESPN HD,10/30/2008 19:30,T
+,Missouri,Baylor,,,,11/1/2008 0:00,N
+,Colorado,Texas A&M,,,,11/1/2008 0:00,N
+,Air Force,Army,,,ESPNU HD,11/1/2008 12:00,T
+,West Virginia,Connecticut,,,Big East Network,11/1/2008 12:00,T
+,Miami (FL),Virginia,,,Raycom Sports HD,11/1/2008 12:00,T
+,Wisconsin,Michigan St.,,,ESPN HD,11/1/2008 12:00,T
+,Northwestern,Minnesota,,,ESPN2 HD,11/1/2008 12:00,T
+,Central Michigan,Indiana,,,Big Ten Network HD,11/1/2008 12:00,T
+,Michigan,Purdue,,,Big Ten Network HD,11/1/2008 12:00,T
+,Kansas St.,Kansas,,,FSN HD,11/1/2008 12:30,T
+,Auburn,Ole Miss,,,Raycom Sports HD,11/1/2008 12:30,T
+,Tulsa,Arkansas,,,Razorbacks PPV,11/1/2008 14:00,T
+,Eastern Michigan,Western Michigan,,,Web Video Available,11/1/2008 14:00,W
+,Kent St.,Bowling Green,,,Web Video Available,11/1/2008 14:00,W
+,San Diego St.,Wyoming,,,The mtn.,11/1/2008 14:00,T
+,Fresno St.,Louisiana Tech,,,KAIL,11/1/2008 14:30,T
+,Pittsburgh,Notre Dame,,,NBC HD,11/1/2008 14:30,T
+,Kentucky,Mississippi St.,,,Big Blue PPV,11/1/2008 14:30,T
+,Arkansas St.,Alabama,,,Crimson Tide PPV,11/1/2008 15:00,T
+,Hawai'i,Utah St.,,,ESPN Plus,11/1/2008 15:00,T
+,Temple,Navy,,,CBS College Sports HD,11/1/2008 15:30,T
+,Iowa St.,Oklahoma St.,,,ABC,11/1/2008 15:30,T
+,Florida St.,Georgia Tech,,,ABC HD,11/1/2008 15:30,T
+,Clemson,Boston College,,,ESPNU HD,11/1/2008 15:30,T
+,Duke,Wake Forest,,,ESPN360,11/1/2008 15:30,W
+,Iowa,Illinois,,,ABC HD,11/1/2008 15:30,T
+,North Texas,Western Kentucky,,,ESPN Plus,11/1/2008 16:30,T
+,FIU,UL-Lafayette,,,Web Video Available,11/1/2008 16:30,W
+,San Jose St.,Idaho,,,Web Video Available,11/1/2008 17:00,W
+,BYU,Colorado St.,,,The mtn.,11/1/2008 18:00,T
+,Troy,UL-Monroe,,,Web Video Available,11/1/2008 19:00,W
+,Boise St.,New Mexico St.,,,KTVB<br>AggieVision,11/1/2008 19:00,T
+,Tennessee,South Carolina,,,ESPN2 HD,11/1/2008 19:00,T
+,Louisville,Syracuse,,,ESPNU HD,11/1/2008 19:00,T
+,Texas,Texas Tech,,,ABC HD,11/1/2008 20:00,T
+,Nebraska,Oklahoma,,,ESPN HD,11/1/2008 20:00,T
+,UAB,Southern Miss,,,CSS,11/1/2008 20:00,T
+,Tulane,LSU,,,TigerVision PPV,11/1/2008 20:00,T
+,TCU,UNLV,,,CBS College Sports,11/1/2008 20:00,T
+,Rice,UTEP,,,Web Video Available,11/1/2008 21:00,W
+,Utah,New Mexico,,,The mtn.,11/1/2008 21:30,T
+,East Carolina,UCF,,,ESPN HD,11/2/2008 20:00,T
+,Miami (OH),Buffalo,,,ESPN2 HD,11/4/2008 19:30,T
+,Northern Illinois,Ball St.,,,ESPN2 HD,11/5/2008 20:00,T
+,Toledo,Akron,,,ESPNU HD,11/5/2008 20:00,T
+,Maryland,Virginia Tech,,,ESPN HD,11/6/2008 19:30,T
+,TCU,Utah,,,CBS College Sports HD,11/6/2008 20:00,T
+,Nevada,Fresno St.,,,ESPN2 HD,11/7/2008 21:00,T
+,UT-Martin,Auburn,,,,11/8/2008 0:00,N
+,North Texas,FAU,,,,11/8/2008 0:00,N
+,Arkansas St.,FIU,,,,11/8/2008 0:00,N
+,UL-Monroe,Middle Tennessee,,,,11/8/2008 0:00,N
+,Georgia Tech,North Carolina,,,Raycom Sports HD,11/8/2008 12:00,T
+,Rutgers,Syracuse,,,ESPNU HD,11/8/2008 12:00,T
+,Louisville,Pittsburgh,,,Big East Network,11/8/2008 12:00,T
+,Baylor,Texas,,,FSN HD,11/8/2008 12:00,T
+,Michigan,Minnesota,,,ESPN HD,11/8/2008 12:00,T
+,Ohio St.,Northwestern,,,ESPN2 HD,11/8/2008 12:00,T
+,Wisconsin,Indiana,,,Big Ten Network HD,11/8/2008 12:00,T
+,Purdue,Michigan St.,,,Big Ten Network HD,11/8/2008 12:00,T
+,Georgia,Kentucky,,,Raycom Sports HD,11/8/2008 12:30,T
+,Wyoming,Tennessee,,,Vol Network PPV,11/8/2008 13:00,T
+,Arkansas,South Carolina,,,Gamecocks PPV,11/8/2008 13:00,T
+,Iowa St.,Colorado,,,Versus,11/8/2008 13:30,T
+,Bowling Green,Ohio,,,Web Video Available,11/8/2008 14:00,W
+,San Diego St.,BYU,,,The mtn.,11/8/2008 14:00,T
+,Kansas,Nebraska,,,FSN PPV,11/8/2008 14:30,T
+,Army,Rice,,,Web Video Available,11/8/2008 15:00,W
+,Memphis,SMU,,,Web Video Available,11/8/2008 15:00,W
+,Utah St.,Boise St.,,,KTVB,11/8/2008 15:00,T
+,Southern Miss,UCF,,,Web Video Available,11/8/2008 15:30,W
+,Marshall,East Carolina,,,CBS College Sports,11/8/2008 15:30,T
+,Penn St.,Iowa,,,ABC HD,11/8/2008 15:30,T
+,NC State,Duke,,,ESPN360,11/8/2008 15:30,W
+,Oklahoma,Texas A&M,,,ABC,11/8/2008 15:30,T
+,Clemson,Florida St.,,,ABC HD,11/8/2008 15:30,T
+,Virginia,Wake Forest,,,ESPNU HD,11/8/2008 15:30,T
+,Western Kentucky,Troy,,,CSS,11/8/2008 15:30,T
+,Alabama,LSU,,,CBS HD,11/8/2008 15:30,T
+,Hawai'i,New Mexico St.,,,Oceanic PPV<br>AggieVision,11/8/2008 16:00,T
+,Colorado St.,Air Force,,,The mtn.,11/8/2008 18:00,T
+,UTEP,UL-Lafayette,,,ESPN Plus,11/8/2008 19:00,T
+,Florida,Vanderbilt,,,ESPN2 HD,11/8/2008 19:00,T
+,Cincinnati,West Virginia,,,ESPNU HD,11/8/2008 19:00,T
+,Kansas St.,Missouri,,,FSN HD,11/8/2008 19:00,T
+,Oklahoma St.,Texas Tech,,,ABC HD,11/8/2008 20:00,T
+,Notre Dame,Boston College,,,ESPN HD,11/8/2008 20:00,T
+,Tulane,Houston,,,CBS College Sports,11/8/2008 20:00,T
+,Louisiana Tech,San Jose St.,,,Web Video Available,11/8/2008 20:00,W
+,New Mexico,UNLV,,,The mtn.,11/8/2008 22:00,T
+,Ball St.,Miami (OH),,,ESPN2 HD,11/11/2008 19:00,T
+,Central Michigan,Northern Illinois,,,ESPN2 HD,11/12/2008 20:00,T
+,Temple,Kent St.,,,ESPN360,11/12/2008 20:00,W
+,Buffalo,Akron,,,ESPNU HD,11/13/2008 19:00,T
+,Virginia Tech,Miami (FL),,,ESPN HD,11/13/2008 19:30,T
+,Wyoming,UNLV,,,CBS College Sports HD,11/13/2008 21:00,T
+,Cincinnati,Louisville,,,ESPN2 HD,11/14/2008 20:00,T
+,Texas A&M,Baylor,,,,11/15/2008 0:00,N
+,UL-Monroe,Ole Miss,,,,11/15/2008 0:00,N
+,UL-Lafayette,FAU,,,,11/15/2008 0:00,N
+,Utah St.,Louisiana Tech,,,,11/15/2008 0:00,N
+,Rutgers,USF,,,Big East Network,11/15/2008 12:00,T
+,Duke,Clemson,,,Raycom Sports HD,11/15/2008 12:00,T
+,Ohio St.,Illinois,,,ESPN HD,11/15/2008 12:00,T
+,Northwestern,Michigan,,,ESPN2 HD,11/15/2008 12:00,T
+,Indiana,Penn St.,,,Big Ten Network HD,11/15/2008 12:00,T
+,Purdue,Iowa,,,Big Ten Network HD,11/15/2008 12:00,T
+,Texas,Kansas,,,FSN HD,11/15/2008 12:30,T
+,Georgia,Auburn,,,Raycom Sports HD,11/15/2008 12:30,T
+,Middle Tennessee,Western Kentucky,,,CSS,11/15/2008 13:00,T
+,New Mexico,Colorado St.,,,The mtn.,11/15/2008 14:00,T
+,Toledo,Western Michigan,,,FOX Sports Regional,11/15/2008 14:00,T
+,East Carolina,Southern Miss,,,WITN,11/15/2008 15:00,T
+,UAB,Tulane,,,Web Video Available,11/15/2008 15:00,W
+,Minnesota,Wisconsin,,,ABC HD,11/15/2008 15:30,T
+,North Carolina,Maryland,,,ABC HD,11/15/2008 15:30,T
+,Wake Forest,NC State,,,ESPNU HD,11/15/2008 15:30,T
+,Nebraska,Kansas St.,,,FSN PPV,11/15/2008 15:30,T
+,South Carolina,Florida,,,CBS HD,11/15/2008 15:30,T
+,BYU,Air Force,,,CBS College Sports,11/15/2008 15:30,T
+,San Jose St.,Nevada,,,Web Video Available,11/15/2008 16:00,W
+,UCF,Marshall,,,CSS,11/15/2008 16:30,T
+,Boise St.,Idaho,,,KTVB,11/15/2008 17:00,T
+,New Mexico St.,Fresno St.,,,AggieVision,11/15/2008 17:00,T
+,Missouri,Iowa St.,,,FSN HD,11/15/2008 18:30,T
+,Connecticut,Syracuse,,,ESPNU HD,11/15/2008 19:00,T
+,Mississippi St.,Alabama,,,ESPN HD,11/15/2008 19:45,T
+,Vanderbilt,Kentucky,,,ESPN2 HD,11/15/2008 20:00,T
+,Troy,LSU,,,TigerVision PPV,11/15/2008 20:00,T
+,Utah,San Diego St.,,,The mtn.,11/15/2008 20:00,T
+,Oklahoma St.,Colorado,,,ABC HD,11/15/2008 20:00,T
+,Tulsa,Houston,,,CBS College Sports,11/15/2008 20:00,T
+,Boston College,Florida St.,,,ABC HD,11/15/2008 20:00,T
+,SMU,UTEP,,,Web Video Available,11/15/2008 21:00,W
+,Northern Illinois,Kent St.,,,Web Video Available,11/18/2008 19:00,W
+,Ball St.,Central Michigan,,,ESPN2 HD,11/19/2008 19:00,T
+,Miami (FL),Georgia Tech,,,ESPN HD,11/20/2008 19:30,T
+,Buffalo,Bowling Green,,,BCSN,11/21/2008 18:00,T
+,Miami (OH),Toledo,,,Web Video Available,11/21/2008 19:00,W
+,Fresno St.,San Jose St.,,,ESPN2 HD,11/21/2008 21:30,T
+,Arkansas,Mississippi St.,,,,11/22/2008 0:00,N
+,North Texas,Middle Tennessee,,,,11/22/2008 0:00,N
+,FIU,UL-Monroe,,,,11/22/2008 0:00,N
+,NC State,North Carolina,,,Raycom Sports HD,11/22/2008 12:00,T
+,Clemson,Virginia,,,Raycom Sports HD,11/22/2008 12:00,T
+,Michigan,Ohio St.,,,ABC HD,11/22/2008 12:00,T
+,Indiana,Purdue,,,ESPN2 HD,11/22/2008 12:00,T
+,West Virginia,Louisville,,,ESPN HD,11/22/2008 12:00,T
+,Army,Rutgers,,,Big East Network,11/22/2008 12:00,T
+,Tennessee,Vanderbilt,,,Raycom Sports HD,11/22/2008 12:30,T
+,Eastern Michigan,Temple,,,Web Video Available,11/22/2008 13:00,W
+,Akron,Ohio,,,Web Video Available,11/22/2008 13:00,W
+,UCF,Memphis,,,Web Video Available,11/22/2008 13:00,W
+,Colorado St.,Wyoming,,,The mtn. HD,11/22/2008 14:00,T
+,Syracuse,Notre Dame,,,NBC HD,11/22/2008 14:30,T
+,FAU,Arkansas St.,,,ESPN Plus,11/22/2008 15:00,T
+,Tulane,Tulsa,,,Web Video Available,11/22/2008 15:00,W
+,UTEP,Houston,,,Web Video Available,11/22/2008 15:30,W
+,Marshall,Rice,,,CBS College Sports,11/22/2008 15:30,T
+,Michigan St.,Penn St.,,,ABC HD,11/22/2008 15:30,T
+,Cal-Poly,Wisconsin,,,Big Ten Network HD,11/22/2008 15:30,T
+,Illinois,Northwestern,,,Big Ten Network HD,11/22/2008 15:30,T
+,Boston College,Wake Forest,,,ABC HD,11/22/2008 15:30,T
+,Iowa St.,Kansas St.,,,FOX College Sports,11/22/2008 15:30,T
+,Air Force,TCU,,,Versus,11/22/2008 15:30,T
+,Ole Miss,LSU,,,CBS HD,11/22/2008 15:30,T
+,Louisiana Tech,New Mexico St.,,,ESPN Plus,11/22/2008 16:00,T
+,Boise St.,Nevada,,,ESPN2<br>KTVB,11/22/2008 16:00,T
+,BYU,Utah,,,The mtn. HD,11/22/2008 18:00,T
+,UL-Lafayette,Troy,,,Web Video Available,11/22/2008 19:00,W
+,Iowa,Minnesota,,,Big Ten Network,11/22/2008 19:00,T
+,East Carolina,UAB,,,CSS<br>WITN,11/22/2008 19:00,T
+,Pittsburgh,Cincinnati,,,ESPN2 HD,11/22/2008 19:15,T
+,Florida St.,Maryland,,,ESPN HD,11/22/2008 19:45,T
+,Texas Tech,Oklahoma,,,ABC HD,11/22/2008 20:00,T
+,UNLV,San Diego St.,,,CBS College Sports,11/22/2008 20:00,T
+,Idaho,Hawai'i,,,KBCI<br>Oceanic PPV,11/22/2008 23:00,T
+,Connecticut,USF,,,ESPN HD,11/23/2008 20:00,T
+,Ball St.,Western Michigan,,,ESPN2 HD,11/25/2008 19:00,T
+,Navy,Northern Illinois,,,ESPN Classic,11/25/2008 19:00,T
+,Texas A&M,Texas,,,ESPN HD,11/27/2008 20:00,T
+,West Virginia,Pittsburgh,,,ABC HD,11/28/2008 12:00,T
+,Ohio,Miami (OH),,,ESPNU,11/28/2008 12:30,T
+,Mississippi St.,Ole Miss,,,Raycom Sports HD,11/28/2008 12:30,T
+,Central Michigan,Eastern Michigan,,,Web Video Available,11/28/2008 13:00,W
+,Akron,Temple,,,Web Video Available,11/28/2008 13:00,W
+,UTEP,East Carolina,,,CBS College Sports,11/28/2008 13:00,T
+,LSU,Arkansas,,,CBS HD,11/28/2008 14:30,T
+,Bowling Green,Toledo,,,ESPN Classic,11/28/2008 15:30,T
+,Colorado,Nebraska,,,ABC HD,11/28/2008 15:30,T
+,Fresno St.,Boise St.,,,ESPN2 HD,11/28/2008 18:00,T
+,Tulsa,Marshall,,,,11/29/2008 0:00,N
+,FIU,FAU,,,,11/29/2008 0:00,N
+,Georgia Tech,Georgia,,,CBS HD,11/29/2008 12:00,T
+,Syracuse,Cincinnati,,,Big East Network,11/29/2008 12:00,T
+,Virginia,Virginia Tech,,,ESPN HD,11/29/2008 12:00,T
+,South Carolina,Clemson,,,ESPN2 HD,11/29/2008 12:00,T
+,Miami (FL),NC State,,,Raycom Sports HD,11/29/2008 12:00,T
+,Arkansas St.,North Texas,,,Web Video Available,11/29/2008 14:00,W
+,Nevada,Louisiana Tech,,,ESPN Plus,11/29/2008 14:30,T
+,New Mexico St.,Utah St.,,,AggieVision,11/29/2008 15:00,T
+,Southern Miss,SMU,,,Web Video Available,11/29/2008 15:00,W
+,UAB,UCF,,,Web Video Available,11/29/2008 15:30,W
+,Houston,Rice,,,CBS College Sports,11/29/2008 15:30,T
+,Tulane,Memphis,,,CSS,11/29/2008 15:30,T
+,Florida,Florida St.,,,ABC HD,11/29/2008 15:30,T
+,Maryland,Boston College,,,ABC HD,11/29/2008 15:30,T
+,North Carolina,Duke,,,ESPNU HD,11/29/2008 15:30,T
+,Baylor,Texas Tech,,,Versus,11/29/2008 15:30,T
+,Auburn,Alabama,,,CBS HD,11/29/2008 15:30,T
+,Kentucky,Tennessee,,,ESPN2 HD,11/29/2008 18:30,T
+,Vanderbilt,Wake Forest,,,ESPNU HD,11/29/2008 19:00,T
+,Oklahoma,Oklahoma St.,,,ABC HD,11/29/2008 20:00,T
+,Washington St.,Hawai'i,,,Oceanic PPV,11/29/2008 23:00,T
+,Middle Tennessee,UL-Lafayette,,,ESPN Plus,12/3/2008 19:00,T
+,Louisville,Rutgers,,,ESPN HD,12/4/2008 19:30,T
+,Western Kentucky,FIU,,,,12/6/2008 0:00,N
+,Pittsburgh,Connecticut,,,ESPN HD,12/6/2008 12:00,T
+,C-USA Championship<br>East Carolina,Tulsa,,,ESPN2 HD,12/6/2008 12:00,T
+,Arkansas St.,Troy,,,ESPN Plus,12/6/2008 19:00,T
+,USF,West Virginia,,,ESPN2 HD,12/6/2008 20:00,T
+,Cincinnati,Hawai'i,,,ESPN2 HD,12/6/2008 23:30,T
